@@ -13,7 +13,8 @@ and setups isolated and organised.
 
 | Branch | Resource | Type |
 |--------|----------|------|
-| `course/LLM Engineering Master Class by Dr. Ryan Ahmad` | Udemy Course | Course |
+| `Course/LLM Engineering Master Class by Dr. Ryan Ahmad` | Udemy Course | Course |
+| `Course/LLM Engineer Agentic Track: The Complete Agent & MCP Course by Edward Donner` | Udemy Course | Course |
 
 ---
 
