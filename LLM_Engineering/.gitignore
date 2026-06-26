@@ -1,0 +1,84 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.venv
+.git
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables & secrets
+.env
+.env.*
+secrets.json
+
+# OpenAI/API keys
+config.py
+credentials.json
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Model files
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Vector databases
+faiss_index/
+*.faiss
+*.pkl
+
+# ChromaDB
+chroma/
+chromadb/
+
+# Data files (optional)
+data/
+datasets/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# MLflow
+mlruns/
+
+# Weights & Biases
+wandb/
+
+# Cache directories
+.cache/
+
+# Course Material and directories
+Course_material/

@@ -1,0 +1,16 @@
+# Python environments (all projects)
+**/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
