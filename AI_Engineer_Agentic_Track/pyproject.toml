@@ -10,4 +10,5 @@ dependencies = [
     "ipykernel>=7.3.0",
     "openai-agents>=0.17.7",
     "rich>=15.0.0",
+    "sendgrid>=6.12.5",
 ]
