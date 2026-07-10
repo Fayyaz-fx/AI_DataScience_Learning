@@ -1,0 +1,226 @@
+- generic [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - button "Main menu" [ref=e6] [cursor=pointer]
+        - link "Google" [ref=e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic:
+            - button "Skip to main content" [ref=e16]
+            - button "Accessibility feedback" [ref=e19]
+          - navigation [ref=e23]:
+            - link "Explore" [ref=e26]
+            - link "Flights" [ref=e34]
+            - link "Hotels" [ref=e42]
+            - link "Vacation rentals" [ref=e53]
+        - generic [ref=e70]:
+          - button "Change appearance" [ref=e72]
+          - tooltip [ref=e75]: Change appearance
+      - generic [ref=e77]:
+        - button "Google apps" [ref=e81] [cursor=pointer]
+        - link "Sign in" [ref=e85] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BLondon%2Bto%2BGermany%2Bdirect&followup=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BLondon%2Bto%2BGermany%2Bdirect&ec=GAZAlQM
+  - generic [ref=e93]:
+    - heading "Flights" [level=1] [ref=e96]
+    - generic [ref=e97]:
+      - search "Flight" [ref=e99]:
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - combobox "Change ticket type. Round trip" [ref=e107] [cursor=pointer]:
+              - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=e113]:
+              - generic [ref=e116]: "1"
+            - combobox "Change seating class. Economy" [ref=e126] [cursor=pointer]:
+              - generic: Economy
+          - generic [ref=e128]:
+            - generic [ref=e129]:
+              - generic [ref=e135]:
+                - combobox "Where from?" [ref=e136]: London
+                - generic [ref=e137]: London
+              - generic [ref=e142]:
+                - button "Swap origin and destination." [disabled]
+              - generic [ref=e148]:
+                - combobox "Where to?" [active] [ref=e149]: Germany
+                - generic [ref=e150]: Germany
+            - generic [ref=e163]:
+              - textbox "Departure" [ref=e170]
+              - textbox "Return" [ref=e174]
+        - button "Explore destinations" [ref=e178]:
+          - generic [ref=e183]: Explore
+      - main [ref=e184]:
+        - generic [ref=e185]:
+          - navigation "Breadcrumbs" [ref=e186]:
+            - list [ref=e187]:
+              - listitem [ref=e188]:
+                - link "Flights" [ref=e189] [cursor=pointer]:
+                  - /url: https://www.google.com/travel/flights
+              - listitem [ref=e190]:
+                - generic [ref=e193]: To Germany
+          - heading "Cheap flights to Germany" [level=1] [ref=e194]
+          - generic [ref=e195]:
+            - generic [ref=e196]:
+              - heading "Find cheap flights from nearby cities to Germany" [level=2] [ref=e197]
+              - button "Learn more about this section" [ref=e200] [cursor=pointer]
+            - generic [ref=e204]:
+              - tablist [ref=e208]:
+                - tab "London" [selected] [ref=e209] [cursor=pointer]
+                - tab "Dubai" [ref=e210] [cursor=pointer]
+                - tab "Abu Dhabi" [ref=e211] [cursor=pointer]
+              - list [ref=e212]:
+                - listitem [ref=e213]:
+                  - button "Find flights from London (LHR) to Frankfurt am Main (FRA) from AED 703. Operated by British Airways. Sep 17 to Sep 21. Nonstop" [ref=e214] [cursor=pointer]:
+                    - generic [ref=e215]:
+                      - generic [ref=e216]: London
+                      - generic [ref=e219]: Frankfurt am Main
+                    - generic [ref=e220]:
+                      - generic [ref=e221]: Sep 17 — Sep 21
+                      - generic [ref=e222]:
+                        - generic [ref=e223]: ·
+                        - text: Nonstop
+                    - generic [ref=e224]: from AED 703
+                - listitem [ref=e229]:
+                  - button "Find flights from London (LGW) to Munich (MUC) from AED 406. Operated by easyJet. Oct 8 to Oct 12. Nonstop" [ref=e230] [cursor=pointer]:
+                    - generic [ref=e231]:
+                      - generic [ref=e232]: London
+                      - generic [ref=e235]: Munich
+                    - generic [ref=e236]:
+                      - generic [ref=e237]: Oct 8 — Oct 12
+                      - generic [ref=e238]:
+                        - generic [ref=e239]: ·
+                        - text: Nonstop
+                    - generic [ref=e240]: from AED 406
+                - listitem [ref=e245]:
+                  - button "Find flights from London (STN) to Berlin (BER) from AED 288. Operated by Ryanair. Oct 3 to Oct 5. Nonstop" [ref=e246] [cursor=pointer]:
+                    - generic [ref=e247]:
+                      - generic [ref=e248]: London
+                      - generic [ref=e251]: Berlin
+                    - generic [ref=e252]:
+                      - generic [ref=e253]: Oct 3 — Oct 5
+                      - generic [ref=e254]:
+                        - generic [ref=e255]: ·
+                        - text: Nonstop
+                    - generic [ref=e256]: from AED 288
+                - text: · · · · · ·
+              - generic [ref=e261]:
+                - button "Explore more destinations in Germany" [ref=e262] [cursor=pointer]
+                - button [ref=e263]:
+                  - generic [ref=e266]: Explore Germany
+          - generic [ref=e267]:
+            - heading "Popular flight destinations in Germany" [level=2] [ref=e268]
+            - generic [ref=e271]:
+              - link "City image for Frankfurt am Main Frankfurt am Main" [ref=e273] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-frankfurt-am-main.html
+                - img "City image for Frankfurt am Main" [ref=e275]
+                - generic [ref=e276]: Frankfurt am Main
+              - link "City image for Munich Munich" [ref=e278] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-munich.html
+                - img "City image for Munich" [ref=e280]
+                - generic [ref=e281]: Munich
+              - link "City image for Berlin Berlin" [ref=e283] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-berlin.html
+                - img "City image for Berlin" [ref=e285]
+                - generic [ref=e286]: Berlin
+              - link "City image for Düsseldorf Düsseldorf" [ref=e288] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-dusseldorf.html
+                - img "City image for Düsseldorf" [ref=e290]
+                - generic [ref=e291]: Düsseldorf
+              - link "City image for Hamburg Hamburg" [ref=e293] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-hamburg.html
+                - img "City image for Hamburg" [ref=e295]
+                - generic [ref=e296]: Hamburg
+              - link "City image for Cologne Cologne" [ref=e298] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-cologne.html
+                - img "City image for Cologne" [ref=e300]
+                - generic [ref=e301]: Cologne
+              - link "City image for Stuttgart Stuttgart" [ref=e303] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-stuttgart.html
+                - img "City image for Stuttgart" [ref=e305]
+                - generic [ref=e306]: Stuttgart
+              - link "City image for Hanover Hanover" [ref=e308] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-hanover.html
+                - img "City image for Hanover" [ref=e310]
+                - generic [ref=e311]: Hanover
+              - link "City image for Nuremberg Nuremberg" [ref=e313] [cursor=pointer]:
+                - /url: https://www.google.com/travel/flights/flights-to-nuremberg.html
+                - img "City image for Nuremberg" [ref=e315]
+                - generic [ref=e316]: Nuremberg
+          - generic [ref=e317]:
+            - heading "Frequently asked questions" [level=2] [ref=e319]
+            - group "Frequently asked questions" [ref=e320]:
+              - generic [ref=e322] [cursor=pointer]:
+                - generic [ref=e323]: When should you fly to Germany?
+                - button "When should you fly to Germany?" [ref=e326]
+              - generic [ref=e332] [cursor=pointer]:
+                - generic [ref=e333]: What are popular cities to fly to in Germany?
+                - button "What are popular cities to fly to in Germany?" [ref=e336]
+              - generic [ref=e342] [cursor=pointer]:
+                - generic [ref=e343]: What are the most popular airports in Germany?
+                - button "What are the most popular airports in Germany?" [ref=e346]
+              - generic [ref=e352] [cursor=pointer]:
+                - generic [ref=e353]: How can I find cheap flights to Germany?
+                - button "How can I find cheap flights to Germany?" [ref=e356]
+              - generic [ref=e362] [cursor=pointer]:
+                - generic [ref=e363]: Can I use Google Flights to find multi-city trips within Germany?
+                - button "Can I use Google Flights to find multi-city trips within Germany?" [ref=e366]
+              - generic [ref=e372] [cursor=pointer]:
+                - generic [ref=e373]: What are the cheapest days to fly to Germany?
+                - button "What are the cheapest days to fly to Germany?" [ref=e376]
+          - heading "Search more flights" [level=2] [ref=e381]
+          - generic [ref=e382]:
+            - heading "Find cheap flights on popular routes" [level=3] [ref=e383]
+            - generic [ref=e385]:
+              - tablist [ref=e386]:
+                - generic [ref=e389]:
+                  - tab "Flights to other regions" [selected] [ref=e391] [cursor=pointer]
+                  - tab "Flights from cities in Germany" [ref=e394] [cursor=pointer]
+              - tabpanel "Flights to other regions" [ref=e397]:
+                - generic [ref=e399]:
+                  - link "Flights to Hessen" [ref=e400] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights/region/flights-to-hessen.html
+                  - link "Flights to Saxony" [ref=e401] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights/region/flights-to-saxony.html
+                  - link "Flights to North Rhine-Westphalia" [ref=e402] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights/region/flights-to-north-rhine-westphalia.html
+                  - link "Flights to Baden-Württemberg" [ref=e403] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights/region/flights-to-baden-wurttemberg.html
+                  - link "Flights to Mecklenburg-Vorpommern" [ref=e404] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights/region/flights-to-mecklenburg-vorpommern.html
+                  - link "Flights to Luxembourg" [ref=e405] [cursor=pointer]:
+                    - /url: https://www.google.com/travel/flights/region/flights-to-luxembourg.html
+      - contentinfo [ref=e408]:
+        - generic [ref=e410]:
+          - button "Language·English (United States)" [ref=e411]
+          - button "Location·United Arab Emirates" [ref=e417]
+          - button "Currency AED" [ref=e424]:
+            - generic [ref=e436]: Currency·AED
+        - generic [ref=e438]:
+          - paragraph [ref=e439]: "Current language and currency options applied: English (United States) - United Arab Emirates - AED"
+          - paragraph [ref=e440]:
+            - text: Displayed currencies may differ from the currencies used to purchase flights.
+            - link "Learn more about currencies" [ref=e441] [cursor=pointer]:
+              - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=AE
+              - text: Learn more
+          - paragraph [ref=e442]: Prices are final prices and include all taxes and fees, including payment fees for the cheapest common payment method (which may differ depending on the provider). Additional charges may apply for other types of payment, luggage, meals, WLAN or other additional services. Prices, availability and travel details are provided based on the latest information received from our partners. This information is reflected in the results within a period of less than 24 hours. Additional conditions may also be applied by our partners. You should then check prices and conditions with the services providers before booking.
+        - generic [ref=e443]:
+          - link "About Google Travel" [ref=e444] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=e445] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=e446] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=e447] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=e448] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=e449] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - generic [ref=e451]:
+          - generic [ref=e455]:
+            - generic [ref=e456] [cursor=pointer]: International sites
+            - button "International sites" [ref=e459]
+          - generic [ref=e467]:
+            - generic [ref=e468] [cursor=pointer]: Explore flights
+            - button "Explore flights" [ref=e471]

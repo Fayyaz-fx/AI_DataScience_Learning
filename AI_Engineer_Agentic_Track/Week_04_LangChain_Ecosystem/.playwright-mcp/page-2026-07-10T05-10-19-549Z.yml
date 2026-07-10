@@ -1,0 +1,319 @@
+- generic [active] [ref=f5e1]:
+  - generic:
+    - generic:
+      - link "التخطي إلى المحتوى الرئيسي" [ref=f5e2] [cursor=pointer]
+      - link "مساعدة بشأن إمكانية الوصول" [ref=f5e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=ar-AE
+  - generic [ref=f5e8]:
+    - search [ref=f5e9]:
+      - generic [ref=f5e11]:
+        - link [ref=f5e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=ar&ictx=2&sa=X&ved=0ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8QPQgK
+          - 'img "كأس العالم 2026: فنّ ضربات الرأس" [ref=f5e14]'
+        - generic [ref=f5e15]:
+          - generic [ref=f5e16]:
+            - combobox "بحث" [ref=f5e19]: weather forecast Munich Germany October 1 2026 weather forecast Munich Germany October 1 2026
+            - generic [ref=f5e20]:
+              - button "محو" [ref=f5e22] [cursor=pointer]
+              - generic [ref=f5e27]:
+                - button "أدوات الإدخال" [ref=f5e28] [cursor=pointer]
+                - button "البحث الصوتي" [ref=f5e32] [cursor=pointer]
+                - button "بحث بالصور" [ref=f5e35] [cursor=pointer]
+          - button "بحث" [ref=f5e38] [cursor=pointer]
+    - generic [ref=f5e43]:
+      - button "الإعدادات" [ref=f5e45] [cursor=pointer]
+      - button "مشاركة" [ref=f5e51] [cursor=pointer]
+      - generic [ref=f5e57]:
+        - button "تطبيقات Google" [ref=f5e59] [cursor=pointer]
+        - link "تسجيل الدخول" [ref=f5e64] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=ar&passive=true&continue=https://www.google.com/search%3Fq%3Dweather%2Bforecast%2BMunich%2BGermany%2BOctober%2B1%2B2026%26sei%3Dun5QatDvK52BhbIP55fy8AY&ec=futura_srp_og_si_72236_p
+  - generic [ref=f5e66]:
+    - navigation [ref=f5e72]:
+      - generic [ref=f5e78]:
+        - list [ref=f5e79]:
+          - listitem [ref=f5e80]:
+            - link "وضع AI" [ref=f5e83] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&udm=50&fbs=ABfTbFWMfjoUAdnLNaHDvXEkL4moUHr9zVR8FjeqwUUeUKMVZMitgSvQRw9cKxKncIF1iUncjECuqBeGkD8OBWTQ7wNZSoPaiF2UayON53hsiB4tG6jZyU9jrgVF7-lLcH5MAV1juyR0fBN81idyr8SGXHJfqIXcZ3oie_nAvscPM5Lwp3_MIMTw_IIr7MFSzRx638C7JAk3ebEX9g2dZlweXYKR0VJLiphRYGNwBX4WbCAUdbRNaD4DX1x6OgnecuBqZSP-dfhAZA3QbuWXdN8ksFCfEpHpcQ&aep=1&ntc=1&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q2J8OegQIERAD
+          - listitem [ref=f5e87]:
+            - link "الكل" [disabled] [ref=f5e88]
+          - listitem [ref=f5e91]:
+            - link "أخبار" [ref=f5e92] [cursor=pointer]:
+              - /url: /search?sca_esv=c4fc576c592d0c35&q=weather+forecast+Munich+Germany+October+1+2026&tbm=nws&source=lnms&fbs=ABfTbFWMfjoUAdnLNaHDvXEkL4moUHr9zVR8FjeqwUUeUKMVZMitgSvQRw9cKxKncIF1iUncjECuqBeGkD8OBWTQ7wNZSoPaiF2UayON53hsiB4tG6jZyU9jrgVF7-lLcH5MAV1juyR0fBN81idyr8SGXHJfqIXcZ3oie_nAvscPM5Lwp3_MIMTw_IIr7MFSzRx638C7JAk3ebEX9g2dZlweXYKR0VJLiphRYGNwBX4WbCAUdbRNaD4DX1x6OgnecuBqZSP-dfhAZA3QbuWXdN8ksFCfEpHpcQ&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q0pQJegQIIBAB
+          - listitem [ref=f5e95]:
+            - link "صور" [ref=f5e96] [cursor=pointer]:
+              - /url: /search?sca_esv=c4fc576c592d0c35&udm=2&fbs=ABfTbFWMfjoUAdnLNaHDvXEkL4moUHr9zVR8FjeqwUUeUKMVZMitgSvQRw9cKxKncIF1iUncjECuqBeGkD8OBWTQ7wNZSoPaiF2UayON53hsiB4tG6jZyU9jrgVF7-lLcH5MAV1juyR0fBN81idyr8SGXHJfqIXcZ3oie_nAvscPM5Lwp3_MIMTw_IIr7MFSzRx638C7JAk3ebEX9g2dZlweXYKR0VJLiphRYGNwBX4WbCAUdbRNaD4DX1x6OgnecuBqZSP-dfhAZA3QbuWXdN8ksFCfEpHpcQ&q=weather+forecast+Munich+Germany+October+1+2026&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8QtKgLegQIFBAB
+          - listitem [ref=f5e99]:
+            - link "فيديوهات" [ref=f5e100] [cursor=pointer]:
+              - /url: /search?sca_esv=c4fc576c592d0c35&udm=7&fbs=ABfTbFWMfjoUAdnLNaHDvXEkL4moUHr9zVR8FjeqwUUeUKMVZMitgSvQRw9cKxKncIF1iUncjECuqBeGkD8OBWTQ7wNZSoPaiF2UayON53hsiB4tG6jZyU9jrgVF7-lLcH5MAV1juyR0fBN81idyr8SGXHJfqIXcZ3oie_nAvscPM5Lwp3_MIMTw_IIr7MFSzRx638C7JAk3ebEX9g2dZlweXYKR0VJLiphRYGNwBX4WbCAUdbRNaD4DX1x6OgnecuBqZSP-dfhAZA3QbuWXdN8ksFCfEpHpcQ&q=weather+forecast+Munich+Germany+October+1+2026&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8QtKgLegQIExAB
+          - listitem [ref=f5e103]:
+            - link "تسوّق" [ref=f5e104] [cursor=pointer]:
+              - /url: /search?sca_esv=c4fc576c592d0c35&udm=28&fbs=ABfTbFWMfjoUAdnLNaHDvXEkL4moUHr9zVR8FjeqwUUeUKMVZMitgSvQRw9cKxKncIF1iUncjECuqBeGkD8OBWTQ7wNZSoPaiF2UayON53hsiB4tG6jZyU9jrgVF7-lLcH5MAV1juyR0fBN81idyr8SGXHJfqIXcZ3oie_nAvscPM5Lwp3_MIMTw_IIr7MFSzRx638C7JAk3ebEX9g2dZlweXYKR0VJLiphRYGNwBX4WbCAUdbRNaD4DX1x6OgnecuBqZSP-dfhAZA3QbuWXdN8ksFCfEpHpcQ&q=weather+forecast+Munich+Germany+October+1+2026&ved=1t:220175&ictx=111
+          - listitem [ref=f5e107]:
+            - link "فيديوهات قصيرة" [ref=f5e108] [cursor=pointer]:
+              - /url: /search?sca_esv=c4fc576c592d0c35&udm=39&fbs=ABfTbFWMfjoUAdnLNaHDvXEkL4moUHr9zVR8FjeqwUUeUKMVZMitgSvQRw9cKxKncIF1iUncjECuqBeGkD8OBWTQ7wNZSoPaiF2UayON53hsiB4tG6jZyU9jrgVF7-lLcH5MAV1juyR0fBN81idyr8SGXHJfqIXcZ3oie_nAvscPM5Lwp3_MIMTw_IIr7MFSzRx638C7JAk3ebEX9g2dZlweXYKR0VJLiphRYGNwBX4WbCAUdbRNaD4DX1x6OgnecuBqZSP-dfhAZA3QbuWXdN8ksFCfEpHpcQ&q=weather+forecast+Munich+Germany+October+1+2026&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Qs6gLegQIFhAB
+          - listitem [ref=f5e111]:
+            - button [ref=f5e112] [cursor=pointer]:
+              - generic "فلاتر إضافية" [ref=f5e113]: المزيد
+        - button "الأدوات" [ref=f5e120] [cursor=pointer]
+    - heading "نتائج البحث" [level=1] [ref=f5e127]
+    - generic [ref=f5e133]:
+      - generic [ref=f5e134]: Looking for results in English?
+      - link [ref=f5e135] [cursor=pointer]:
+        - /url: "#"
+      - link "Change to English" [ref=f5e139] [cursor=pointer]:
+        - /url: /setprefs?sig=0_waEOSpaFIwnR3Kp0h3cB7PuQGJg%3D&source=en_ignored_notification&prev=https://www.google.com/search?q%3Dweather%2Bforecast%2BMunich%2BGermany%2BOctober%2B1%2B2026%26sei%3Dun5QatDvK52BhbIP55fy8AY&hl=en&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8QhoQCKAF6BAgOEAQ
+      - link "الاستمرار باللغة العربية" [ref=f5e140] [cursor=pointer]:
+        - /url: "#"
+      - link "إعدادات اللغة" [ref=f5e142] [cursor=pointer]:
+        - /url: /preferences?lang=1&hl=ar-AE&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8QiIQCKAN6BAgOEAY#languages
+    - generic [ref=f5e143]:
+      - generic [ref=f5e162]:
+        - heading "بحث طلبك يحتاج إلى مزيد من التفكير" [level=2] [ref=f5e166]:
+          - generic [ref=f5e167]:
+            - generic [ref=f5e168]: بحث
+            - generic [ref=f5e178]: طلبك يحتاج إلى مزيد من التفكير
+        - progressbar "جارٍ الإنشاء" [ref=f5e181]
+      - main [ref=f5e232]:
+        - generic [ref=f5e236]:
+          - generic [ref=f5e239]:
+            - heading "Web results" [level=2] [ref=f5e240]
+            - generic [ref=f5e241]:
+              - generic [ref=f5e244]:
+                - link "Munich, Bavaria, Germany Monthly Weather AccuWeather https://www.accuweather.com › oct..." [ref=f5e246] [cursor=pointer]:
+                  - /url: https://www.accuweather.com/en/de/munich/80331/october-weather/178086
+                  - heading "Munich, Bavaria, Germany Monthly Weather" [level=3] [ref=f5e247]
+                  - generic [ref=f5e253]:
+                    - generic [ref=f5e254]: AccuWeather
+                    - generic [ref=f5e257]:
+                      - text: https://www.accuweather.com
+                      - generic [ref=f5e258]: › oct...
+                - generic [ref=f5e259]:
+                  - generic [ref=f5e260]: ·
+                  - link "ترجم هذه الصفحة" [ref=f5e261] [cursor=pointer]:
+                    - /url: https://www.accuweather.com/en/de/munich/80331/october-weather/178086
+                - button "معلومات حول هذه النتيجة" [ref=f5e264] [cursor=pointer]
+              - generic [ref=f5e271]:
+                - text: Munich's October 2026 forecast shows
+                - emphasis [ref=f5e272]: daily high temperatures ranging from 57° to 70°
+                - text: ", with overnight lows between 39° and 51°. The average high for October is ..."
+          - generic [ref=f5e276]:
+            - generic [ref=f5e279]:
+              - link "München, Bavaria, Germany Monthly Weather AccuWeather https://www.accuweather.com › oct..." [ref=f5e281] [cursor=pointer]:
+                - /url: https://www.accuweather.com/en/de/m%C3%BCnchen/94116/october-weather/1006795
+                - heading "München, Bavaria, Germany Monthly Weather" [level=3] [ref=f5e282]
+                - generic [ref=f5e288]:
+                  - generic [ref=f5e289]: AccuWeather
+                  - generic [ref=f5e292]:
+                    - text: https://www.accuweather.com
+                    - generic [ref=f5e293]: › oct...
+              - generic [ref=f5e294]:
+                - generic [ref=f5e295]: ·
+                - link "ترجم هذه الصفحة" [ref=f5e296] [cursor=pointer]:
+                  - /url: https://www.accuweather.com/en/de/m%C3%BCnchen/94116/october-weather/1006795
+              - button "معلومات حول هذه النتيجة" [ref=f5e299] [cursor=pointer]
+            - generic [ref=f5e306]:
+              - text: München's October 2026 forecast shows
+              - emphasis [ref=f5e307]: daily high temperatures ranging from 54° to 64°
+              - text: ", with overnight lows between 37° and 45°. The average high for October ..."
+          - generic [ref=f5e312]:
+            - heading "أسئلة أخرى" [level=2] [ref=f5e314]
+            - generic [ref=f5e315]:
+              - button "Is it cold in Munich in October?" [ref=f5e321] [cursor=pointer]
+              - button "Will it be cold in Germany in October?" [ref=f5e335] [cursor=pointer]
+              - button "Is Munich worth visiting in October?" [ref=f5e349] [cursor=pointer]
+              - button "Is Oct a good time to visit Germany?" [ref=f5e363] [cursor=pointer]
+          - generic [ref=f5e373]:
+            - heading "Web results" [level=2] [ref=f5e374]
+            - generic [ref=f5e375]:
+              - generic [ref=f5e378]:
+                - link "Munich weather in October 2026 Weather25.com https://www.weather25.com › bavaria" [ref=f5e380] [cursor=pointer]:
+                  - /url: https://www.weather25.com/europe/germany/bavaria/munich?page=month&month=October
+                  - heading "Munich weather in October 2026" [level=3] [ref=f5e381]
+                  - generic [ref=f5e387]:
+                    - generic [ref=f5e388]: Weather25.com
+                    - generic [ref=f5e391]:
+                      - text: https://www.weather25.com
+                      - generic [ref=f5e392]: › bavaria
+                - generic [ref=f5e393]:
+                  - generic [ref=f5e394]: ·
+                  - link "ترجم هذه الصفحة" [ref=f5e395] [cursor=pointer]:
+                    - /url: https://www.weather25.com/europe/germany/bavaria/munich?page=month&month=October
+                - button "معلومات حول هذه النتيجة" [ref=f5e398] [cursor=pointer]
+              - generic [ref=f5e405]:
+                - text: The temperatures
+                - emphasis [ref=f5e406]: in Munich in October
+                - text: are quite cold with temperatures between 41°F and 57°F, warm clothes are a must. You can expect about 3 to 8 days of rain ...
+          - generic [ref=f5e410]:
+            - generic [ref=f5e413]:
+              - link "Munich weather in October 2026 Sunheron https://www.sunheron.com › bavaria" [ref=f5e415] [cursor=pointer]:
+                - /url: https://www.sunheron.com/europe/germany/bavaria/munich-weather-october/
+                - heading "Munich weather in October 2026" [level=3] [ref=f5e416]
+                - generic [ref=f5e422]:
+                  - generic [ref=f5e423]: Sunheron
+                  - generic [ref=f5e426]:
+                    - text: https://www.sunheron.com
+                    - generic [ref=f5e427]: › bavaria
+              - generic [ref=f5e428]:
+                - generic [ref=f5e429]: ·
+                - link "ترجم هذه الصفحة" [ref=f5e430] [cursor=pointer]:
+                  - /url: https://www.sunheron.com/europe/germany/bavaria/munich-weather-october/
+              - button "معلومات حول هذه النتيجة" [ref=f5e433] [cursor=pointer]
+            - generic [ref=f5e440]:
+              - text: In October in Munich, the
+              - emphasis [ref=f5e441]: average air temperature ranges from 15 °C (58 °F) during the day to 6 °C (42 °F) at night
+              - text: . There are 10 days of rain on average.
+          - generic [ref=f5e445]:
+            - generic [ref=f5e448]:
+              - link "Munich, Weather for October, Germany Holiday Weather https://www.holiday-weather.com › o..." [ref=f5e450] [cursor=pointer]:
+                - /url: https://www.holiday-weather.com/munich/averages/october/
+                - heading "Munich, Weather for October, Germany" [level=3] [ref=f5e451]
+                - generic [ref=f5e457]:
+                  - generic [ref=f5e458]: Holiday Weather
+                  - generic [ref=f5e461]:
+                    - text: https://www.holiday-weather.com
+                    - generic [ref=f5e462]: › o...
+              - generic [ref=f5e463]:
+                - generic [ref=f5e464]: ·
+                - link "ترجم هذه الصفحة" [ref=f5e465] [cursor=pointer]:
+                  - /url: https://www.holiday-weather.com/munich/averages/october/
+              - button "معلومات حول هذه النتيجة" [ref=f5e468] [cursor=pointer]
+            - generic [ref=f5e475]:
+              - text: For example,
+              - emphasis [ref=f5e476]: October 1 is likely to have low temperatures around 7C (44.6F
+              - text: ) and daily highs around 14C (57.2F). October 31, on the other hand, features average ...
+          - generic [ref=f5e480]:
+            - generic [ref=f5e483]:
+              - 'link "Germany weather in October 2026: How hot & sunny? Weather2Travel.com https://www.weather2travel.com › o..." [ref=f5e485] [cursor=pointer]':
+                - /url: https://www.weather2travel.com/germany/october/
+                - 'heading "Germany weather in October 2026: How hot & sunny?" [level=3] [ref=f5e486]'
+                - generic [ref=f5e492]:
+                  - generic [ref=f5e493]: Weather2Travel.com
+                  - generic [ref=f5e496]:
+                    - text: https://www.weather2travel.com
+                    - generic [ref=f5e497]: › o...
+              - generic [ref=f5e498]:
+                - generic [ref=f5e499]: ·
+                - link "ترجم هذه الصفحة" [ref=f5e500] [cursor=pointer]:
+                  - /url: https://www.weather2travel.com/germany/october/
+              - button "معلومات حول هذه النتيجة" [ref=f5e503] [cursor=pointer]
+            - generic [ref=f5e510]:
+              - text: Expect
+              - emphasis [ref=f5e511]: daytime maximum temperatures of 13°C
+              - text: in Germany in October based on long-term weather averages. There are 4 hours of sunshine per day on average.
+          - generic [ref=f5e515]:
+            - generic [ref=f5e518]:
+              - link "October weather - Autumn 2026 - Munich, Germany Weather Atlas https://www.weather-atlas.com › mu..." [ref=f5e520] [cursor=pointer]:
+                - /url: https://www.weather-atlas.com/en/germany/munich-weather-october
+                - heading "October weather - Autumn 2026 - Munich, Germany" [level=3] [ref=f5e521]
+                - generic [ref=f5e527]:
+                  - generic [ref=f5e528]: Weather Atlas
+                  - generic [ref=f5e531]:
+                    - text: https://www.weather-atlas.com
+                    - generic [ref=f5e532]: › mu...
+              - generic [ref=f5e533]:
+                - generic [ref=f5e534]: ·
+                - link "ترجم هذه الصفحة" [ref=f5e535] [cursor=pointer]:
+                  - /url: https://www.weather-atlas.com/en/germany/munich-weather-october
+              - button "معلومات حول هذه النتيجة" [ref=f5e538] [cursor=pointer]
+            - generic [ref=f5e545]:
+              - text: The high-temperature,
+              - emphasis [ref=f5e546]: in October
+              - text: ","
+              - emphasis [ref=f5e547]: in Munich
+              - text: ", is 13.2°C (55.8°F), while the low-temperature averages to 4.7°C (40.5°F)."
+          - generic [ref=f5e551]:
+            - generic [ref=f5e554]:
+              - 'link "Weather Munich in October 2026: Temperature & Climate Climate Data https://en.climate-data.org › october-10" [ref=f5e556] [cursor=pointer]':
+                - /url: https://en.climate-data.org/europe/germany/free-state-of-bavaria/munich-6426/t/october-10/
+                - 'heading "Weather Munich in October 2026: Temperature & Climate" [level=3] [ref=f5e557]'
+                - generic [ref=f5e563]:
+                  - generic [ref=f5e564]: Climate Data
+                  - generic [ref=f5e567]:
+                    - text: https://en.climate-data.org
+                    - generic [ref=f5e568]: › october-10
+              - generic [ref=f5e569]:
+                - generic [ref=f5e570]: ·
+                - link "ترجم هذه الصفحة" [ref=f5e571] [cursor=pointer]:
+                  - /url: https://en.climate-data.org/europe/germany/free-state-of-bavaria/munich-6426/t/october-10/
+              - button "معلومات حول هذه النتيجة" [ref=f5e574] [cursor=pointer]
+            - generic [ref=f5e579]: The average temperature during this month is around 48.9°F (9.4°C). On warmer days, temperatures can reach up to 57°F (13.9°C), providing a mild and pleasant ...
+          - generic [ref=f5e584]:
+            - generic [ref=f5e587]:
+              - link "Munich October Weather, Average Temperature (Bavaria ... Weather Spark https://weatherspark.com › Average-..." [ref=f5e589] [cursor=pointer]:
+                - /url: https://weatherspark.com/m/70344/10/Average-Weather-in-October-in-Munich-Bavaria-Germany
+                - heading "Munich October Weather, Average Temperature (Bavaria ..." [level=3] [ref=f5e590]
+                - generic [ref=f5e599]:
+                  - generic [ref=f5e600]: Weather Spark
+                  - generic [ref=f5e603]:
+                    - text: https://weatherspark.com
+                    - generic [ref=f5e604]: › Average-...
+              - generic [ref=f5e605]:
+                - generic [ref=f5e606]: ·
+                - link "ترجم هذه الصفحة" [ref=f5e607] [cursor=pointer]:
+                  - /url: https://weatherspark.com/m/70344/10/Average-Weather-in-October-in-Munich-Bavaria-Germany
+              - button "معلومات حول هذه النتيجة" [ref=f5e610] [cursor=pointer]
+            - generic [ref=f5e617]:
+              - text: October Weather in Munich Bavaria, Germany ...
+              - emphasis [ref=f5e618]: Daily high temperatures decrease by 11°F, from 62°F to 51°F
+              - text: ", rarely falling below 41°F or exceeding 72°F. Daily low ..."
+        - generic [ref=f5e620]:
+          - generic [ref=f5e625]:
+            - heading "تم البحث أيضًا عن" [level=2] [ref=f5e627]
+            - generic [ref=f5e629]:
+              - link "Weather Munich for 15 days" [ref=f5e634] [cursor=pointer]:
+                - /url: /search?sca_esv=c4fc576c592d0c35&q=Weather+Munich+for+15+days&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q1QJ6BAg7EAE
+              - link "Accuweather munich germany 15 day" [ref=f5e649] [cursor=pointer]:
+                - /url: /search?sca_esv=c4fc576c592d0c35&q=Accuweather+munich+germany+15+day&sa=X&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q1QJ6BAg8EAE
+          - navigation [ref=f5e660]:
+            - heading "التنقل في الصفحة" [level=1] [ref=f5e661]
+            - text: "1"
+            - link "Page 2" [ref=f5e664] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=10&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAE
+              - text: "2"
+            - link "Page 3" [ref=f5e666] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=20&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAG
+              - text: "3"
+            - link "Page 4" [ref=f5e668] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=30&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAI
+              - text: "4"
+            - link "Page 5" [ref=f5e670] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=40&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAK
+              - text: "5"
+            - link "Page 6" [ref=f5e672] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=50&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAM
+              - text: "6"
+            - link "Page 7" [ref=f5e674] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=60&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAO
+              - text: "7"
+            - link "Page 8" [ref=f5e676] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=70&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAQ
+              - text: "8"
+            - link "Page 9" [ref=f5e678] [cursor=pointer]:
+              - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=80&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8tMDegQIORAS
+              - text: "9"
+            - heading [level=2] [ref=f5e680]:
+              - link "التالية" [ref=f5e681] [cursor=pointer]:
+                - /url: /search?q=weather+forecast+Munich+Germany+October+1+2026&sca_esv=c4fc576c592d0c35&ei=u35Qao63Bf-ihbIP3Kzj-Ag&start=10&sa=N&sstk=AU9db-BUuqIpVQh3sSdjq9ixPQ4wBf9cw76qmmVT2j3VXj50tbSSNEvXPG0BUyS4kjnqb8ga0XhtEbARHabihelQUkmzvXxjtBwbGw&ved=2ahUKEwjOgImOrMeVAxV_UUEAHVzWGI8Q8NMDegQIORAU
+        - navigation
+    - contentinfo [ref=f5e684]:
+      - heading "روابط التذييل" [level=1] [ref=f5e685]
+      - generic [ref=f5e689]:
+        - generic [ref=f5e691]:
+          - text: الإمارات العربية المتحدة
+          - generic [ref=f5e693]:
+            - button "دبي - من عنوان IP" [ref=f5e695] [cursor=pointer]:
+              - generic [ref=f5e696]: دبي
+              - generic [ref=f5e698]:
+                - text: "-"
+                - generic [ref=f5e699]: من عنوان IP
+            - text: "-"
+            - button "تحديث الموقع الجغرافي" [ref=f5e701] [cursor=pointer]
+        - generic [ref=f5e704]:
+          - link "مساعدة" [ref=f5e705] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=ar-AE&fg=1
+          - link "إرسال ملاحظات" [ref=f5e706] [cursor=pointer]:
+            - /url: "#"
+          - link "الخصوصية" [ref=f5e707] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=ar-AE&fg=1
+          - link "البنود" [ref=f5e708] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=ar-AE&fg=1

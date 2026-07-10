@@ -1,0 +1,226 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - button "Main menu" [ref=e6] [cursor=pointer]
+        - link "Google" [ref=e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic:
+            - button "Skip to main content" [ref=e16]
+            - button "Accessibility feedback" [ref=e19]
+          - navigation [ref=e23]:
+            - link "Explore" [ref=e26]
+            - link "Flights" [ref=e34]
+            - link "Hotels" [ref=e42]
+            - link "Vacation rentals" [ref=e53]
+        - generic [ref=e70]:
+          - button "Change appearance" [ref=e72]
+          - tooltip [ref=e75]: Change appearance
+      - generic [ref=e77]:
+        - button "Google apps" [ref=e81] [cursor=pointer]
+        - link "Sign in" [ref=e85] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BDubai%2Bto%2BBerlin%2BGermany%2Bdirect&followup=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BDubai%2Bto%2BBerlin%2BGermany%2Bdirect&ec=GAZAlQM
+  - generic [ref=e93]:
+    - generic [ref=e95]:
+      - generic [ref=e96]: Loading results
+      - progressbar [ref=e97]
+    - generic [ref=e102]:
+      - search [ref=e103]:
+        - heading "Flight search" [level=1] [ref=e104]
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - combobox "Change ticket type. Round trip" [ref=e111] [cursor=pointer]:
+              - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=e117]:
+              - generic [ref=e120]: "1"
+            - combobox "Change seating class. Economy" [ref=e130] [cursor=pointer]:
+              - generic: Economy
+          - generic [ref=e132]:
+            - generic [ref=e133]:
+              - generic [ref=e139]:
+                - combobox "Where from?" [ref=e140]: Dubai
+                - generic [ref=e141]: Dubai
+              - button "Swap origin and destination." [ref=e147] [cursor=pointer]
+              - generic [ref=e155]:
+                - combobox "Where to?" [ref=e156]: Berlin
+                - generic [ref=e157]: Berlin
+            - generic [ref=e170]:
+              - generic [ref=e172]:
+                - textbox "Departure" [ref=e177]: Thu, Nov 5
+                - button [ref=e180]
+                - button [ref=e187]
+              - generic [ref=e194]:
+                - textbox "Return" [ref=e195]: Thu, Nov 12
+                - button [ref=e198]
+                - button [ref=e205]
+          - heading "Filters" [level=2] [ref=e211]
+          - generic [ref=e214]:
+            - button "All filters, 1 filter selected" [ref=e217]:
+              - generic [ref=e222]: All filters (1)
+            - generic [ref=e225]:
+              - generic [ref=e227]:
+                - button "Nonstop, Stops, Selected" [ref=e228]:
+                  - generic [ref=e231]: Nonstop
+                - button "Clear Stops" [ref=e233] [cursor=pointer]
+              - button "Airlines, Not selected" [ref=e239]:
+                - generic [ref=e242]: Airlines
+              - button "Bags, Not selected" [ref=e249]:
+                - generic [ref=e252]: Bags
+              - button "Price, Not selected" [ref=e259]:
+                - generic [ref=e262]: Price
+              - button "Times, Not selected" [ref=e269]:
+                - generic [ref=e272]: Times
+              - button "Emissions, Not selected" [ref=e279]:
+                - generic [ref=e282]: Emissions
+              - button "Connecting airports, Not selected" [ref=e289]:
+                - generic [ref=e292]: Connecting airports
+              - button "Duration, Not selected" [ref=e299]:
+                - generic [ref=e302]: Duration
+      - main [ref=e307]:
+        - heading "Search results" [level=2] [ref=e308]
+        - generic [ref=e309]: 2 results returned.
+        - generic [ref=e317]:
+          - heading "Travel restricted" [level=2] [ref=e318]
+          - generic [ref=e319]: Airspace restrictions may affect flights.
+        - generic [ref=e321]:
+          - tablist [ref=e322]:
+            - tab [selected] [ref=e323] [cursor=pointer]:
+              - generic [ref=e324]:
+                - text: Best
+                - button "Learn more about ranking" [ref=e330]
+            - tab "Cheapest from Fetching results 1391 UAE dirhams Learn more about ranking" [ref=e334] [cursor=pointer]:
+              - generic [ref=e335]:
+                - text: Cheapest
+                - generic [ref=e337]:
+                  - generic [ref=e338]:
+                    - text: from
+                    - generic [ref=e339]:
+                      - generic [ref=e340]:
+                        - generic [ref=e341]: Fetching results
+                        - progressbar [ref=e342]
+                      - text: AED 1,391
+                  - button "Learn more about ranking" [ref=e361]
+          - tabpanel "BestLearn more about ranking" [ref=e365]:
+            - generic [ref=e370]:
+              - heading "Price insights" [level=3] [ref=e371]
+              - generic [ref=e372] [cursor=pointer]:
+                - heading "Prices are currently typical" [level=4] [ref=e377]
+                - generic [ref=e379]: View price history
+                - button "View price history" [ref=e381]
+            - region "Find the best price" [ref=e386]:
+              - generic [ref=e389]:
+                - heading "Track prices" [level=2] [ref=e392]
+                - button [ref=e396] [cursor=pointer]:
+                  - link "Learn more about tracked prices" [ref=e397]
+                - generic [ref=e400]: Track prices from Dubai to Berlin departing 2026-11-05 and returning 2026-11-12
+                - generic [ref=e401]:
+                  - generic [ref=e402]: Nov 5 – 12
+                  - switch "Track prices from Dubai to Berlin departing 2026-11-05 and returning 2026-11-12" [ref=e406] [cursor=pointer]
+              - generic [ref=e419]:
+                - button "Date grid" [ref=e421]
+                - button "Price graph" [ref=e432]
+            - generic [ref=e445]:
+              - heading "Departing flights" [level=3] [ref=e446]
+              - generic [ref=e447]:
+                - generic [ref=e448]:
+                  - text: Prices include required taxes + fees for 1 adult.
+                  - generic [ref=e449]:
+                    - text: Optional charges and
+                    - button "bag fees" [ref=e450] [cursor=pointer]
+                    - text: may apply.
+                    - generic [ref=e451]:
+                      - button "Passenger assistance" [ref=e452] [cursor=pointer]
+                      - text: info.
+                - button "Sorted by top flights, Change sort order." [ref=e457]:
+                  - generic [ref=e460]: Sorted by top flights
+              - list [ref=e463]:
+                - listitem [ref=e464]:
+                  - generic [ref=e465]:
+                    - link "From 1391 UAE dirhams round trip total.This price does not include overhead bin access. Nonstop flight with Condor. Leaves Dubai International Airport at 10:55 AM on Thursday, November 5 and arrives at Berlin Brandenburg Airport at 3:05 PM on Thursday, November 5. Total duration 7 hr 10 min. Select flight"
+                    - generic [ref=e467] [cursor=pointer]:
+                      - generic [ref=e469]:
+                        - generic [ref=e471]:
+                          - generic "Leaves Dubai International Airport at 10:55 AM on Thursday, November 5 and arrives at Berlin Brandenburg Airport at 3:05 PM on Thursday, November 5." [ref=e473]:
+                            - 'generic "Departure time: 10:55 AM." [ref=e476]': 10:55 AM
+                            - text: –
+                            - 'generic "Arrival time: 3:05 PM." [ref=e479]': 3:05 PM
+                          - generic [ref=e480]: Condor
+                        - generic [ref=e481]:
+                          - generic "Total duration 7 hr 10 min." [ref=e482]: 7 hr 10 min
+                          - generic [ref=e483]:
+                            - generic [ref=e484]: DXB
+                            - text: –
+                            - generic [ref=e487]: BER
+                        - generic "Nonstop flight." [ref=e492]: Nonstop
+                        - generic [ref=e494]:
+                          - generic [ref=e495]: 305 kg CO2e
+                          - generic [ref=e497]:
+                            - generic [ref=e498]: "-20% emissions"
+                            - 'button "Carbon emissions estimate: 305 kilograms. -20% emissions. Learn more about this emissions estimate" [ref=e499]'
+                        - generic [ref=e502]:
+                          - generic [ref=e503]:
+                            - button "This price for this flight doesn't include overhead bin access. If you need a carry-on bag, use the Bags filter to update prices." [ref=e507]
+                            - generic [ref=e511]: AED 1,391
+                          - generic [ref=e512]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 10:55 AM on Thursday, November 5 and arrives at Berlin Brandenburg Airport at 3:05 PM on Thursday, November 5." [ref=e515]
+                - listitem [ref=e520]:
+                  - generic [ref=e521]:
+                    - link "From 1520 UAE dirhams round trip total.This price does not include overhead bin access. Nonstop flight with Eurowings. Leaves Dubai International Airport at 6:00 PM on Thursday, November 5 and arrives at Berlin Brandenburg Airport at 10:00 PM on Thursday, November 5. Total duration 7 hr. Select flight"
+                    - generic [ref=e523] [cursor=pointer]:
+                      - generic [ref=e525]:
+                        - generic [ref=e527]:
+                          - generic "Leaves Dubai International Airport at 6:00 PM on Thursday, November 5 and arrives at Berlin Brandenburg Airport at 10:00 PM on Thursday, November 5." [ref=e529]:
+                            - 'generic "Departure time: 6:00 PM." [ref=e532]': 6:00 PM
+                            - text: –
+                            - 'generic "Arrival time: 10:00 PM." [ref=e535]': 10:00 PM
+                          - generic [ref=e536]: Eurowings
+                        - generic [ref=e537]:
+                          - generic "Total duration 7 hr." [ref=e538]: 7 hr
+                          - generic [ref=e539]:
+                            - generic [ref=e540]: DXB
+                            - text: –
+                            - generic [ref=e543]: BER
+                        - generic "Nonstop flight." [ref=e548]: Nonstop
+                        - generic [ref=e550]:
+                          - generic [ref=e551]: 311 kg CO2e
+                          - generic [ref=e553]:
+                            - generic [ref=e554]: "-18% emissions"
+                            - 'button "Carbon emissions estimate: 311 kilograms. -18% emissions. Learn more about this emissions estimate" [ref=e555]'
+                        - generic [ref=e558]:
+                          - generic [ref=e559]:
+                            - button "This price for this flight doesn't include overhead bin access. If you need a carry-on bag, use the Bags filter to update prices." [ref=e563]
+                            - generic [ref=e567]: AED 1,520
+                          - generic [ref=e568]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 6:00 PM on Thursday, November 5 and arrives at Berlin Brandenburg Airport at 10:00 PM on Thursday, November 5." [ref=e571]
+          - text: · ·· · ··
+      - contentinfo [ref=e578]:
+        - generic [ref=e580]:
+          - button "Language·English (United States)" [ref=e581]
+          - button "Location·United Arab Emirates" [ref=e587]
+          - button "Currency AED" [ref=e594]:
+            - generic [ref=e606]: Currency·AED
+        - generic [ref=e608]:
+          - link "About Google Travel" [ref=e609] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=e610] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=e611] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=e612] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=e613] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=e614] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - generic [ref=e615]:
+          - paragraph [ref=e616]:
+            - text: Displayed currencies may differ from the currencies used to purchase flights.
+            - link "Learn more about currencies" [ref=e617] [cursor=pointer]:
+              - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=AE
+              - text: Learn more
+          - paragraph [ref=e618]: Prices are final prices and include all taxes and fees, including payment fees for the cheapest common payment method (which may differ depending on the provider). Additional charges may apply for other types of payment, luggage, meals, WLAN or other additional services. Prices, availability and travel details are provided based on the latest information received from our partners. This information is reflected in the results within a period of less than 24 hours. Additional conditions may also be applied by our partners. You should then check prices and conditions with the services providers before booking.

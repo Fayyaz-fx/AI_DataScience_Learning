@@ -1,0 +1,271 @@
+- generic [ref=f9e1]:
+  - banner [ref=f9e3]:
+    - generic [ref=f9e4]:
+      - generic [ref=f9e5]:
+        - button "Main menu" [ref=f9e6] [cursor=pointer]
+        - link "Google" [ref=f9e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=f9e13]:
+        - generic [ref=f9e15]:
+          - generic:
+            - button "Skip to main content" [ref=f9e16]
+            - button "Accessibility feedback" [ref=f9e19]
+          - navigation [ref=f9e23]:
+            - link "Explore" [ref=f9e26]
+            - link "Flights" [ref=f9e34]
+            - link "Hotels" [ref=f9e42]
+            - link "Vacation rentals" [ref=f9e53]
+        - generic [ref=f9e70]:
+          - button "Change appearance" [ref=f9e72]
+          - tooltip [ref=f9e75]: Change appearance
+      - generic [ref=f9e77]:
+        - button "Google apps" [ref=f9e81] [cursor=pointer]
+        - link "Sign in" [ref=f9e85] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BDubai%2Bto%2BMunich%2Bnonstop&followup=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BDubai%2Bto%2BMunich%2Bnonstop&ec=GAZAlQM
+  - generic [ref=f9e93]:
+    - generic [ref=f9e95]:
+      - generic [ref=f9e96]: Loading results
+      - progressbar [ref=f9e97]
+    - generic [ref=f9e104]:
+      - search [ref=f9e105]:
+        - heading "Flight search" [level=1] [ref=f9e106]
+        - generic [ref=f9e107]:
+          - generic [ref=f9e108]:
+            - combobox "Change ticket type. Round trip" [ref=f9e113] [cursor=pointer]:
+              - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=f9e119]:
+              - generic [ref=f9e122]: "1"
+            - combobox "Change seating class. Economy" [ref=f9e132] [cursor=pointer]:
+              - generic: Economy
+          - generic [ref=f9e134]:
+            - generic [ref=f9e135]:
+              - generic [ref=f9e141]:
+                - combobox "Where from?" [ref=f9e142]: Dubai
+                - generic [ref=f9e143]: Dubai
+              - button "Swap origin and destination." [ref=f9e149] [cursor=pointer]
+              - generic [ref=f9e157]:
+                - combobox "Where to?" [ref=f9e158]: Munich
+                - generic [ref=f9e159]: Munich
+            - generic [ref=f9e172]:
+              - generic [ref=f9e174]:
+                - textbox "Departure" [ref=f9e179]: Thu, Aug 13
+                - button [ref=f9e182]
+                - button [ref=f9e189]
+              - generic [ref=f9e196]:
+                - textbox "Return" [ref=f9e197]: Wed, Aug 19
+                - button [ref=f9e200]
+                - button [ref=f9e207]
+          - heading "Filters" [level=2] [ref=f9e213]
+          - generic [ref=f9e216]:
+            - button "All filters, 1 filter selected" [ref=f9e219]:
+              - generic [ref=f9e224]: All filters (1)
+            - generic [ref=f9e227]:
+              - generic [ref=f9e229]:
+                - button "Nonstop, Stops, Selected" [ref=f9e230]:
+                  - generic [ref=f9e233]: Nonstop
+                - button "Clear Stops" [ref=f9e235] [cursor=pointer]
+              - button "Airlines, Not selected" [ref=f9e241]:
+                - generic [ref=f9e244]: Airlines
+              - button "Bags, Not selected" [ref=f9e251]:
+                - generic [ref=f9e254]: Bags
+              - button "Price, Not selected" [ref=f9e261]:
+                - generic [ref=f9e264]: Price
+              - button "Times, Not selected" [ref=f9e271]:
+                - generic [ref=f9e274]: Times
+              - button "Emissions, Not selected" [ref=f9e281]:
+                - generic [ref=f9e284]: Emissions
+              - button "Connecting airports, Not selected" [ref=f9e291]:
+                - generic [ref=f9e294]: Connecting airports
+              - button "Duration, Not selected" [ref=f9e301]:
+                - generic [ref=f9e304]: Duration
+      - main [ref=f9e309]:
+        - heading "Search results" [level=2] [ref=f9e310]
+        - generic [ref=f9e655]: 3 results returned.
+        - generic [ref=f9e663]:
+          - heading "Travel restricted" [level=2] [ref=f9e664]
+          - generic [ref=f9e665]: Airspace restrictions may affect flights.
+        - generic [ref=f9e322]:
+          - tablist [ref=f9e323]:
+            - tab [selected] [ref=f9e324] [cursor=pointer]:
+              - generic [ref=f9e325]:
+                - text: Best
+                - button "Learn more about ranking" [ref=f9e331]
+            - tab "Cheapest from 1791 UAE dirhams Learn more about ranking" [ref=f9e745] [cursor=pointer]:
+              - generic [ref=f9e336]:
+                - text: Cheapest
+                - generic [ref=f9e338]:
+                  - generic [ref=f9e339]:
+                    - text: from
+                    - generic [ref=f9e746]: AED 1,791
+                  - button "Learn more about ranking" [ref=f9e362]
+          - tabpanel "BestLearn more about ranking" [ref=f9e366]:
+            - generic [ref=f9e670]:
+              - heading "Price insights" [level=3] [ref=f9e671]
+              - generic [ref=f9e672] [cursor=pointer]:
+                - heading "Prices are currently low — AED 1,424 cheaper than usual for your search" [level=4] [ref=f9e677]
+                - generic [ref=f9e679]: View price history
+                - button "View price history" [ref=f9e681]
+            - region "Find the best price" [ref=f9e387]:
+              - generic [ref=f9e687]:
+                - heading "Track prices" [level=2] [ref=f9e690]
+                - button [ref=f9e694] [cursor=pointer]:
+                  - link "Learn more about tracked prices" [ref=f9e695]
+                - generic [ref=f9e698]: Track prices from Dubai to Munich departing 2026-08-13 and returning 2026-08-19
+                - generic [ref=f9e699]:
+                  - generic [ref=f9e700]: Aug 13 – 19
+                  - switch "Track prices from Dubai to Munich departing 2026-08-13 and returning 2026-08-19" [ref=f9e704] [cursor=pointer]
+              - generic [ref=f9e420]:
+                - button "Date grid" [ref=f9e422]
+                - button "Price graph" [ref=f9e433]
+            - generic [ref=f9e446]:
+              - heading "Departing flights" [level=3] [ref=f9e447]
+              - generic [ref=f9e448]:
+                - generic [ref=f9e449]:
+                  - text: Prices include required taxes + fees for 1 adult.
+                  - generic [ref=f9e450]:
+                    - text: Optional charges and
+                    - button "bag fees" [ref=f9e451] [cursor=pointer]
+                    - text: may apply.
+                    - generic [ref=f9e452]:
+                      - button "Passenger assistance" [ref=f9e453] [cursor=pointer]
+                      - text: info.
+                - button "Sorted by top flights, Change sort order." [ref=f9e458]:
+                  - generic [ref=f9e461]: Sorted by top flights
+              - list [ref=f9e464]:
+                - listitem [ref=f9e465]:
+                  - generic [ref=f9e466]:
+                    - link "From 1791 UAE dirhams round trip total. Nonstop flight with Air Arabia. Leaves Sharjah International Airport at 5:30 PM on Thursday, August 13 and arrives at Munich International Airport at 9:55 PM on Thursday, August 13. Total duration 6 hr 25 min. Select flight"
+                    - generic [ref=f9e468] [cursor=pointer]:
+                      - generic [ref=f9e470]:
+                        - generic [ref=f9e472]:
+                          - generic "Leaves Sharjah International Airport at 5:30 PM on Thursday, August 13 and arrives at Munich International Airport at 9:55 PM on Thursday, August 13." [ref=f9e474]:
+                            - 'generic "Departure time: 5:30 PM." [ref=f9e749]': 5:30 PM
+                            - text: –
+                            - 'generic "Arrival time: 9:55 PM." [ref=f9e752]': 9:55 PM
+                          - generic [ref=f9e481]: Air Arabia
+                        - generic [ref=f9e482]:
+                          - generic "Total duration 6 hr 25 min." [ref=f9e483]: 6 hr 25 min
+                          - generic [ref=f9e484]:
+                            - generic [ref=f9e485]: SHJ
+                            - text: –
+                            - generic [ref=f9e488]: MUC
+                        - generic "Nonstop flight." [ref=f9e493]: Nonstop
+                        - generic [ref=f9e495]:
+                          - generic [ref=f9e496]: 312 kg CO2e
+                          - generic [ref=f9e498]:
+                            - generic [ref=f9e499]: "-16% emissions"
+                            - 'button "Carbon emissions estimate: 312 kilograms. -16% emissions. Learn more about this emissions estimate" [ref=f9e500]'
+                        - generic [ref=f9e503]:
+                          - generic [ref=f9e504]: AED 1,791
+                          - generic [ref=f9e506]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Sharjah International Airport at 5:30 PM on Thursday, August 13 and arrives at Munich International Airport at 9:55 PM on Thursday, August 13." [ref=f9e509]
+                - listitem [ref=f9e514]:
+                  - generic [ref=f9e515]:
+                    - link "From 3710 UAE dirhams round trip total. Nonstop flight with Emirates. Leaves Dubai International Airport at 8:50 AM on Thursday, August 13 and arrives at Munich International Airport at 1:15 PM on Thursday, August 13. Total duration 6 hr 25 min. Select flight"
+                    - generic [ref=f9e517] [cursor=pointer]:
+                      - generic [ref=f9e757]:
+                        - generic [ref=f9e759]:
+                          - generic [ref=f9e760]:
+                            - generic [ref=f9e761]: Departure
+                            - generic [ref=f9e762]: ·
+                            - generic [ref=f9e763]: Thu, Aug 13
+                          - generic [ref=f9e765]:
+                            - generic [ref=f9e766]: 347 kg CO2e
+                            - generic [ref=f9e768]:
+                              - generic [ref=f9e769]: "-7% emissions"
+                              - 'button "Carbon emissions estimate: 347 kilograms. -7% emissions. Learn more about this emissions estimate" [ref=f9e770]'
+                          - button "Select flight" [ref=f9e775]
+                        - generic [ref=f9e779]:
+                          - generic [ref=f9e780]: AED 3,710
+                          - generic [ref=f9e782]: round trip
+                      - text: ··
+                    - button "Flight details. Leaves Dubai International Airport at 8:50 AM on Thursday, August 13 and arrives at Munich International Airport at 1:15 PM on Thursday, August 13." [expanded] [active] [ref=f9e558] [cursor=pointer]
+                    - generic [ref=f9e785]:
+                      - generic [ref=f9e790]:
+                        - 'generic "Departure time: 8:50 AM." [ref=f9e793]': 8:50 AM
+                        - generic [ref=f9e794]: ·
+                        - text: Dubai International Airport
+                        - generic [ref=f9e795]: (DXB)
+                      - generic [ref=f9e796]: "Travel time: 6 hr 25 min"
+                      - generic [ref=f9e797]:
+                        - 'generic "Arrival time: 1:15 PM." [ref=f9e800]': 1:15 PM
+                        - generic [ref=f9e801]: ·
+                        - text: Munich International Airport
+                        - generic [ref=f9e802]: (MUC)
+                      - generic [ref=f9e803]:
+                        - generic [ref=f9e804]: Emirates
+                        - generic [ref=f9e805]: ·
+                        - generic [ref=f9e806]: Economy
+                        - generic [ref=f9e807]: ·
+                        - generic [ref=f9e808]: Airbus A380
+                        - generic [ref=f9e809]: ·
+                        - generic [ref=f9e811]: EK 49
+                      - generic [ref=f9e812]: Often delayed by 30+ min
+                      - list [ref=f9e814]:
+                        - listitem [ref=f9e815]: Above average legroom (32 in)
+                        - listitem [ref=f9e819]: Wi-Fi for a fee
+                        - listitem [ref=f9e822]: In-seat power & USB outlets
+                        - listitem [ref=f9e825]: On-demand video
+                        - listitem [ref=f9e829]:
+                          - 'generic "Carbon emissions estimate: 347 kilograms" [ref=f9e833]': "Emissions estimate: 347 kg CO2e"
+                        - listitem [ref=f9e834]:
+                          - generic [ref=f9e837]:
+                            - text: "Contrail warming potential: Low"
+                            - button "Learn more about contrails" [ref=f9e840] [cursor=pointer]
+                - listitem [ref=f9e563]:
+                  - generic [ref=f9e564]:
+                    - link "From 3940 UAE dirhams round trip total. Nonstop flight with Emirates. Leaves Dubai International Airport at 4:20 PM on Thursday, August 13 and arrives at Munich International Airport at 8:40 PM on Thursday, August 13. Total duration 6 hr 20 min. Select flight"
+                    - generic [ref=f9e566] [cursor=pointer]:
+                      - generic [ref=f9e568]:
+                        - generic [ref=f9e570]:
+                          - generic "Leaves Dubai International Airport at 4:20 PM on Thursday, August 13 and arrives at Munich International Airport at 8:40 PM on Thursday, August 13." [ref=f9e572]:
+                            - 'generic "Departure time: 4:20 PM." [ref=f9e846]': 4:20 PM
+                            - text: –
+                            - 'generic "Arrival time: 8:40 PM." [ref=f9e849]': 8:40 PM
+                          - generic [ref=f9e579]: Emirates
+                        - generic [ref=f9e580]:
+                          - generic "Total duration 6 hr 20 min." [ref=f9e581]: 6 hr 20 min
+                          - generic [ref=f9e582]:
+                            - generic [ref=f9e583]: DXB
+                            - text: –
+                            - generic [ref=f9e586]: MUC
+                        - generic "Nonstop flight." [ref=f9e591]: Nonstop
+                        - generic [ref=f9e593]:
+                          - generic [ref=f9e594]: 351 kg CO2e
+                          - generic [ref=f9e596]:
+                            - generic [ref=f9e597]: "-6% emissions"
+                            - 'button "Carbon emissions estimate: 351 kilograms. -6% emissions. Learn more about this emissions estimate" [ref=f9e598]'
+                        - generic [ref=f9e601]:
+                          - generic [ref=f9e602]: AED 3,940
+                          - generic [ref=f9e604]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 4:20 PM on Thursday, August 13 and arrives at Munich International Airport at 8:40 PM on Thursday, August 13." [ref=f9e607]
+          - text: · ·· · ·· · ··
+      - contentinfo [ref=f9e614]:
+        - generic [ref=f9e616]:
+          - button "Language·English (United States)" [ref=f9e617]
+          - button "Location·United Arab Emirates" [ref=f9e623]
+          - button "Currency AED" [ref=f9e630]:
+            - generic [ref=f9e642]: Currency·AED
+        - generic [ref=f9e644]:
+          - link "About Google Travel" [ref=f9e645] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=f9e646] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=f9e647] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=f9e648] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=f9e649] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=f9e650] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - generic [ref=f9e651]:
+          - paragraph [ref=f9e652]:
+            - text: Displayed currencies may differ from the currencies used to purchase flights.
+            - link "Learn more about currencies" [ref=f9e653] [cursor=pointer]:
+              - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=AE
+              - text: Learn more
+          - paragraph [ref=f9e654]: Prices are final prices and include all taxes and fees, including payment fees for the cheapest common payment method (which may differ depending on the provider). Additional charges may apply for other types of payment, luggage, meals, WLAN or other additional services. Prices, availability and travel details are provided based on the latest information received from our partners. This information is reflected in the results within a period of less than 24 hours. Additional conditions may also be applied by our partners. You should then check prices and conditions with the services providers before booking.

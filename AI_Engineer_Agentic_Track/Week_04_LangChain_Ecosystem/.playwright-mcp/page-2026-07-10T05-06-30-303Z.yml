@@ -1,0 +1,107 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - button "Main menu" [ref=e6] [cursor=pointer]
+        - link "Google" [ref=e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic:
+            - button "Skip to main content" [ref=e16]
+            - button "Accessibility feedback" [ref=e19]
+          - navigation [ref=e23]:
+            - link "Explore" [ref=e26]
+            - link "Flights" [ref=e34]
+            - link "Hotels" [ref=e42]
+            - link "Vacation rentals" [ref=e53]
+        - generic [ref=e70]:
+          - button "Change appearance" [ref=e72]
+          - tooltip [ref=e75]: Change appearance
+      - generic [ref=e77]:
+        - button "Google apps" [ref=e81] [cursor=pointer]
+        - link "Sign in" [ref=e85] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https%3A%2F%2Fwww.google.com%2Ftravel%2Fflights%2Fsearch%3Ftfs%3DCBwQAhopEgoyMDI2LTA5LTI4ag0IAhIJL20vMDFmMDhycgwIAhIIL20vMDE1NnEaKRIKMjAyNi0xMC0wNGoMCAISCC9tLzAxNTZxcg0IAhIJL20vMDFmMDhyQAFIAXABggELCP___________wGYAQE%26tfu%3DCsABQ2pSSWVFZHRVMDQ1TlRoS1ZFbEJRMFJPV1hkQ1J5MHRMUzB0ZDJKaVpYTXlOQzF1TVVGQlFVRkJSM0JSWm1OVlJsQkpMVmxCRWtSamFHVmhjR1Z6ZEZKdmRXNWtWSEpwY0MwdmJTOHdNV1l3T0hJdEwyMHZNREUxTm5FdFUwaEtMVUpGVWkweExUSXdNall0TURrdE1qZ3RNakF5TmkweE1DMHdOQm9LQ01zTEVBQWFBMEZGUkRndmNMMjdBZz09EgYIABAAGAA%26utm_source%3Dsign_in_ogb&followup=https%3A%2F%2Fwww.google.com%2Ftravel%2Fflights%2Fsearch%3Ftfs%3DCBwQAhopEgoyMDI2LTA5LTI4ag0IAhIJL20vMDFmMDhycgwIAhIIL20vMDE1NnEaKRIKMjAyNi0xMC0wNGoMCAISCC9tLzAxNTZxcg0IAhIJL20vMDFmMDhyQAFIAXABggELCP___________wGYAQE%26tfu%3DCsABQ2pSSWVFZHRVMDQ1TlRoS1ZFbEJRMFJPV1hkQ1J5MHRMUzB0ZDJKaVpYTXlOQzF1TVVGQlFVRkJSM0JSWm1OVlJsQkpMVmxCRWtSamFHVmhjR1Z6ZEZKdmRXNWtWSEpwY0MwdmJTOHdNV1l3T0hJdEwyMHZNREUxTm5FdFUwaEtMVUpGVWkweExUSXdNall0TURrdE1qZ3RNakF5TmkweE1DMHdOQm9LQ01zTEVBQWFBMEZGUkRndmNMMjdBZz09EgYIABAAGAA%26utm_source%3Dsign_in_ogb&ec=GAZAlQM
+  - generic [ref=e475]:
+    - generic [ref=e477]:
+      - generic [ref=e478]: Loading results
+      - progressbar [ref=e479]
+    - generic [ref=e486]:
+      - search [ref=e487]:
+        - heading "Flight search" [level=1] [ref=e488]
+        - generic [ref=e489]:
+          - generic [ref=e490]:
+            - combobox "Change ticket type. Round trip" [ref=e495] [cursor=pointer]:
+              - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=e501]:
+              - generic [ref=e504]: "1"
+            - combobox "Change seating class. Economy" [ref=e514] [cursor=pointer]:
+              - generic: Economy
+          - generic [ref=e516]:
+            - generic [ref=e517]:
+              - generic [ref=e523]:
+                - combobox "Where from?" [ref=e524]: Dubai
+                - generic [ref=e525]: Dubai
+              - button "Swap origin and destination." [ref=e531] [cursor=pointer]
+              - generic [ref=e539]:
+                - combobox "Where to?" [ref=e540]: Berlin
+                - generic [ref=e541]: Berlin
+            - generic [ref=e554]:
+              - generic [ref=e556]:
+                - textbox "Departure" [ref=e561]: Mon, Sep 28
+                - button [ref=e564]
+                - button [ref=e571]
+              - generic [ref=e578]:
+                - textbox "Return" [ref=e579]: Sun, Oct 4
+                - button [ref=e582]
+                - button [ref=e589]
+          - heading "Filters" [level=2] [ref=e595]
+          - generic [ref=e598]:
+            - button "All filters" [ref=e601]
+            - generic [ref=e609]:
+              - button "Stops, Not selected" [ref=e612]:
+                - generic [ref=e615]: Stops
+              - button "Airlines, Not selected" [ref=e622]:
+                - generic [ref=e625]: Airlines
+              - button "Bags, Not selected" [ref=e632]:
+                - generic [ref=e635]: Bags
+              - button "Price, Not selected" [ref=e642]:
+                - generic [ref=e645]: Price
+              - button "Times, Not selected" [ref=e652]:
+                - generic [ref=e655]: Times
+              - button "Emissions, Not selected" [ref=e662]:
+                - generic [ref=e665]: Emissions
+              - button "Connecting airports, Not selected" [ref=e672]:
+                - generic [ref=e675]: Connecting airports
+              - button "Duration, Not selected" [ref=e682]:
+                - generic [ref=e685]: Duration
+      - main:
+        - heading "Search results" [level=2] [ref=e690]
+      - contentinfo [ref=e694]:
+        - generic [ref=e696]:
+          - button "Language·English (United States)" [ref=e697]
+          - button "Location·United Arab Emirates" [ref=e703]
+          - button "Currency AED" [ref=e710]:
+            - generic [ref=e722]: Currency·AED
+        - generic [ref=e724]:
+          - link "About Google Travel" [ref=e725] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=e726] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=e727] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=e728] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=e729] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=e730] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - generic [ref=e731]:
+          - paragraph [ref=e732]:
+            - text: Displayed currencies may differ from the currencies used to purchase flights.
+            - link "Learn more about currencies" [ref=e733] [cursor=pointer]:
+              - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=AE
+              - text: Learn more
+          - paragraph [ref=e734]: Prices are final prices and include all taxes and fees, including payment fees for the cheapest common payment method (which may differ depending on the provider). Additional charges may apply for other types of payment, luggage, meals, WLAN or other additional services. Prices, availability and travel details are provided based on the latest information received from our partners. This information is reflected in the results within a period of less than 24 hours. Additional conditions may also be applied by our partners. You should then check prices and conditions with the services providers before booking.
+  - generic [ref=e735]: Page loaded.

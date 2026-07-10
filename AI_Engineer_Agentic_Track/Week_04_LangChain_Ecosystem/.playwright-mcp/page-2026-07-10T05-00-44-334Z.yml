@@ -1,0 +1,285 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - button "Main menu" [ref=f1e6] [cursor=pointer]
+        - link "Google" [ref=f1e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=f1e13]:
+        - generic [ref=f1e15]:
+          - generic:
+            - button "Skip to main content" [ref=f1e16]
+            - button "Accessibility feedback" [ref=f1e19]
+          - navigation [ref=f1e23]:
+            - link "Explore" [ref=f1e26]
+            - link "Flights" [ref=f1e34]
+            - link "Hotels" [ref=f1e42]
+            - link "Vacation rentals" [ref=f1e53]
+        - generic [ref=f1e70]:
+          - button "Change appearance" [ref=f1e72]
+          - tooltip [ref=f1e75]: Change appearance
+      - generic [ref=f1e77]:
+        - button "Google apps" [ref=f1e81] [cursor=pointer]
+        - link "Sign in" [ref=f1e85] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https://www.google.com/travel/explore?q%3Dflights%2Bfrom%2BDubai%2Bto%2BGermany%2Bleaving%2B9%2BAugust%2B2026%2Breturning%2B16%2BAugust%2B2026&followup=https://www.google.com/travel/explore?q%3Dflights%2Bfrom%2BDubai%2Bto%2BGermany%2Bleaving%2B9%2BAugust%2B2026%2Breturning%2B16%2BAugust%2B2026&ec=GAZAlQM
+  - generic [ref=f1e91]:
+    - generic [ref=f1e93]:
+      - generic [ref=f1e94]: Loading results
+      - progressbar [ref=f1e95]
+    - generic [ref=f1e105]:
+      - generic [ref=f1e106]:
+        - form "Filters" [ref=f1e110]:
+          - generic [ref=f1e111]:
+            - generic [ref=f1e112]:
+              - combobox "Change ticket type. Round trip" [ref=f1e117] [cursor=pointer]:
+                - generic: Round trip
+              - button "1 passenger, change number of passengers." [ref=f1e123]:
+                - generic [ref=f1e126]: "1"
+              - combobox "Change seating class. Economy" [ref=f1e136] [cursor=pointer]:
+                - generic: Economy
+            - generic [ref=f1e138]:
+              - generic [ref=f1e140]:
+                - generic [ref=f1e145]:
+                  - combobox "Where from?" [ref=f1e146]: Dubai
+                  - generic [ref=f1e147]: Dubai
+                - generic [ref=f1e155]:
+                  - combobox "Where to?" [ref=f1e156]: Germany
+                  - generic [ref=f1e157]: Germany
+              - button "1-week trip in the next 6 months" [ref=f1e170]
+        - generic [ref=f1e179]:
+          - button "All filters, 1 filter selected" [ref=f1e182]:
+            - generic [ref=f1e187]: All filters (1)
+          - generic [ref=f1e190]:
+            - generic [ref=f1e192]:
+              - button "Flights only, Travel mode, Selected" [ref=f1e193]:
+                - generic [ref=f1e196]: Flights only
+              - button "Clear Travel mode" [ref=f1e198] [cursor=pointer]
+            - button "Stops, Not selected" [ref=f1e204]:
+              - generic [ref=f1e207]: Stops
+            - button "Price, Not selected" [ref=f1e214]:
+              - generic [ref=f1e217]: Price
+            - button "Airlines, Not selected" [ref=f1e224]:
+              - generic [ref=f1e227]: Airlines
+            - button "Duration, Not selected" [ref=f1e234]:
+              - generic [ref=f1e237]: Duration
+            - button "Bags, Not selected" [ref=f1e244]:
+              - generic [ref=f1e247]: Bags
+      - main [ref=f1e252]:
+        - generic [ref=f1e255]:
+          - generic [ref=f1e256]:
+            - text: About these results
+            - button "About these results" [ref=f1e259]
+          - list [ref=f1e262]:
+            - button [ref=f1e263]:
+              - button "Berlin Nov 5 – 11 Pegasus 1 stop · 12 hr 1309 UAE dirhams" [ref=f1e264] [cursor=pointer]:
+                - generic [ref=f1e266]:
+                  - generic [ref=f1e267]:
+                    - heading "Berlin" [level=3] [ref=f1e268]
+                    - generic [ref=f1e269]: Nov 5 – 11
+                    - generic [ref=f1e270]:
+                      - img "Pegasus" [ref=f1e271]
+                      - generic [ref=f1e272]: 1 stop
+                      - generic [ref=f1e273]: ·
+                      - generic [ref=f1e274]: 12 hr
+                  - generic [ref=f1e275]: AED 1,309
+            - button [ref=f1e278]:
+              - button "Munich Sep 18 – 27 Royal Jordanian and AJet 1 stop · 10 hr 40 min 1512 UAE dirhams" [ref=f1e279] [cursor=pointer]:
+                - generic [ref=f1e281]:
+                  - generic [ref=f1e282]:
+                    - heading "Munich" [level=3] [ref=f1e283]
+                    - generic [ref=f1e284]: Sep 18 – 27
+                    - generic [ref=f1e285]:
+                      - img "Royal Jordanian and AJet" [ref=f1e286]
+                      - generic [ref=f1e287]: 1 stop
+                      - generic [ref=f1e288]: ·
+                      - generic [ref=f1e289]: 10 hr 40 min
+                  - generic [ref=f1e290]: AED 1,512
+            - button [ref=f1e293]:
+              - button "Hamburg Jul 17 – 24 AJet 1 stop · 10 hr 5 min 1679 UAE dirhams" [ref=f1e294] [cursor=pointer]:
+                - generic [ref=f1e296]:
+                  - generic [ref=f1e297]:
+                    - heading "Hamburg" [level=3] [ref=f1e298]
+                    - generic [ref=f1e299]: Jul 17 – 24
+                    - generic [ref=f1e300]:
+                      - img "AJet" [ref=f1e301]
+                      - generic [ref=f1e302]: 1 stop
+                      - generic [ref=f1e303]: ·
+                      - generic [ref=f1e304]: 10 hr 5 min
+                  - generic [ref=f1e305]: AED 1,679
+            - button [ref=f1e308]:
+              - button "Frankfurt am Main Oct 17 – 26 Pegasus and Royal Jordanian 1 stop · 11 hr 40 min 1382 UAE dirhams" [ref=f1e309] [cursor=pointer]:
+                - generic [ref=f1e311]:
+                  - generic [ref=f1e312]:
+                    - heading "Frankfurt am Main" [level=3] [ref=f1e313]
+                    - generic [ref=f1e314]: Oct 17 – 26
+                    - generic [ref=f1e315]:
+                      - img "Pegasus and Royal Jordanian" [ref=f1e316]
+                      - generic [ref=f1e317]: 1 stop
+                      - generic [ref=f1e318]: ·
+                      - generic [ref=f1e319]: 11 hr 40 min
+                  - generic [ref=f1e320]: AED 1,382
+            - button [ref=f1e323]:
+              - button "Cologne Jul 19 – 27 Pegasus 1 stop · 13 hr 25 min 1352 UAE dirhams" [ref=f1e324] [cursor=pointer]:
+                - generic [ref=f1e326]:
+                  - generic [ref=f1e327]:
+                    - heading "Cologne" [level=3] [ref=f1e328]
+                    - generic [ref=f1e329]: Jul 19 – 27
+                    - generic [ref=f1e330]:
+                      - img "Pegasus" [ref=f1e331]
+                      - generic [ref=f1e332]: 1 stop
+                      - generic [ref=f1e333]: ·
+                      - generic [ref=f1e334]: 13 hr 25 min
+                  - generic [ref=f1e335]: AED 1,352
+            - button [ref=f1e338]:
+              - button "Nuremberg Jul 18 – 25 Pegasus 1 stop · 11 hr 30 min 1532 UAE dirhams" [ref=f1e339] [cursor=pointer]:
+                - generic [ref=f1e341]:
+                  - generic [ref=f1e342]:
+                    - heading "Nuremberg" [level=3] [ref=f1e343]
+                    - generic [ref=f1e344]: Jul 18 – 25
+                    - generic [ref=f1e345]:
+                      - img "Pegasus" [ref=f1e346]
+                      - generic [ref=f1e347]: 1 stop
+                      - generic [ref=f1e348]: ·
+                      - generic [ref=f1e349]: 11 hr 30 min
+                  - generic [ref=f1e350]: AED 1,532
+            - button [ref=f1e353]:
+              - button "Dresden Jul 10 – 16" [ref=f1e354] [cursor=pointer]:
+                - generic [ref=f1e357]:
+                  - heading "Dresden" [level=3] [ref=f1e358]
+                  - generic [ref=f1e359]: Jul 10 – 16
+            - button [ref=f1e361]:
+              - button "Düsseldorf Jul 18 – 24 AJet 1 stop · 10 hr 25 min 1578 UAE dirhams" [ref=f1e362] [cursor=pointer]:
+                - generic [ref=f1e364]:
+                  - generic [ref=f1e365]:
+                    - heading "Düsseldorf" [level=3] [ref=f1e366]
+                    - generic [ref=f1e367]: Jul 18 – 24
+                    - generic [ref=f1e368]:
+                      - img "AJet" [ref=f1e369]
+                      - generic [ref=f1e370]: 1 stop
+                      - generic [ref=f1e371]: ·
+                      - generic [ref=f1e372]: 10 hr 25 min
+                  - generic [ref=f1e373]: AED 1,578
+            - button [ref=f1e376]:
+              - button "Stuttgart Jul 30 – Aug 5 AJet 1 stop · 11 hr 1596 UAE dirhams" [ref=f1e377] [cursor=pointer]:
+                - generic [ref=f1e379]:
+                  - generic [ref=f1e380]:
+                    - heading "Stuttgart" [level=3] [ref=f1e381]
+                    - generic [ref=f1e382]: Jul 30 – Aug 5
+                    - generic [ref=f1e383]:
+                      - img "AJet" [ref=f1e384]
+                      - generic [ref=f1e385]: 1 stop
+                      - generic [ref=f1e386]: ·
+                      - generic [ref=f1e387]: 11 hr
+                  - generic [ref=f1e388]: AED 1,596
+            - button [ref=f1e391]:
+              - button "Leipzig Jul 10 – 16" [ref=f1e392] [cursor=pointer]:
+                - generic [ref=f1e395]:
+                  - heading "Leipzig" [level=3] [ref=f1e396]
+                  - generic [ref=f1e397]: Jul 10 – 16
+            - button [ref=f1e399]:
+              - button "Bremen Jul 10 – 16" [ref=f1e400] [cursor=pointer]:
+                - generic [ref=f1e403]:
+                  - heading "Bremen" [level=3] [ref=f1e404]
+                  - generic [ref=f1e405]: Jul 10 – 16
+            - button [ref=f1e407]:
+              - button "Hanover Jul 19 – 27 AJet 1 stop · 9 hr 40 min 1502 UAE dirhams" [ref=f1e408] [cursor=pointer]:
+                - generic [ref=f1e410]:
+                  - generic [ref=f1e411]:
+                    - heading "Hanover" [level=3] [ref=f1e412]
+                    - generic [ref=f1e413]: Jul 19 – 27
+                    - generic [ref=f1e414]:
+                      - img "AJet" [ref=f1e415]
+                      - generic [ref=f1e416]: 1 stop
+                      - generic [ref=f1e417]: ·
+                      - generic [ref=f1e418]: 9 hr 40 min
+                  - generic [ref=f1e419]: AED 1,502
+            - button [ref=f1e422]:
+              - button "Dortmund Jul 10 – 16" [ref=f1e423] [cursor=pointer]:
+                - generic [ref=f1e426]:
+                  - heading "Dortmund" [level=3] [ref=f1e427]
+                  - generic [ref=f1e428]: Jul 10 – 16
+            - button [ref=f1e430]:
+              - button "Karlsruhe Jul 10 – 16" [ref=f1e431] [cursor=pointer]:
+                - generic [ref=f1e434]:
+                  - heading "Karlsruhe" [level=3] [ref=f1e435]
+                  - generic [ref=f1e436]: Jul 10 – 16
+            - button [ref=f1e438]:
+              - button "Rostock Jul 10 – 19" [ref=f1e439] [cursor=pointer]:
+                - generic [ref=f1e442]:
+                  - heading "Rostock" [level=3] [ref=f1e443]
+                  - generic [ref=f1e444]: Jul 10 – 19
+            - button [ref=f1e446]:
+              - button "Münster Jul 10 – 16" [ref=f1e447] [cursor=pointer]:
+                - generic [ref=f1e450]:
+                  - heading "Münster" [level=3] [ref=f1e451]
+                  - generic [ref=f1e452]: Jul 10 – 16
+            - button [ref=f1e454]:
+              - button "Westerland Jul 10 – 16" [ref=f1e455] [cursor=pointer]:
+                - generic [ref=f1e458]:
+                  - heading "Westerland" [level=3] [ref=f1e459]
+                  - generic [ref=f1e460]: Jul 10 – 16
+            - button [ref=f1e462]:
+              - button "Heringsdorf Jul 10 – 18" [ref=f1e463] [cursor=pointer]:
+                - generic [ref=f1e466]:
+                  - heading "Heringsdorf" [level=3] [ref=f1e467]
+                  - generic [ref=f1e468]: Jul 10 – 18
+      - generic [ref=f1e471]:
+        - button "English (United States)" [ref=f1e472]
+        - button "AED" [ref=f1e478]
+    - generic [ref=f1e497]:
+      - region "Map" [ref=f1e498]
+      - generic [ref=f1e499]:
+        - generic [ref=f1e525]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - button "Berlin 1309 UAE dirhams":
+                    - generic [ref=f1e534] [cursor=pointer]:
+                      - generic [ref=f1e535]: Berlin
+                      - generic [ref=f1e536]: AED 1,309
+                - generic:
+                  - button "Munich 1512 UAE dirhams":
+                    - generic [ref=f1e545] [cursor=pointer]:
+                      - generic [ref=f1e546]: Munich
+                      - generic [ref=f1e547]: AED 1,512
+                - generic:
+                  - button "Hamburg 1679 UAE dirhams":
+                    - generic [ref=f1e556] [cursor=pointer]:
+                      - generic [ref=f1e557]: Hamburg
+                      - generic [ref=f1e558]: AED 1,679
+                - generic:
+                  - button "Frankfurt am Main 1382 UAE dirhams":
+                    - generic [ref=f1e567] [cursor=pointer]:
+                      - generic [ref=f1e568]: Frankfurt am Main
+                      - generic [ref=f1e569]: AED 1,382
+                - generic: Cologne
+                - generic: Nuremberg
+                - generic: Dresden
+                - generic:
+                  - button "Düsseldorf 1578 UAE dirhams":
+                    - generic [ref=f1e590] [cursor=pointer]:
+                      - generic [ref=f1e591]: Düsseldorf
+                      - generic [ref=f1e592]: AED 1,578
+                - generic:
+                  - button "Stuttgart 1596 UAE dirhams":
+                    - generic [ref=f1e601] [cursor=pointer]:
+                      - generic [ref=f1e602]: Stuttgart
+                      - generic [ref=f1e603]: AED 1,596
+                - generic: Leipzig
+                - generic: Bremen
+                - generic:
+                  - button "Hanover 1502 UAE dirhams":
+                    - generic [ref=f1e616] [cursor=pointer]:
+                      - generic [ref=f1e617]: Hanover
+                      - generic [ref=f1e618]: AED 1,502
+                - generic: Dortmund
+                - generic: Erfurt
+                - generic: Rostock
+                - generic: Münster
+                - generic: Saarbrücken
+                - generic: Paderborn
+                - generic: Westerland
+                - generic: Heringsdorf
+        - iframe [ref=f1e638]:
+          

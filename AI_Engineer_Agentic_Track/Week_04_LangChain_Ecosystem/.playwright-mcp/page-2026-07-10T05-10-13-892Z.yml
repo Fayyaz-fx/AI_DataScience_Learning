@@ -1,0 +1,645 @@
+- generic [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - button "Main menu" [ref=e6] [cursor=pointer]
+        - link "Google" [ref=e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic:
+            - button "Skip to main content" [ref=e16]
+            - button "Accessibility feedback" [ref=e19]
+          - navigation [ref=e23]:
+            - link "Explore" [ref=e26]
+            - link "Flights" [ref=e34]
+            - link "Hotels" [ref=e42]
+            - link "Vacation rentals" [ref=e53]
+        - generic [ref=e70]:
+          - button "Change appearance" [ref=e72]
+          - tooltip [ref=e75]: Change appearance
+      - generic [ref=e77]:
+        - button "Google apps" [ref=e81] [cursor=pointer]
+        - link "Sign in" [ref=e85] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https%3A%2F%2Fwww.google.com%2Ftravel%2Fflights%2Fsearch%3Ftfs%3DCBwQAhorEgoyMDI2LTEwLTAxag0IAhIJL20vMDFmMDhycg4IAhIKL20vMDJoNl82cBorEgoyMDI2LTEwLTA5ag4IAhIKL20vMDJoNl82cHINCAISCS9tLzAxZjA4ckABSAFwAYIBCwj___________8BmAEB%26tfu%3DCsABQ2pSSVR6UmZPVkJSTmpacE1YTkJRME5VUTNkQ1J5MHRMUzB0TFMwdGQyWmljV2t4TTBGQlFVRkJSM0JSWm5GRlRGRXljRTFCRWtaamFHVmhjR1Z6ZEZKdmRXNWtWSEpwY0MwdmJTOHdNV1l3T0hJdEwyMHZNREpvTmw4MmNDMUVXRUl0VFZWRExURXRNakF5TmkweE1DMHdNUzB5TURJMkxURXdMVEE1R2dvSTZBc1FBQm9EUVVWRU9DOXcwOEVDEgYIABAAGAA%26utm_source%3Dsign_in_ogb&followup=https%3A%2F%2Fwww.google.com%2Ftravel%2Fflights%2Fsearch%3Ftfs%3DCBwQAhorEgoyMDI2LTEwLTAxag0IAhIJL20vMDFmMDhycg4IAhIKL20vMDJoNl82cBorEgoyMDI2LTEwLTA5ag4IAhIKL20vMDJoNl82cHINCAISCS9tLzAxZjA4ckABSAFwAYIBCwj___________8BmAEB%26tfu%3DCsABQ2pSSVR6UmZPVkJSTmpacE1YTkJRME5VUTNkQ1J5MHRMUzB0TFMwdGQyWmljV2t4TTBGQlFVRkJSM0JSWm5GRlRGRXljRTFCRWtaamFHVmhjR1Z6ZEZKdmRXNWtWSEpwY0MwdmJTOHdNV1l3T0hJdEwyMHZNREpvTmw4MmNDMUVXRUl0VFZWRExURXRNakF5TmkweE1DMHdNUzB5TURJMkxURXdMVEE1R2dvSTZBc1FBQm9EUVVWRU9DOXcwOEVDEgYIABAAGAA%26utm_source%3Dsign_in_ogb&ec=GAZAlQM
+  - generic [ref=e475]:
+    - generic [ref=e477]:
+      - generic [ref=e478]: Loading results
+      - progressbar [ref=e479]
+    - generic [ref=e486]:
+      - search [ref=e487]:
+        - heading "Flight search" [level=1] [ref=e488]
+        - generic [ref=e489]:
+          - generic [ref=e490]:
+            - combobox "Change ticket type. Round trip" [ref=e495] [cursor=pointer]:
+              - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=e501]:
+              - generic [ref=e504]: "1"
+            - combobox "Change seating class. Economy" [ref=e514] [cursor=pointer]:
+              - generic: Economy
+          - generic [ref=e516]:
+            - generic [ref=e517]:
+              - generic [ref=e523]:
+                - combobox "Where from?" [ref=e524]: Dubai
+                - generic [ref=e525]: Dubai
+              - button "Swap origin and destination." [ref=e531] [cursor=pointer]
+              - generic [ref=e539]:
+                - combobox "Where to?" [ref=e540]: Munich
+                - generic [ref=e541]: Munich
+            - generic [ref=e554]:
+              - generic [ref=e556]:
+                - textbox "Departure" [ref=e561]: Thu, Oct 1
+                - button [ref=e564]
+                - button [ref=e571]
+              - generic [ref=e578]:
+                - textbox "Return" [ref=e579]: Fri, Oct 9
+                - button [ref=e582]
+                - button [ref=e589]
+          - heading "Filters" [level=2] [ref=e595]
+          - generic [ref=e598]:
+            - button "All filters" [ref=e601]
+            - generic [ref=e609]:
+              - button "Stops, Not selected" [ref=e612]:
+                - generic [ref=e615]: Stops
+              - button "Airlines, Not selected" [ref=e622]:
+                - generic [ref=e625]: Airlines
+              - button "Bags, Not selected" [ref=e632]:
+                - generic [ref=e635]: Bags
+              - button "Price, Not selected" [ref=e642]:
+                - generic [ref=e645]: Price
+              - button "Times, Not selected" [ref=e652]:
+                - generic [ref=e655]: Times
+              - button "Emissions, Not selected" [ref=e662]:
+                - generic [ref=e665]: Emissions
+              - button "Connecting airports, Not selected" [ref=e672]:
+                - generic [ref=e675]: Connecting airports
+              - button "Duration, Not selected" [ref=e682]:
+                - generic [ref=e685]: Duration
+      - main [ref=e736]:
+        - heading "Search results" [level=2] [ref=e690]
+        - generic [ref=e1664]: 14 results returned.
+        - generic [ref=e744]:
+          - heading "Travel restricted" [level=2] [ref=e745]
+          - generic [ref=e746]: Airspace restrictions may affect flights.
+        - generic [ref=e748]:
+          - tablist [ref=e749]:
+            - tab [selected] [ref=e750] [cursor=pointer]:
+              - generic [ref=e751]:
+                - text: Best
+                - button "Learn more about ranking" [ref=e757]
+            - tab "Cheapest from Fetching results 1375 UAE dirhams Learn more about ranking" [ref=e1665] [cursor=pointer]:
+              - generic [ref=e762]:
+                - text: Cheapest
+                - generic [ref=e764]:
+                  - generic [ref=e765]:
+                    - text: from
+                    - generic [ref=e766]:
+                      - generic [ref=e767]:
+                        - generic [ref=e768]: Fetching results
+                        - progressbar [ref=e769]
+                      - text: AED 1,375
+                  - button "Learn more about ranking" [ref=e788]
+          - tabpanel "BestLearn more about ranking" [ref=e792]:
+            - generic [ref=e793]:
+              - heading "Top departing flights" [active] [level=3] [ref=e794]
+              - generic [ref=e795]:
+                - generic [ref=e796]:
+                  - text: Ranked based on price and convenience
+                  - button "Learn more about ranking" [ref=e800] [cursor=pointer]
+                  - text: Prices include required taxes + fees for 1 adult.
+                  - generic [ref=e804]:
+                    - text: Optional charges and
+                    - button "bag fees" [ref=e805] [cursor=pointer]
+                    - text: may apply.
+                    - generic [ref=e806]:
+                      - button "Passenger assistance" [ref=e807] [cursor=pointer]
+                      - text: info.
+                - button "Sorted by top flights, Change sort order." [ref=e812]:
+                  - generic [ref=e815]: Sorted by top flights
+              - list [ref=e818]:
+                - listitem [ref=e819]:
+                  - generic [ref=e820]:
+                    - link "From 1582 UAE dirhams round trip total.This price does not include overhead bin access. 1 stop flight with AJet. Operated by Turkish Airlines, Turkish Airlines. Leaves Dubai International Airport at 3:00 AM on Thursday, October 1 and arrives at Munich International Airport at 11:55 AM on Thursday, October 1. Total duration 10 hr 55 min. Layover (1 of 1) is a 2 hr 55 min layover at Sabiha Gökçen International Airport in Istanbul. Select flight"
+                    - generic [ref=e822] [cursor=pointer]:
+                      - generic [ref=e824]:
+                        - generic [ref=e826]:
+                          - generic "Leaves Dubai International Airport at 3:00 AM on Thursday, October 1 and arrives at Munich International Airport at 11:55 AM on Thursday, October 1." [ref=e828]:
+                            - 'generic "Departure time: 3:00 AM." [ref=e1668]': 3:00 AM
+                            - text: –
+                            - 'generic "Arrival time: 11:55 AM." [ref=e1671]': 11:55 AM
+                          - generic [ref=e835]:
+                            - text: AJet
+                            - generic [ref=e836]: ·
+                            - text: Operated by Turkish Airlines, Turkish Airlines
+                        - generic [ref=e837]:
+                          - generic "Total duration 10 hr 55 min." [ref=e838]: 10 hr 55 min
+                          - generic [ref=e839]:
+                            - generic [ref=e840]: DXB
+                            - text: –
+                            - generic [ref=e843]: MUC
+                        - generic [ref=e846]:
+                          - generic "1 stop flight." [ref=e848]: 1 stop
+                          - generic "Layover (1 of 1) is a 2 hr 55 min layover at Sabiha Gökçen International Airport in Istanbul." [ref=e849]:
+                            - text: 2 hr 55 min
+                            - generic [ref=e1676]: SAW
+                        - generic [ref=e853]:
+                          - generic [ref=e854]: 337 kg CO2e
+                          - generic [ref=e856]:
+                            - generic [ref=e857]: Avg emissions
+                            - 'button "Carbon emissions estimate: 337 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e858]'
+                        - generic [ref=e861]:
+                          - generic [ref=e862]:
+                            - button "This price for this flight doesn't include overhead bin access. If you need a carry-on bag, use the Bags filter to update prices." [ref=e1680]
+                            - generic [ref=e870]: AED 1,582
+                          - generic [ref=e871]: round trip
+                      - text: · ·· ·
+                    - button "Flight details. Leaves Dubai International Airport at 3:00 AM on Thursday, October 1 and arrives at Munich International Airport at 11:55 AM on Thursday, October 1." [ref=e874]
+                - listitem [ref=e879]:
+                  - generic [ref=e880]:
+                    - link "From 1810 UAE dirhams round trip total. 1 stop flight with Gulf Air. Leaves Dubai International Airport at 9:00 PM on Thursday, October 1 and arrives at Munich International Airport at 6:35 AM on Friday, October 2. Total duration 11 hr 35 min. Layover (1 of 1) is a 4 hr 20 min layover at Bahrain International Airport in Bahrain. Select flight"
+                    - generic [ref=e882] [cursor=pointer]:
+                      - generic [ref=e884]:
+                        - generic [ref=e886]:
+                          - generic "Leaves Dubai International Airport at 9:00 PM on Thursday, October 1 and arrives at Munich International Airport at 6:35 AM on Friday, October 2." [ref=e888]:
+                            - 'generic "Departure time: 9:00 PM." [ref=e1686]': 9:00 PM
+                            - text: –
+                            - 'generic "Arrival time: 6:35 AM on Friday, October 2." [ref=e1689]':
+                              - 'generic "Arrival time: 6:35 AM on Friday, October 2." [ref=e1690]':
+                                - text: 6:35 AM
+                                - generic [ref=e1691]: "+1"
+                          - generic [ref=e897]: Gulf Air
+                        - generic [ref=e898]:
+                          - generic "Total duration 11 hr 35 min." [ref=e899]: 11 hr 35 min
+                          - generic [ref=e900]:
+                            - generic [ref=e901]: DXB
+                            - text: –
+                            - generic [ref=e904]: MUC
+                        - generic [ref=e907]:
+                          - generic "1 stop flight." [ref=e909]: 1 stop
+                          - generic "Layover (1 of 1) is a 4 hr 20 min layover at Bahrain International Airport in Bahrain." [ref=e910]:
+                            - text: 4 hr 20 min
+                            - generic [ref=e1696]: BAH
+                        - generic [ref=e914]:
+                          - generic [ref=e915]: 403 kg CO2e
+                          - generic [ref=e917]:
+                            - generic [ref=e918]: +14% emissions
+                            - 'button "Carbon emissions estimate: 403 kilograms. +14% emissions. Learn more about this emissions estimate" [ref=e919]'
+                        - generic [ref=e922]:
+                          - generic [ref=e923]: AED 1,810
+                          - generic [ref=e925]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 9:00 PM on Thursday, October 1 and arrives at Munich International Airport at 6:35 AM on Friday, October 2." [ref=e928]
+                - listitem [ref=e933]:
+                  - generic [ref=e934]:
+                    - link "From 1840 UAE dirhams round trip total. 1 stop flight with Qatar Airways. Leaves Sharjah International Airport at 12:30 AM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Thursday, October 1. Total duration 8 hr 30 min. Layover (1 of 1) is a 1 hr 20 min layover at Hamad International Airport in Doha. Select flight"
+                    - generic [ref=e936] [cursor=pointer]:
+                      - generic [ref=e938]:
+                        - generic [ref=e940]:
+                          - generic "Leaves Sharjah International Airport at 12:30 AM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Thursday, October 1." [ref=e942]:
+                            - 'generic "Departure time: 12:30 AM." [ref=e1700]': 12:30 AM
+                            - text: –
+                            - 'generic "Arrival time: 7:00 AM." [ref=e1703]': 7:00 AM
+                          - generic [ref=e949]: Qatar Airways
+                        - generic [ref=e950]:
+                          - generic "Total duration 8 hr 30 min." [ref=e951]: 8 hr 30 min
+                          - generic [ref=e952]:
+                            - generic [ref=e953]: SHJ
+                            - text: –
+                            - generic [ref=e956]: MUC
+                        - generic [ref=e959]:
+                          - generic "1 stop flight." [ref=e961]: 1 stop
+                          - generic "Layover (1 of 1) is a 1 hr 20 min layover at Hamad International Airport in Doha." [ref=e962]:
+                            - text: 1 hr 20 min
+                            - generic [ref=e1708]: DOH
+                        - generic [ref=e966]:
+                          - generic [ref=e967]: 330 kg CO2e
+                          - generic [ref=e969]:
+                            - generic [ref=e970]: "-7% emissions"
+                            - 'button "Carbon emissions estimate: 330 kilograms. -7% emissions. Learn more about this emissions estimate" [ref=e971]'
+                        - generic [ref=e974]:
+                          - generic [ref=e975]: AED 1,840
+                          - generic [ref=e977]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Sharjah International Airport at 12:30 AM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Thursday, October 1." [ref=e980]
+                - listitem [ref=e985]:
+                  - generic [ref=e986]:
+                    - link "From 1989 UAE dirhams round trip total. Nonstop flight with Air Arabia. Leaves Sharjah International Airport at 5:15 PM on Thursday, October 1 and arrives at Munich International Airport at 9:55 PM on Thursday, October 1. Total duration 6 hr 40 min. Select flight"
+                    - generic [ref=e988] [cursor=pointer]:
+                      - generic [ref=e990]:
+                        - generic [ref=e992]:
+                          - generic "Leaves Sharjah International Airport at 5:15 PM on Thursday, October 1 and arrives at Munich International Airport at 9:55 PM on Thursday, October 1." [ref=e994]:
+                            - 'generic "Departure time: 5:15 PM." [ref=e1712]': 5:15 PM
+                            - text: –
+                            - 'generic "Arrival time: 9:55 PM." [ref=e1715]': 9:55 PM
+                          - generic [ref=e1001]: Air Arabia
+                        - generic [ref=e1002]:
+                          - generic "Total duration 6 hr 40 min." [ref=e1003]: 6 hr 40 min
+                          - generic [ref=e1004]:
+                            - generic [ref=e1005]: SHJ
+                            - text: –
+                            - generic [ref=e1008]: MUC
+                        - generic "Nonstop flight." [ref=e1013]: Nonstop
+                        - generic [ref=e1015]:
+                          - generic [ref=e1016]: 312 kg CO2e
+                          - generic [ref=e1018]:
+                            - generic [ref=e1019]: "-12% emissions"
+                            - 'button "Carbon emissions estimate: 312 kilograms. -12% emissions. Learn more about this emissions estimate" [ref=e1020]'
+                        - generic [ref=e1023]:
+                          - generic [ref=e1024]: AED 1,989
+                          - generic [ref=e1026]: round trip
+                      - text: · ··
+                      - generic [ref=e1027]:
+                        - generic [ref=e1028]:
+                          - text: Avoids as much CO2e as
+                          - generic [ref=e1029]: 2,557 trees absorb in a day
+                        - button "Avoids as much CO2e as 2557 trees absorb in a day. Learn more about this calculation." [ref=e1030]
+                    - button "Flight details. Leaves Sharjah International Airport at 5:15 PM on Thursday, October 1 and arrives at Munich International Airport at 9:55 PM on Thursday, October 1." [ref=e1035]
+                - listitem [ref=e1040]:
+                  - generic [ref=e1041]:
+                    - link "From 3030 UAE dirhams round trip total. Nonstop flight with Emirates. Leaves Dubai International Airport at 8:50 AM on Thursday, October 1 and arrives at Munich International Airport at 1:15 PM on Thursday, October 1. Total duration 6 hr 25 min. Select flight"
+                    - generic [ref=e1043] [cursor=pointer]:
+                      - generic [ref=e1045]:
+                        - generic [ref=e1047]:
+                          - generic "Leaves Dubai International Airport at 8:50 AM on Thursday, October 1 and arrives at Munich International Airport at 1:15 PM on Thursday, October 1." [ref=e1049]:
+                            - 'generic "Departure time: 8:50 AM." [ref=e1722]': 8:50 AM
+                            - text: –
+                            - 'generic "Arrival time: 1:15 PM." [ref=e1725]': 1:15 PM
+                          - generic [ref=e1056]: Emirates
+                        - generic [ref=e1057]:
+                          - generic "Total duration 6 hr 25 min." [ref=e1058]: 6 hr 25 min
+                          - generic [ref=e1059]:
+                            - generic [ref=e1060]: DXB
+                            - text: –
+                            - generic [ref=e1063]: MUC
+                        - generic "Nonstop flight." [ref=e1068]: Nonstop
+                        - generic [ref=e1070]:
+                          - generic [ref=e1071]: 347 kg CO2e
+                          - generic [ref=e1073]:
+                            - generic [ref=e1074]: Avg emissions
+                            - 'button "Carbon emissions estimate: 347 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e1075]'
+                        - generic [ref=e1078]:
+                          - generic [ref=e1079]: AED 3,030
+                          - generic [ref=e1081]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 8:50 AM on Thursday, October 1 and arrives at Munich International Airport at 1:15 PM on Thursday, October 1." [ref=e1084]
+            - generic [ref=e1734]:
+              - heading "Price insights" [level=3] [ref=e1735]
+              - generic [ref=e1736] [cursor=pointer]:
+                - heading "Prices are currently typical" [level=4] [ref=e1741]
+                - generic [ref=e1743]: View price history
+                - button "View price history" [ref=e1745]
+            - region "Find the best price" [ref=e1089]:
+              - generic [ref=e1092]:
+                - heading "Track prices" [level=2] [ref=e1095]
+                - button [ref=e1099] [cursor=pointer]:
+                  - link "Learn more about tracked prices" [ref=e1100]
+                - generic [ref=e1103]: Track prices from Dubai to Munich departing 2026-10-01 and returning 2026-10-09
+                - generic [ref=e1104]:
+                  - generic [ref=e1105]: Oct 1 – 9
+                  - switch "Track prices from Dubai to Munich departing 2026-10-01 and returning 2026-10-09" [ref=e1109] [cursor=pointer]
+              - generic [ref=e1122]:
+                - button "Date grid" [ref=e1124]
+                - button "Price graph" [ref=e1135]
+            - generic [ref=e1148]:
+              - heading "Other departing flights" [level=3] [ref=e1149]
+              - list [ref=e1150]:
+                - listitem [ref=e1151]:
+                  - generic [ref=e1152]:
+                    - link "From 1512 UAE dirhams round trip total.This price does not include overhead bin access. 1 stop flight with Royal Jordanian. Leaves Dubai International Airport at 9:50 PM on Thursday, October 1 and arrives at Munich International Airport at 3:10 PM on Friday, October 2. Total duration 19 hr 20 min. Layover (1 of 1) is a 11 hr 40 min layover at Queen Alia International Airport in Amman. Select flight"
+                    - generic [ref=e1154] [cursor=pointer]:
+                      - generic [ref=e1156]:
+                        - generic [ref=e1158]:
+                          - generic "Leaves Dubai International Airport at 9:50 PM on Thursday, October 1 and arrives at Munich International Airport at 3:10 PM on Friday, October 2." [ref=e1160]:
+                            - 'generic "Departure time: 9:50 PM." [ref=e1752]': 9:50 PM
+                            - text: –
+                            - 'generic "Arrival time: 3:10 PM on Friday, October 2." [ref=e1755]':
+                              - 'generic "Arrival time: 3:10 PM on Friday, October 2." [ref=e1756]':
+                                - text: 3:10 PM
+                                - generic [ref=e1757]: "+1"
+                          - generic [ref=e1169]: Royal Jordanian
+                        - generic [ref=e1170]:
+                          - generic "Total duration 19 hr 20 min." [ref=e1171]: 19 hr 20 min
+                          - generic [ref=e1172]:
+                            - generic [ref=e1173]: DXB
+                            - text: –
+                            - generic [ref=e1176]: MUC
+                        - generic [ref=e1179]:
+                          - generic "1 stop flight." [ref=e1181]: 1 stop
+                          - generic "Layover (1 of 1) is a 11 hr 40 min layover at Queen Alia International Airport in Amman." [ref=e1189]:
+                            - text: 11 hr 40 min
+                            - generic [ref=e1768]: AMM
+                        - generic [ref=e1193]:
+                          - generic [ref=e1194]: 367 kg CO2e
+                          - generic [ref=e1196]:
+                            - generic [ref=e1197]: Avg emissions
+                            - 'button "Carbon emissions estimate: 367 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e1198]'
+                        - generic [ref=e1201]:
+                          - generic [ref=e1202]:
+                            - button "This price for this flight doesn't include overhead bin access. If you need a carry-on bag, use the Bags filter to update prices." [ref=e1772]
+                            - generic [ref=e1210]: AED 1,512
+                          - generic [ref=e1211]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 9:50 PM on Thursday, October 1 and arrives at Munich International Airport at 3:10 PM on Friday, October 2." [ref=e1214]
+                - listitem [ref=e1219]:
+                  - generic [ref=e1220]:
+                    - link "From 1810 UAE dirhams round trip total. 1 stop flight with Royal Jordanian. Leaves Sharjah International Airport at 8:25 PM on Thursday, October 1 and arrives at Munich International Airport at 3:10 PM on Friday, October 2. Total duration 20 hr 45 min. Layover (1 of 1) is a 13 hr 15 min layover at Queen Alia International Airport in Amman. Select flight"
+                    - generic [ref=e1222] [cursor=pointer]:
+                      - generic [ref=e1224]:
+                        - generic [ref=e1226]:
+                          - generic "Leaves Sharjah International Airport at 8:25 PM on Thursday, October 1 and arrives at Munich International Airport at 3:10 PM on Friday, October 2." [ref=e1228]:
+                            - 'generic "Departure time: 8:25 PM." [ref=e1778]': 8:25 PM
+                            - text: –
+                            - 'generic "Arrival time: 3:10 PM on Friday, October 2." [ref=e1781]':
+                              - 'generic "Arrival time: 3:10 PM on Friday, October 2." [ref=e1782]':
+                                - text: 3:10 PM
+                                - generic [ref=e1783]: "+1"
+                          - generic [ref=e1237]: Royal Jordanian
+                        - generic [ref=e1238]:
+                          - generic "Total duration 20 hr 45 min." [ref=e1239]: 20 hr 45 min
+                          - generic [ref=e1240]:
+                            - generic [ref=e1241]: SHJ
+                            - text: –
+                            - generic [ref=e1244]: MUC
+                        - generic [ref=e1247]:
+                          - generic "1 stop flight." [ref=e1249]: 1 stop
+                          - generic "Layover (1 of 1) is a 13 hr 15 min layover at Queen Alia International Airport in Amman." [ref=e1257]:
+                            - text: 13 hr 15 min
+                            - generic [ref=e1794]: AMM
+                        - generic [ref=e1261]:
+                          - generic [ref=e1262]: 426 kg CO2e
+                          - generic [ref=e1264]:
+                            - generic [ref=e1265]: +20% emissions
+                            - 'button "Carbon emissions estimate: 426 kilograms. +20% emissions. Learn more about this emissions estimate" [ref=e1266]'
+                        - generic [ref=e1269]:
+                          - generic [ref=e1270]: AED 1,810
+                          - generic [ref=e1272]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Sharjah International Airport at 8:25 PM on Thursday, October 1 and arrives at Munich International Airport at 3:10 PM on Friday, October 2." [ref=e1275]
+                - listitem [ref=e1280]:
+                  - generic [ref=e1281]:
+                    - link "From 1840 UAE dirhams round trip total. 1 stop flight with Qatar Airways. Leaves Sharjah International Airport at 5:40 AM on Thursday, October 1 and arrives at Munich International Airport at 2:10 PM on Thursday, October 1. Total duration 10 hr 30 min. Layover (1 of 1) is a 3 hr 20 min layover at Hamad International Airport in Doha. Select flight"
+                    - generic [ref=e1283] [cursor=pointer]:
+                      - generic [ref=e1285]:
+                        - generic [ref=e1287]:
+                          - generic "Leaves Sharjah International Airport at 5:40 AM on Thursday, October 1 and arrives at Munich International Airport at 2:10 PM on Thursday, October 1." [ref=e1289]:
+                            - 'generic "Departure time: 5:40 AM." [ref=e1798]': 5:40 AM
+                            - text: –
+                            - 'generic "Arrival time: 2:10 PM." [ref=e1801]': 2:10 PM
+                          - generic [ref=e1296]: Qatar Airways
+                        - generic [ref=e1297]:
+                          - generic "Total duration 10 hr 30 min." [ref=e1298]: 10 hr 30 min
+                          - generic [ref=e1299]:
+                            - generic [ref=e1300]: SHJ
+                            - text: –
+                            - generic [ref=e1303]: MUC
+                        - generic [ref=e1306]:
+                          - generic "1 stop flight." [ref=e1308]: 1 stop
+                          - generic "Layover (1 of 1) is a 3 hr 20 min layover at Hamad International Airport in Doha." [ref=e1309]:
+                            - text: 3 hr 20 min
+                            - generic [ref=e1806]: DOH
+                        - generic [ref=e1313]:
+                          - generic [ref=e1314]: 335 kg CO2e
+                          - generic [ref=e1316]:
+                            - generic [ref=e1317]: Avg emissions
+                            - 'button "Carbon emissions estimate: 335 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e1318]'
+                        - generic [ref=e1321]:
+                          - generic [ref=e1322]: AED 1,840
+                          - generic [ref=e1324]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Sharjah International Airport at 5:40 AM on Thursday, October 1 and arrives at Munich International Airport at 2:10 PM on Thursday, October 1." [ref=e1327]
+                - listitem [ref=e1332]:
+                  - generic [ref=e1333]:
+                    - link "From 1840 UAE dirhams round trip total. 1 stop flight with Qatar Airways. Leaves Sharjah International Airport at 9:35 PM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Friday, October 2. Total duration 11 hr 25 min. Layover (1 of 1) is a 4 hr 15 min layover at Hamad International Airport in Doha. Select flight"
+                    - generic [ref=e1335] [cursor=pointer]:
+                      - generic [ref=e1337]:
+                        - generic [ref=e1339]:
+                          - generic "Leaves Sharjah International Airport at 9:35 PM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Friday, October 2." [ref=e1341]:
+                            - 'generic "Departure time: 9:35 PM." [ref=e1810]': 9:35 PM
+                            - text: –
+                            - 'generic "Arrival time: 7:00 AM on Friday, October 2." [ref=e1813]':
+                              - 'generic "Arrival time: 7:00 AM on Friday, October 2." [ref=e1814]':
+                                - text: 7:00 AM
+                                - generic [ref=e1815]: "+1"
+                          - generic [ref=e1350]: Qatar Airways
+                        - generic [ref=e1351]:
+                          - generic "Total duration 11 hr 25 min." [ref=e1352]: 11 hr 25 min
+                          - generic [ref=e1353]:
+                            - generic [ref=e1354]: SHJ
+                            - text: –
+                            - generic [ref=e1357]: MUC
+                        - generic [ref=e1360]:
+                          - generic "1 stop flight." [ref=e1362]: 1 stop
+                          - generic "Layover (1 of 1) is a 4 hr 15 min layover at Hamad International Airport in Doha." [ref=e1363]:
+                            - text: 4 hr 15 min
+                            - generic [ref=e1820]: DOH
+                        - generic [ref=e1367]:
+                          - generic [ref=e1368]: 330 kg CO2e
+                          - generic [ref=e1370]:
+                            - generic [ref=e1371]: "-7% emissions"
+                            - 'button "Carbon emissions estimate: 330 kilograms. -7% emissions. Learn more about this emissions estimate" [ref=e1372]'
+                        - generic [ref=e1375]:
+                          - generic [ref=e1376]: AED 1,840
+                          - generic [ref=e1378]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Sharjah International Airport at 9:35 PM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Friday, October 2." [ref=e1381]
+                - listitem [ref=e1386]:
+                  - generic [ref=e1387]:
+                    - link "From 1900 UAE dirhams round trip total. 1 stop flight with Qatar Airways. Leaves Dubai International Airport at 11:25 PM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Friday, October 2. Total duration 9 hr 35 min. Layover (1 of 1) is a 2 hr 20 min layover at Hamad International Airport in Doha. Select flight"
+                    - generic [ref=e1389] [cursor=pointer]:
+                      - generic [ref=e1391]:
+                        - generic [ref=e1393]:
+                          - generic "Leaves Dubai International Airport at 11:25 PM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Friday, October 2." [ref=e1395]:
+                            - 'generic "Departure time: 11:25 PM." [ref=e1824]': 11:25 PM
+                            - text: –
+                            - 'generic "Arrival time: 7:00 AM on Friday, October 2." [ref=e1827]':
+                              - 'generic "Arrival time: 7:00 AM on Friday, October 2." [ref=e1828]':
+                                - text: 7:00 AM
+                                - generic [ref=e1829]: "+1"
+                          - generic [ref=e1404]: Qatar Airways
+                        - generic [ref=e1405]:
+                          - generic "Total duration 9 hr 35 min." [ref=e1406]: 9 hr 35 min
+                          - generic [ref=e1407]:
+                            - generic [ref=e1408]: DXB
+                            - text: –
+                            - generic [ref=e1411]: MUC
+                        - generic [ref=e1414]:
+                          - generic "1 stop flight." [ref=e1416]: 1 stop
+                          - generic "Layover (1 of 1) is a 2 hr 20 min layover at Hamad International Airport in Doha." [ref=e1417]:
+                            - text: 2 hr 20 min
+                            - generic [ref=e1834]: DOH
+                        - generic [ref=e1421]:
+                          - generic [ref=e1422]: 316 kg CO2e
+                          - generic [ref=e1424]:
+                            - generic [ref=e1425]: "-11% emissions"
+                            - 'button "Carbon emissions estimate: 316 kilograms. -11% emissions. Learn more about this emissions estimate" [ref=e1426]'
+                        - generic [ref=e1429]:
+                          - generic [ref=e1430]: AED 1,900
+                          - generic [ref=e1432]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 11:25 PM on Thursday, October 1 and arrives at Munich International Airport at 7:00 AM on Friday, October 2." [ref=e1435]
+                - listitem [ref=e1440]:
+                  - generic [ref=e1441]:
+                    - link "From 1960 UAE dirhams round trip total. 1 stop flight with Gulf Air. Leaves Dubai International Airport at 11:35 PM on Thursday, October 1 and arrives at Munich International Airport at 6:35 AM on Friday, October 2. Total duration 9 hr. Layover (1 of 1) is a 1 hr 40 min layover at Bahrain International Airport in Bahrain. Select flight"
+                    - generic [ref=e1443] [cursor=pointer]:
+                      - generic [ref=e1445]:
+                        - generic [ref=e1447]:
+                          - generic "Leaves Dubai International Airport at 11:35 PM on Thursday, October 1 and arrives at Munich International Airport at 6:35 AM on Friday, October 2." [ref=e1449]:
+                            - 'generic "Departure time: 11:35 PM." [ref=e1838]': 11:35 PM
+                            - text: –
+                            - 'generic "Arrival time: 6:35 AM on Friday, October 2." [ref=e1841]':
+                              - 'generic "Arrival time: 6:35 AM on Friday, October 2." [ref=e1842]':
+                                - text: 6:35 AM
+                                - generic [ref=e1843]: "+1"
+                          - generic [ref=e1458]: Gulf Air
+                        - generic [ref=e1459]:
+                          - generic "Total duration 9 hr." [ref=e1460]: 9 hr
+                          - generic [ref=e1461]:
+                            - generic [ref=e1462]: DXB
+                            - text: –
+                            - generic [ref=e1465]: MUC
+                        - generic [ref=e1468]:
+                          - generic "1 stop flight." [ref=e1470]: 1 stop
+                          - generic "Layover (1 of 1) is a 1 hr 40 min layover at Bahrain International Airport in Bahrain." [ref=e1471]:
+                            - text: 1 hr 40 min
+                            - generic [ref=e1848]: BAH
+                        - generic [ref=e1475]:
+                          - generic [ref=e1476]: 405 kg CO2e
+                          - generic [ref=e1478]:
+                            - generic [ref=e1479]: +14% emissions
+                            - 'button "Carbon emissions estimate: 405 kilograms. +14% emissions. Learn more about this emissions estimate" [ref=e1480]'
+                        - generic [ref=e1483]:
+                          - generic [ref=e1484]: AED 1,960
+                          - generic [ref=e1486]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 11:35 PM on Thursday, October 1 and arrives at Munich International Airport at 6:35 AM on Friday, October 2." [ref=e1489]
+                - listitem [ref=e1494]:
+                  - generic [ref=e1495]:
+                    - link "From 2110 UAE dirhams round trip total. 1 stop flight with Qatar Airways. Leaves Dubai International Airport at 5:50 AM on Thursday, October 1 and arrives at Munich International Airport at 2:10 PM on Thursday, October 1. Total duration 10 hr 20 min. Layover (1 of 1) is a 3 hr 5 min layover at Hamad International Airport in Doha. Select flight"
+                    - generic [ref=e1497] [cursor=pointer]:
+                      - generic [ref=e1499]:
+                        - generic [ref=e1501]:
+                          - generic "Leaves Dubai International Airport at 5:50 AM on Thursday, October 1 and arrives at Munich International Airport at 2:10 PM on Thursday, October 1." [ref=e1503]:
+                            - 'generic "Departure time: 5:50 AM." [ref=e1852]': 5:50 AM
+                            - text: –
+                            - 'generic "Arrival time: 2:10 PM." [ref=e1855]': 2:10 PM
+                          - generic [ref=e1510]: Qatar Airways
+                        - generic [ref=e1511]:
+                          - generic "Total duration 10 hr 20 min." [ref=e1512]: 10 hr 20 min
+                          - generic [ref=e1513]:
+                            - generic [ref=e1514]: DXB
+                            - text: –
+                            - generic [ref=e1517]: MUC
+                        - generic [ref=e1520]:
+                          - generic "1 stop flight." [ref=e1522]: 1 stop
+                          - generic "Layover (1 of 1) is a 3 hr 5 min layover at Hamad International Airport in Doha." [ref=e1523]:
+                            - text: 3 hr 5 min
+                            - generic [ref=e1860]: DOH
+                        - generic [ref=e1527]:
+                          - generic [ref=e1528]: 325 kg CO2e
+                          - generic [ref=e1530]:
+                            - generic [ref=e1531]: "-8% emissions"
+                            - 'button "Carbon emissions estimate: 325 kilograms. -8% emissions. Learn more about this emissions estimate" [ref=e1532]'
+                        - generic [ref=e1535]:
+                          - generic [ref=e1536]: AED 2,110
+                          - generic [ref=e1538]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 5:50 AM on Thursday, October 1 and arrives at Munich International Airport at 2:10 PM on Thursday, October 1." [ref=e1541]
+                - listitem [ref=e1546]:
+                  - generic [ref=e1547]:
+                    - link "From 3030 UAE dirhams round trip total. Nonstop flight with Emirates. Leaves Dubai International Airport at 4:20 PM on Thursday, October 1 and arrives at Munich International Airport at 8:40 PM on Thursday, October 1. Total duration 6 hr 20 min. Select flight"
+                    - generic [ref=e1549] [cursor=pointer]:
+                      - generic [ref=e1551]:
+                        - generic [ref=e1553]:
+                          - generic "Leaves Dubai International Airport at 4:20 PM on Thursday, October 1 and arrives at Munich International Airport at 8:40 PM on Thursday, October 1." [ref=e1555]:
+                            - 'generic "Departure time: 4:20 PM." [ref=e1864]': 4:20 PM
+                            - text: –
+                            - 'generic "Arrival time: 8:40 PM." [ref=e1867]': 8:40 PM
+                          - generic [ref=e1562]: Emirates
+                        - generic [ref=e1563]:
+                          - generic "Total duration 6 hr 20 min." [ref=e1564]: 6 hr 20 min
+                          - generic [ref=e1565]:
+                            - generic [ref=e1566]: DXB
+                            - text: –
+                            - generic [ref=e1569]: MUC
+                        - generic "Nonstop flight." [ref=e1574]: Nonstop
+                        - generic [ref=e1576]:
+                          - generic [ref=e1577]: 347 kg CO2e
+                          - generic [ref=e1579]:
+                            - generic [ref=e1580]: Avg emissions
+                            - 'button "Carbon emissions estimate: 347 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e1581]'
+                        - generic [ref=e1584]:
+                          - generic [ref=e1585]: AED 3,030
+                          - generic [ref=e1587]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 4:20 PM on Thursday, October 1 and arrives at Munich International Airport at 8:40 PM on Thursday, October 1." [ref=e1590]
+                - listitem [ref=e1595]:
+                  - generic [ref=e1596]:
+                    - link "From 3910 UAE dirhams round trip total. 3 stops flight with Emirates, SWISS and Lufthansa. Operated by Deutsche Bahn, Deutsche Bahn. Leaves Dubai International Airport at 12:00 PM on Thursday, October 1 and arrives at München Hauptbahnhof at 11:34 AM on Friday, October 2. Total duration 25 hr 34 min. Layover (1 of 3) is a 3 hr 25 min layover at Cairo International Airport in Cairo. Layover (2 of 3) is a 10 hr 8 min layover at Zurich Airport in Zürich. Layover (3 of 3) is a 2 min layover at Bregenz in Bregenz. Select flight"
+                    - generic [ref=e1598] [cursor=pointer]:
+                      - generic [ref=e1600]:
+                        - generic [ref=e1602]:
+                          - generic "Leaves Dubai International Airport at 12:00 PM on Thursday, October 1 and arrives at München Hauptbahnhof at 11:34 AM on Friday, October 2." [ref=e1604]:
+                            - 'generic "Departure time: 12:00 PM." [ref=e1874]': 12:00 PM
+                            - text: –
+                            - 'generic "Arrival time: 11:34 AM on Friday, October 2." [ref=e1877]':
+                              - 'generic "Arrival time: 11:34 AM on Friday, October 2." [ref=e1878]':
+                                - text: 11:34 AM
+                                - generic [ref=e1879]: "+1"
+                          - generic [ref=e1613]:
+                            - text: Emirates, SWISS, Lufthansa
+                            - generic [ref=e1614]: ·
+                            - text: Operated by Deutsche Bahn, Deutsche Bahn
+                        - generic [ref=e1615]:
+                          - generic "Total duration 25 hr 34 min." [ref=e1616]: 25 hr 34 min
+                          - generic [ref=e1617]: Flight + Train
+                        - generic [ref=e1619]:
+                          - generic "3 stops flight." [ref=e1621]: 3 stops
+                          - generic "Layover (1 of 3) is a 3 hr 25 min layover at Cairo International Airport in Cairo. Layover (2 of 3) is a 10 hr 8 min layover at Zurich Airport in Zürich. Layover (3 of 3) is a 2 min layover at Bregenz in Bregenz." [ref=e1629]:
+                            - generic [ref=e1886]: CAI
+                            - text: ","
+                            - generic [ref=e1888]: ZRH
+                            - text: ","
+                            - generic [ref=e1890]: XGZ
+                        - generic [ref=e1637]:
+                          - generic [ref=e1638]: 376 kg CO2e
+                          - generic [ref=e1640]:
+                            - generic [ref=e1641]: +6% emissions
+                            - 'button "Carbon emissions estimate: 376 kilograms. +6% emissions. Learn more about this emissions estimate" [ref=e1642]'
+                        - generic [ref=e1645]:
+                          - generic [ref=e1646]: AED 3,910
+                          - generic [ref=e1648]: round trip
+                      - text: · ·· ·
+                    - button "Flight details. Leaves Dubai International Airport at 12:00 PM on Thursday, October 1 and arrives at München Hauptbahnhof at 11:34 AM on Friday, October 2." [ref=e1651]
+                - listitem [ref=e1656]:
+                  - generic [ref=e1657] [cursor=pointer]:
+                    - button "View more flights" [ref=e1660]
+                    - generic [ref=e1663]: View more flights
+          - text: · · ·· · · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ·· · ·· · · ·· ·
+      - contentinfo [ref=e694]:
+        - generic [ref=e696]:
+          - button "Language·English (United States)" [ref=e697]
+          - button "Location·United Arab Emirates" [ref=e703]
+          - button "Currency AED" [ref=e710]:
+            - generic [ref=e722]: Currency·AED
+        - generic [ref=e724]:
+          - link "About Google Travel" [ref=e725] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=e726] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=e727] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=e728] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=e729] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=e730] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - generic [ref=e731]:
+          - paragraph [ref=e732]:
+            - text: Displayed currencies may differ from the currencies used to purchase flights.
+            - link "Learn more about currencies" [ref=e733] [cursor=pointer]:
+              - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=AE
+              - text: Learn more
+          - paragraph [ref=e734]: Prices are final prices and include all taxes and fees, including payment fees for the cheapest common payment method (which may differ depending on the provider). Additional charges may apply for other types of payment, luggage, meals, WLAN or other additional services. Prices, availability and travel details are provided based on the latest information received from our partners. This information is reflected in the results within a period of less than 24 hours. Additional conditions may also be applied by our partners. You should then check prices and conditions with the services providers before booking.
+  - generic [ref=e735]: Page loaded.

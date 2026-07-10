@@ -1,0 +1,260 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - button "Main menu" [ref=e6] [cursor=pointer]
+        - link "Google" [ref=e11] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic:
+            - button "Skip to main content" [ref=e16]
+            - button "Accessibility feedback" [ref=e19]
+          - navigation [ref=e23]:
+            - link "Explore" [ref=e26]
+            - link "Flights" [ref=e34]
+            - link "Hotels" [ref=e42]
+            - link "Vacation rentals" [ref=e53]
+        - generic [ref=e70]:
+          - button "Change appearance" [ref=e72]
+          - tooltip [ref=e75]: Change appearance
+      - generic [ref=e77]:
+        - button "Google apps" [ref=e81] [cursor=pointer]
+        - link "Sign in" [ref=e85] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=searchandassistant&passive=1209600&continue=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BDubai%2Bto%2BFrankfurt%2Bnonstop&followup=https://www.google.com/travel/flights?q%3Dflights%2Bfrom%2BDubai%2Bto%2BFrankfurt%2Bnonstop&ec=GAZAlQM
+  - generic [ref=e93]:
+    - generic [ref=e95]:
+      - generic [ref=e96]: Loading results
+      - progressbar [ref=e97]
+    - generic [ref=e102]:
+      - search [ref=e103]:
+        - heading "Flight search" [level=1] [ref=e104]
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - combobox "Change ticket type. Round trip" [ref=e111] [cursor=pointer]:
+              - generic: Round trip
+            - button "1 passenger, change number of passengers." [ref=e117]:
+              - generic [ref=e120]: "1"
+            - combobox "Change seating class. Economy" [ref=e130] [cursor=pointer]:
+              - generic: Economy
+          - generic [ref=e132]:
+            - generic [ref=e133]:
+              - generic [ref=e139]:
+                - combobox "Where from?" [ref=e140]: Dubai
+                - generic [ref=e141]: Dubai
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic [ref=e150]:
+                        - generic [ref=e151]:
+                          - text: Fly from AUH for AED 2,150
+                          - button "Change airport" [ref=e153] [cursor=pointer]
+                        - button "Close" [ref=e154] [cursor=pointer]
+                      - alert [ref=e157]: Expanded
+              - button "Swap origin and destination." [ref=e159] [cursor=pointer]
+              - generic [ref=e167]:
+                - combobox "Where to?" [ref=e168]: Frankfurt am Main
+                - generic [ref=e169]: Frankfurt am Main
+            - generic [ref=e182]:
+              - generic [ref=e184]:
+                - textbox "Departure" [ref=e189]: Thu, Sep 17
+                - button [ref=e192]
+                - button [ref=e199]
+              - generic [ref=e206]:
+                - textbox "Return" [ref=e207]: Wed, Sep 23
+                - button [ref=e210]
+                - button [ref=e217]
+          - heading "Filters" [level=2] [ref=e223]
+          - generic [ref=e226]:
+            - button "All filters, 1 filter selected" [ref=e229]:
+              - generic [ref=e234]: All filters (1)
+            - generic [ref=e237]:
+              - generic [ref=e239]:
+                - button "Nonstop, Stops, Selected" [ref=e240]:
+                  - generic [ref=e243]: Nonstop
+                - button "Clear Stops" [ref=e245] [cursor=pointer]
+              - button "Airlines, Not selected" [ref=e251]:
+                - generic [ref=e254]: Airlines
+              - button "Bags, Not selected" [ref=e261]:
+                - generic [ref=e264]: Bags
+              - button "Price, Not selected" [ref=e271]:
+                - generic [ref=e274]: Price
+              - button "Times, Not selected" [ref=e281]:
+                - generic [ref=e284]: Times
+              - button "Emissions, Not selected" [ref=e291]:
+                - generic [ref=e294]: Emissions
+              - button "Connecting airports, Not selected" [ref=e301]:
+                - generic [ref=e304]: Connecting airports
+              - button "Duration, Not selected" [ref=e311]:
+                - generic [ref=e314]: Duration
+      - main [ref=e319]:
+        - heading "Search results" [level=2] [ref=e320]
+        - generic [ref=e321]: 3 results returned.
+        - generic [ref=e329]:
+          - heading "Travel restricted" [level=2] [ref=e330]
+          - generic [ref=e331]: Airspace restrictions may affect flights.
+        - generic [ref=e333]:
+          - tablist [ref=e334]:
+            - tab [selected] [ref=e335] [cursor=pointer]:
+              - generic [ref=e336]:
+                - text: Best
+                - button "Learn more about ranking" [ref=e342]
+            - tab "Cheapest from Fetching results 2880 UAE dirhams Learn more about ranking" [ref=e346] [cursor=pointer]:
+              - generic [ref=e347]:
+                - text: Cheapest
+                - generic [ref=e349]:
+                  - generic [ref=e350]:
+                    - text: from
+                    - generic [ref=e351]:
+                      - generic [ref=e352]:
+                        - generic [ref=e353]: Fetching results
+                        - progressbar [ref=e354]
+                      - text: AED 2,880
+                  - button "Learn more about ranking" [ref=e373]
+          - tabpanel "BestLearn more about ranking" [ref=e377]:
+            - generic [ref=e382]:
+              - heading "Price insights" [level=3] [ref=e383]
+              - generic [ref=e384] [cursor=pointer]:
+                - heading "Prices are currently high" [level=4] [ref=e389]
+                - generic [ref=e391]: View price history
+                - button "View price history" [ref=e393]
+            - region "Find the best price" [ref=e398]:
+              - generic [ref=e401]:
+                - heading "Track prices" [level=2] [ref=e404]
+                - button [ref=e408] [cursor=pointer]:
+                  - link "Learn more about tracked prices" [ref=e409]
+                - generic [ref=e412]: Track prices from Dubai to Frankfurt am Main departing 2026-09-17 and returning 2026-09-23
+                - generic [ref=e413]:
+                  - generic [ref=e414]: Sep 17 – 23
+                  - switch "Track prices from Dubai to Frankfurt am Main departing 2026-09-17 and returning 2026-09-23" [ref=e418] [cursor=pointer]
+              - generic [ref=e431]:
+                - button "Date grid" [ref=e433]
+                - button "Price graph" [ref=e444]
+            - generic [ref=e457]:
+              - heading "Departing flights" [level=3] [ref=e458]
+              - generic [ref=e459]:
+                - generic [ref=e460]:
+                  - text: Prices include required taxes + fees for 1 adult.
+                  - generic [ref=e461]:
+                    - text: Optional charges and
+                    - button "bag fees" [ref=e462] [cursor=pointer]
+                    - text: may apply.
+                    - generic [ref=e463]:
+                      - button "Passenger assistance" [ref=e464] [cursor=pointer]
+                      - text: info.
+                - button "Sorted by top flights, Change sort order." [ref=e469]:
+                  - generic [ref=e472]: Sorted by top flights
+              - list [ref=e475]:
+                - listitem [ref=e476]:
+                  - generic [ref=e477]:
+                    - link "From 2880 UAE dirhams round trip total. Nonstop flight with Emirates. Leaves Dubai International Airport at 8:25 AM on Thursday, September 17 and arrives at Frankfurt Airport at 1:15 PM on Thursday, September 17. Total duration 6 hr 50 min. Select flight"
+                    - generic [ref=e479] [cursor=pointer]:
+                      - generic [ref=e481]:
+                        - generic [ref=e483]:
+                          - generic "Leaves Dubai International Airport at 8:25 AM on Thursday, September 17 and arrives at Frankfurt Airport at 1:15 PM on Thursday, September 17." [ref=e485]:
+                            - 'generic "Departure time: 8:25 AM." [ref=e488]': 8:25 AM
+                            - text: –
+                            - 'generic "Arrival time: 1:15 PM." [ref=e491]': 1:15 PM
+                          - generic [ref=e492]: Emirates
+                        - generic [ref=e493]:
+                          - generic "Total duration 6 hr 50 min." [ref=e494]: 6 hr 50 min
+                          - generic [ref=e495]:
+                            - generic [ref=e496]: DXB
+                            - text: –
+                            - generic [ref=e499]: FRA
+                        - generic "Nonstop flight." [ref=e504]: Nonstop
+                        - generic [ref=e506]:
+                          - generic [ref=e507]: 367 kg CO2e
+                          - generic [ref=e509]:
+                            - generic [ref=e510]: Avg emissions
+                            - 'button "Carbon emissions estimate: 367 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e511]'
+                        - generic [ref=e514]:
+                          - generic [ref=e515]: AED 2,880
+                          - generic [ref=e517]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 8:25 AM on Thursday, September 17 and arrives at Frankfurt Airport at 1:15 PM on Thursday, September 17." [ref=e520]
+                - listitem [ref=e525]:
+                  - generic [ref=e526]:
+                    - link "From 2880 UAE dirhams round trip total. Nonstop flight with Emirates. Leaves Dubai International Airport at 3:20 PM on Thursday, September 17 and arrives at Frankfurt Airport at 8:05 PM on Thursday, September 17. Total duration 6 hr 45 min. Select flight"
+                    - generic [ref=e528] [cursor=pointer]:
+                      - generic [ref=e530]:
+                        - generic [ref=e532]:
+                          - generic "Leaves Dubai International Airport at 3:20 PM on Thursday, September 17 and arrives at Frankfurt Airport at 8:05 PM on Thursday, September 17." [ref=e534]:
+                            - 'generic "Departure time: 3:20 PM." [ref=e537]': 3:20 PM
+                            - text: –
+                            - 'generic "Arrival time: 8:05 PM." [ref=e540]': 8:05 PM
+                          - generic [ref=e541]: Emirates
+                        - generic [ref=e542]:
+                          - generic "Total duration 6 hr 45 min." [ref=e543]: 6 hr 45 min
+                          - generic [ref=e544]:
+                            - generic [ref=e545]: DXB
+                            - text: –
+                            - generic [ref=e548]: FRA
+                        - generic "Nonstop flight." [ref=e553]: Nonstop
+                        - generic [ref=e555]:
+                          - generic [ref=e556]: 367 kg CO2e
+                          - generic [ref=e558]:
+                            - generic [ref=e559]: Avg emissions
+                            - 'button "Carbon emissions estimate: 367 kilograms. Average emissions. Learn more about this emissions estimate" [ref=e560]'
+                        - generic [ref=e563]:
+                          - generic [ref=e564]: AED 2,880
+                          - generic [ref=e566]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 3:20 PM on Thursday, September 17 and arrives at Frankfurt Airport at 8:05 PM on Thursday, September 17." [ref=e569]
+                - listitem [ref=e574]:
+                  - generic [ref=e575]:
+                    - link "From 3050 UAE dirhams round trip total. Nonstop flight with Emirates. Leaves Dubai International Airport at 3:45 AM on Thursday, September 17 and arrives at Frankfurt Airport at 8:50 AM on Thursday, September 17. Total duration 7 hr 5 min. Select flight"
+                    - generic [ref=e577] [cursor=pointer]:
+                      - generic [ref=e579]:
+                        - generic [ref=e581]:
+                          - generic "Leaves Dubai International Airport at 3:45 AM on Thursday, September 17 and arrives at Frankfurt Airport at 8:50 AM on Thursday, September 17." [ref=e583]:
+                            - 'generic "Departure time: 3:45 AM." [ref=e586]': 3:45 AM
+                            - text: –
+                            - 'generic "Arrival time: 8:50 AM." [ref=e589]': 8:50 AM
+                          - generic [ref=e590]: Emirates
+                        - generic [ref=e591]:
+                          - generic "Total duration 7 hr 5 min." [ref=e592]: 7 hr 5 min
+                          - generic [ref=e593]:
+                            - generic [ref=e594]: DXB
+                            - text: –
+                            - generic [ref=e597]: FRA
+                        - generic "Nonstop flight." [ref=e602]: Nonstop
+                        - generic [ref=e604]:
+                          - generic [ref=e605]: 330 kg CO2e
+                          - generic [ref=e607]:
+                            - generic [ref=e608]: "-6% emissions"
+                            - 'button "Carbon emissions estimate: 330 kilograms. -6% emissions. Learn more about this emissions estimate" [ref=e609]'
+                        - generic [ref=e612]:
+                          - generic [ref=e613]: AED 3,050
+                          - generic [ref=e615]: round trip
+                      - text: · ··
+                    - button "Flight details. Leaves Dubai International Airport at 3:45 AM on Thursday, September 17 and arrives at Frankfurt Airport at 8:50 AM on Thursday, September 17." [ref=e618]
+          - text: · ·· · ·· · ··
+      - contentinfo [ref=e625]:
+        - generic [ref=e627]:
+          - button "Language·English (United States)" [ref=e628]
+          - button "Location·United Arab Emirates" [ref=e634]
+          - button "Currency AED" [ref=e641]:
+            - generic [ref=e653]: Currency·AED
+        - generic [ref=e655]:
+          - link "About Google Travel" [ref=e656] [cursor=pointer]:
+            - /url: https://about.google/?hl=en-US
+            - text: About
+          - link "Privacy" [ref=e657] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-US
+          - link "Terms" [ref=e658] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-US
+          - link "Join user studies" [ref=e659] [cursor=pointer]:
+            - /url: https://google.qualtrics.com/jfe/form/SV_3NMIMtX0F2zkakR?reserved%3D1%26utm_source%3DFooter%2520link%26utm_medium%3Down_web%26%20utm_campaign%3DQ2%26productTag%3D0%26campaignDate%3DApril2020%26referral_code%3DUXbJ377133&Q_Language=en-US
+          - link "Feedback" [ref=e660] [cursor=pointer]:
+            - /url: ./#0
+          - link "Help Center" [ref=e661] [cursor=pointer]:
+            - /url: https://support.google.com/travel/?hl=en-US#topic=2475360
+        - generic [ref=e662]:
+          - paragraph [ref=e663]:
+            - text: Displayed currencies may differ from the currencies used to purchase flights.
+            - link "Learn more about currencies" [ref=e664] [cursor=pointer]:
+              - /url: https://www.google.com/googlefinance/disclaimer?hl=en-US&gl=AE
+              - text: Learn more
+          - paragraph [ref=e665]: Prices are final prices and include all taxes and fees, including payment fees for the cheapest common payment method (which may differ depending on the provider). Additional charges may apply for other types of payment, luggage, meals, WLAN or other additional services. Prices, availability and travel details are provided based on the latest information received from our partners. This information is reflected in the results within a period of less than 24 hours. Additional conditions may also be applied by our partners. You should then check prices and conditions with the services providers before booking.
