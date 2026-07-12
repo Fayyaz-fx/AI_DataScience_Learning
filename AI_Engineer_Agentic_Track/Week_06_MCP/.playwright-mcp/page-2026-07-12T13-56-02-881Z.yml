@@ -1,0 +1,701 @@
+- generic [active] [ref=f6e1]:
+  - main [ref=f6e3]:
+    - navigation "Main Navigation" [ref=f6e6]:
+      - generic [ref=f6e7]:
+        - link "Home" [ref=f6e9] [cursor=pointer]:
+          - /url: https://www.eventbrite.com/
+          - generic "Eventbrite" [ref=f6e10]
+        - navigation "Main Navigation" [ref=f6e15]:
+          - generic [ref=f6e17] [cursor=pointer]:
+            - generic [ref=f6e28]:
+              - generic: Search events
+              - searchbox "Search events" [ref=f6e29]
+            - generic [ref=f6e30]:
+              - separator [ref=f6e32]
+              - generic [ref=f6e47]:
+                - generic: autocomplete
+                - combobox "autocomplete" [ref=f6e48]: Dubai
+                - text: xxxxx
+            - button [ref=f6e51]:
+              - img "search button" [ref=f6e52]
+        - generic [ref=f6e55]:
+          - list [ref=f6e56]:
+            - listitem [ref=f6e57]:
+              - link "Find my tickets" [ref=f6e58] [cursor=pointer]:
+                - /url: /signin/signup?referrer=%2Fmytickets
+            - listitem [ref=f6e60]:
+              - link "Sign in" [ref=f6e61] [cursor=pointer]:
+                - /url: /signin/
+          - list [ref=f6e63]:
+            - listitem [ref=f6e64] [cursor=pointer]
+    - list [ref=f6e69]:
+      - listitem [ref=f6e70]:
+        - link [ref=f6e71] [cursor=pointer]:
+          - /url: /d/local/music--events--this-week/
+          - img "Music Events" [ref=f6e73]
+    - generic [ref=f6e74]:
+      - generic [ref=f6e76]:
+        - link [ref=f6e77] [cursor=pointer]:
+          - /url: /b/local/music
+          - paragraph [ref=f6e83]: Music
+        - link [ref=f6e84] [cursor=pointer]:
+          - /url: /b/local/nightlife
+          - paragraph [ref=f6e89]: Nightlife
+        - link [ref=f6e90] [cursor=pointer]:
+          - /url: /b/local/arts
+          - paragraph [ref=f6e97]: Performing & Visual Arts
+        - link [ref=f6e98] [cursor=pointer]:
+          - /url: /b/local/holiday
+          - paragraph [ref=f6e103]: Holidays
+        - link [ref=f6e104] [cursor=pointer]:
+          - /url: /b/local/home-and-lifestyle/dating
+          - paragraph [ref=f6e109]: Dating
+        - link [ref=f6e110] [cursor=pointer]:
+          - /url: /b/local/hobbies
+          - paragraph [ref=f6e115]: Hobbies
+        - link [ref=f6e116] [cursor=pointer]:
+          - /url: /b/local/business
+          - paragraph [ref=f6e122]: Business
+        - link [ref=f6e123] [cursor=pointer]:
+          - /url: /b/local/food-and-drink
+          - paragraph [ref=f6e129]: Food & Drink
+      - separator [ref=f6e130]
+      - generic [ref=f6e132]:
+        - heading "Browsing events in" [level=1] [ref=f6e133]
+        - generic [ref=f6e145]:
+          - generic: autocomplete
+          - combobox "autocomplete" [ref=f6e146]: Dubai
+          - text: xxxxx
+      - separator [ref=f6e147]
+      - generic [ref=f6e148]:
+        - tablist "Browse tabs" [ref=f6e150]:
+          - tab "All" [selected] [ref=f6e151]
+          - tab "For you" [ref=f6e152]
+          - tab "Today" [ref=f6e153]
+          - tab "This weekend" [ref=f6e154]
+        - generic [ref=f6e158]:
+          - heading "Events in Dubai" [level=2] [ref=f6e160]
+          - generic [ref=f6e161]:
+            - generic [ref=f6e164]:
+              - 'link "View {eventName}" [ref=f6e165] [cursor=pointer]':
+                - /url: https://www.eventbrite.ca/e/inner-alchemy-quantum-hypnosis-for-self-mastery-self-hypnosis-training-tickets-1992667184189
+                - 'img "Inner Alchemy: Quantum Hypnosis for Self-Mastery (Self-Hypnosis Training) primary image" [ref=f6e167]'
+              - generic [ref=f6e169]:
+                - 'link "View {eventName}" [ref=f6e170] [cursor=pointer]':
+                  - /url: https://www.eventbrite.ca/e/inner-alchemy-quantum-hypnosis-for-self-mastery-self-hypnosis-training-tickets-1992667184189
+                  - 'heading "Inner Alchemy: Quantum Hypnosis for Self-Mastery (Self-Hypnosis Training)" [level=3] [ref=f6e171]'
+                - paragraph [ref=f6e172]: Sat, Jul 25 • 8:00 AM PDT
+                - paragraph [ref=f6e174]: Free
+                - paragraph [ref=f6e176]: Promoted
+                - region [ref=f6e185]:
+                  - button [ref=f6e187] [cursor=pointer]
+                  - button [ref=f6e192] [cursor=pointer]
+            - generic [ref=f6e199]:
+              - 'link "View {eventName}" [ref=f6e200] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/seminar-on-big-data-data-science-and-machine-learning-tickets-787580734177
+                - img "Seminar on Big Data, Data Science and Machine Learning primary image" [ref=f6e202]
+              - generic [ref=f6e204]:
+                - complementary [ref=f6e205]:
+                  - paragraph [ref=f6e207]: Sales end soon
+                - 'link "View {eventName}" [ref=f6e208] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/seminar-on-big-data-data-science-and-machine-learning-tickets-787580734177
+                  - heading "Seminar on Big Data, Data Science and Machine Learning" [level=3] [ref=f6e209]
+                - paragraph [ref=f6e210]: Today • 6:00 PM
+                - paragraph [ref=f6e211]: Innosoft Gulf FZ-LLC
+                - paragraph [ref=f6e213]: Free
+                - region [ref=f6e214]:
+                  - button [ref=f6e216] [cursor=pointer]
+                  - button [ref=f6e221] [cursor=pointer]
+            - generic [ref=f6e228]:
+              - 'link "View {eventName}" [ref=f6e229] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/dubai-investors-dinner-b2b-networking-with-investors-vcs-tickets-1982943699986
+                - img "Dubai Investors Dinner | B2B Networking | With Investors & VCs primary image" [ref=f6e231]
+              - generic [ref=f6e233]:
+                - complementary [ref=f6e234]:
+                  - paragraph [ref=f6e236]: Going fast
+                - 'link "View {eventName}" [ref=f6e237] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/dubai-investors-dinner-b2b-networking-with-investors-vcs-tickets-1982943699986
+                  - heading "Dubai Investors Dinner | B2B Networking | With Investors & VCs" [level=3] [ref=f6e238]
+                - paragraph [ref=f6e239]: Wednesday • 7:30 PM
+                - paragraph [ref=f6e240]: The Ritz-Carlton, Dubai
+                - paragraph [ref=f6e242]: From $0.00
+                - region [ref=f6e243]:
+                  - button [ref=f6e245] [cursor=pointer]
+                  - button [ref=f6e250] [cursor=pointer]
+            - generic [ref=f6e257]:
+              - 'link "View {eventName}" [ref=f6e258] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/local-authority-marketing-strategic-lead-gen-for-local-business-registration-1993754243613
+                - 'img "Local Authority Marketing: Strategic Lead Gen for Local Business primary image" [ref=f6e260]'
+              - generic [ref=f6e262]:
+                - complementary [ref=f6e263]:
+                  - paragraph [ref=f6e265]: Sales end soon
+                - 'link "View {eventName}" [ref=f6e266] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/local-authority-marketing-strategic-lead-gen-for-local-business-registration-1993754243613
+                  - 'heading "Local Authority Marketing: Strategic Lead Gen for Local Business" [level=3] [ref=f6e267]'
+                - paragraph [ref=f6e268]: Thursday • 12:00 PM PDT
+                - paragraph [ref=f6e270]: Free
+                - paragraph [ref=f6e272]: Promoted
+                - region [ref=f6e281]:
+                  - button [ref=f6e283] [cursor=pointer]
+                  - button [ref=f6e288] [cursor=pointer]
+            - generic [ref=f6e295]:
+              - 'link "View {eventName}" [ref=f6e296] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/sbc-breakfast-market-connect-networking-for-founders-executives-tickets-1686990055669
+                - img "SBC Breakfast | Market Connect | Networking for Founders & Executives primary image" [ref=f6e298]
+              - generic [ref=f6e300]:
+                - complementary [ref=f6e301]:
+                  - paragraph [ref=f6e303]: Going fast
+                - 'link "View {eventName}" [ref=f6e304] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/sbc-breakfast-market-connect-networking-for-founders-executives-tickets-1686990055669
+                  - heading "SBC Breakfast | Market Connect | Networking for Founders & Executives" [level=3] [ref=f6e305]
+                - paragraph [ref=f6e306]: Wed, Jul 29 • 8:30 AM
+                - paragraph [ref=f6e307]: Ciao Bella Restaurant
+                - paragraph [ref=f6e309]: From $0.00
+                - region [ref=f6e310]:
+                  - button [ref=f6e312] [cursor=pointer]
+                  - button [ref=f6e317] [cursor=pointer]
+            - generic [ref=f6e324]:
+              - 'link "View {eventName}" [ref=f6e325] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/yogalates-under-the-gate-july-29th-mini-gate-4-tickets-1992621226729
+                - img "Yogalates Under the Gate - July 29th (Mini Gate 4) primary image" [ref=f6e327]
+              - generic [ref=f6e329]:
+                - complementary [ref=f6e330]:
+                  - paragraph [ref=f6e332]: Going fast
+                - 'link "View {eventName}" [ref=f6e333] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/yogalates-under-the-gate-july-29th-mini-gate-4-tickets-1992621226729
+                  - heading "Yogalates Under the Gate - July 29th (Mini Gate 4)" [level=3] [ref=f6e334]
+                - paragraph [ref=f6e335]: Wed, Jul 29 • 7:00 PM
+                - paragraph [ref=f6e336]: Blissd Coffee and Juice Bar - DIFC
+                - paragraph [ref=f6e338]: Free
+                - region [ref=f6e339]:
+                  - button [ref=f6e341] [cursor=pointer]
+                  - button [ref=f6e346] [cursor=pointer]
+            - generic [ref=f6e353]:
+              - 'link "View {eventName}" [ref=f6e354] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/pitch-hunt-b2b-networking-founders-raising-funds-tickets-1992048897878
+                - img "Pitch Hunt | B2B Networking | Founders Raising Funds primary image" [ref=f6e356]
+              - generic [ref=f6e358]:
+                - complementary [ref=f6e359]:
+                  - paragraph [ref=f6e361]: Almost full
+                - 'link "View {eventName}" [ref=f6e362] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/pitch-hunt-b2b-networking-founders-raising-funds-tickets-1992048897878
+                  - heading "Pitch Hunt | B2B Networking | Founders Raising Funds" [level=3] [ref=f6e363]
+                - paragraph [ref=f6e364]: Thu, Aug 13 • 6:30 PM
+                - paragraph [ref=f6e365]: Wild Woven Dubai
+                - paragraph [ref=f6e367]: Free
+                - region [ref=f6e368]:
+                  - button [ref=f6e370] [cursor=pointer]
+                  - button [ref=f6e375] [cursor=pointer]
+            - generic [ref=f6e382]:
+              - 'link "View {eventName}" [ref=f6e383] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/founders-meet-up-b2b-networking-startup-pitch-mixer-tickets-1978075400772
+                - img "Founders Meet-Up | B2B Networking | Startup Pitch & Mixer primary image" [ref=f6e385]
+              - generic [ref=f6e387]:
+                - 'link "View {eventName}" [ref=f6e388] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/founders-meet-up-b2b-networking-startup-pitch-mixer-tickets-1978075400772
+                  - heading "Founders Meet-Up | B2B Networking | Startup Pitch & Mixer" [level=3] [ref=f6e389]
+                - paragraph [ref=f6e390]: Thu, Sep 3 • 7:00 PM
+                - paragraph [ref=f6e391]: Paramount Hotel Midtown
+                - paragraph [ref=f6e393]: From $0.00
+                - region [ref=f6e394]:
+                  - button [ref=f6e396] [cursor=pointer]
+                  - button [ref=f6e401] [cursor=pointer]
+            - generic [ref=f6e408]:
+              - 'link "View {eventName}" [ref=f6e409] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/watts-the-deal-solar-panels-real-estate-tickets-1992647649761
+                - img "WATTS the Deal? Solar Panels + Real Estate primary image" [ref=f6e411]
+              - generic [ref=f6e413]:
+                - 'link "View {eventName}" [ref=f6e414] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/watts-the-deal-solar-panels-real-estate-tickets-1992647649761
+                  - heading "WATTS the Deal? Solar Panels + Real Estate" [level=3] [ref=f6e415]
+                - paragraph [ref=f6e416]: Wed, Jul 22 • 4:00 PM PDT
+                - paragraph [ref=f6e418]: Free
+                - paragraph [ref=f6e420]: Promoted
+                - region [ref=f6e429]:
+                  - button [ref=f6e431] [cursor=pointer]
+                  - button [ref=f6e436] [cursor=pointer]
+            - generic [ref=f6e443]:
+              - 'link "View {eventName}" [ref=f6e444] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/speed-connect-b2b-networking-for-founders-business-professionals-tickets-1749855899099
+                - img "Speed Connect | B2B Networking | For Founders & Business Professionals primary image" [ref=f6e446]
+              - generic [ref=f6e448]:
+                - complementary [ref=f6e449]:
+                  - paragraph [ref=f6e451]: Going fast
+                - 'link "View {eventName}" [ref=f6e452] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/speed-connect-b2b-networking-for-founders-business-professionals-tickets-1749855899099
+                  - heading "Speed Connect | B2B Networking | For Founders & Business Professionals" [level=3] [ref=f6e453]
+                - paragraph [ref=f6e454]: Wednesday • 7:30 PM
+                - paragraph [ref=f6e455]: Concrete Restaurant
+                - paragraph [ref=f6e457]: From $0.00
+                - region [ref=f6e458]:
+                  - button [ref=f6e460] [cursor=pointer]
+                  - button [ref=f6e465] [cursor=pointer]
+            - generic [ref=f6e472]:
+              - 'link "View {eventName}" [ref=f6e473] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/sbc-breakfast-tech-connect-networking-founders-executives-tickets-1690739440179
+                - img "SBC Breakfast| Tech Connect | Networking Founders & Executives primary image" [ref=f6e475]
+              - generic [ref=f6e477]:
+                - 'link "View {eventName}" [ref=f6e478] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/sbc-breakfast-tech-connect-networking-founders-executives-tickets-1690739440179
+                  - heading "SBC Breakfast| Tech Connect | Networking Founders & Executives" [level=3] [ref=f6e479]
+                - paragraph [ref=f6e480]: Wed, Jul 29 • 8:30 AM
+                - paragraph [ref=f6e481]: Ciao Bella Restaurant
+                - paragraph [ref=f6e483]: From $0.00
+                - region [ref=f6e484]:
+                  - button [ref=f6e486] [cursor=pointer]
+                  - button [ref=f6e491] [cursor=pointer]
+            - generic [ref=f6e498]:
+              - 'link "View {eventName}" [ref=f6e499] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/dubai-entrepreneurs-meetup-b2b-networking-founders-professionals-tickets-1991437341697
+                - img "Dubai Entrepreneurs Meetup | B2B Networking | Founders & Professionals primary image" [ref=f6e501]
+              - generic [ref=f6e503]:
+                - complementary [ref=f6e504]:
+                  - paragraph [ref=f6e506]: Sales end soon
+                - 'link "View {eventName}" [ref=f6e507] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/dubai-entrepreneurs-meetup-b2b-networking-founders-professionals-tickets-1991437341697
+                  - heading "Dubai Entrepreneurs Meetup | B2B Networking | Founders & Professionals" [level=3] [ref=f6e508]
+                - paragraph [ref=f6e509]: Tomorrow • 6:00 PM
+                - paragraph [ref=f6e510]: Latifa Tower
+                - paragraph [ref=f6e512]: From $31.72
+                - region [ref=f6e513]:
+                  - button [ref=f6e515] [cursor=pointer]
+                  - button [ref=f6e520] [cursor=pointer]
+            - generic [ref=f6e527]:
+              - 'link "View {eventName}" [ref=f6e528] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/sbc-breakfast-design-build-networking-for-founders-executives-tickets-1857040360709
+                - img "SBC Breakfast | Design & Build | Networking for Founders & Executives primary image" [ref=f6e530]
+              - generic [ref=f6e532]:
+                - 'link "View {eventName}" [ref=f6e533] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/sbc-breakfast-design-build-networking-for-founders-executives-tickets-1857040360709
+                  - heading "SBC Breakfast | Design & Build | Networking for Founders & Executives" [level=3] [ref=f6e534]
+                - paragraph [ref=f6e535]: Tue, Jul 21 • 8:30 AM
+                - paragraph [ref=f6e536]: Media One Hotel
+                - paragraph [ref=f6e538]: From $0.00
+                - region [ref=f6e539]:
+                  - button [ref=f6e541] [cursor=pointer]
+                  - button [ref=f6e546] [cursor=pointer]
+            - generic [ref=f6e553]:
+              - 'link "View {eventName}" [ref=f6e554] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/arabian-business-expo-2026-exclusive-networking-access-tickets-1975081307358
+                - img "ARABIAN BUSINESS EXPO 2026 – EXCLUSIVE NETWORKING ACCESS primary image" [ref=f6e556]
+              - generic [ref=f6e558]:
+                - complementary [ref=f6e559]:
+                  - paragraph [ref=f6e561]: Almost full
+                - 'link "View {eventName}" [ref=f6e562] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/arabian-business-expo-2026-exclusive-networking-access-tickets-1975081307358
+                  - heading "ARABIAN BUSINESS EXPO 2026 – EXCLUSIVE NETWORKING ACCESS" [level=3] [ref=f6e563]
+                - paragraph [ref=f6e564]: Sat, Sep 12 • 10:00 AM
+                - paragraph [ref=f6e565]: Millennium Airport Hotel Dubai
+                - paragraph [ref=f6e567]: From $0.00
+                - region [ref=f6e568]:
+                  - button [ref=f6e570] [cursor=pointer]
+                  - button [ref=f6e575] [cursor=pointer]
+            - generic [ref=f6e582]:
+              - 'link "View {eventName}" [ref=f6e583] [cursor=pointer]':
+                - /url: https://www.eventbrite.com/e/sbc-breakfast-she-connect-networking-for-fem-preneures-tickets-1857025095049
+                - img "SBC Breakfast | She Connect | Networking for Fem-preneures primary image" [ref=f6e585]
+              - generic [ref=f6e587]:
+                - 'link "View {eventName}" [ref=f6e588] [cursor=pointer]':
+                  - /url: https://www.eventbrite.com/e/sbc-breakfast-she-connect-networking-for-fem-preneures-tickets-1857025095049
+                  - heading "SBC Breakfast | She Connect | Networking for Fem-preneures" [level=3] [ref=f6e589]
+                - paragraph [ref=f6e590]: Fri, Jul 24 • 8:30 AM
+                - paragraph [ref=f6e591]: Ciao Bella Restaurant - Media One Hotel
+                - paragraph [ref=f6e593]: From $0.00
+                - region [ref=f6e594]:
+                  - button [ref=f6e596] [cursor=pointer]
+                  - button [ref=f6e601] [cursor=pointer]
+            - generic [ref=f6e608]:
+              - 'link "View {eventName}" [ref=f6e609] [cursor=pointer]':
+                - /url: https://www.eventbrite.hk/e/ifinexpo-dubai-international-finance-expo-2027-tickets-299085471697
+                - img "IFINEXPO Dubai--International Finance Expo 2027 primary image" [ref=f6e611]
+              - generic [ref=f6e613]:
+                - complementary [ref=f6e614]:
+                  - paragraph [ref=f6e616]: Going fast
+                - 'link "View {eventName}" [ref=f6e617] [cursor=pointer]':
+                  - /url: https://www.eventbrite.hk/e/ifinexpo-dubai-international-finance-expo-2027-tickets-299085471697
+                  - heading "IFINEXPO Dubai--International Finance Expo 2027" [level=3] [ref=f6e618]
+                - paragraph [ref=f6e619]: Fri, Mar 26 • 8:30 AM
+                - paragraph [ref=f6e620]: Jumeirah Emirates Towers
+                - paragraph [ref=f6e622]: Free
+                - region [ref=f6e623]:
+                  - button [ref=f6e625] [cursor=pointer]
+                  - button [ref=f6e630] [cursor=pointer]
+    - generic [ref=f6e636]:
+      - generic [ref=f6e638]:
+        - generic [ref=f6e639]:
+          - heading "Top destinations in United States" [level=2] [ref=f6e642]
+          - generic [ref=f6e643]:
+            - button "Scroll carousel left" [ref=f6e644] [cursor=pointer]
+            - button "Scroll carousel right" [ref=f6e649] [cursor=pointer]
+        - generic [ref=f6e654]:
+          - link [ref=f6e657] [cursor=pointer]:
+            - /url: /d/ny--new-york/events/
+            - img "An image of New York super imposed with the text \"New York\"" [ref=f6e658]
+            - paragraph [ref=f6e660]: New York
+          - link [ref=f6e664] [cursor=pointer]:
+            - /url: /d/ca--los-angeles/events/
+            - img "An image of Los Angeles super imposed with the text \"Los Angeles\"" [ref=f6e665]
+            - paragraph [ref=f6e667]: Los Angeles
+          - link [ref=f6e671] [cursor=pointer]:
+            - /url: /d/il--chicago/events/
+            - img "An image of Chicago super imposed with the text \"Chicago\"" [ref=f6e672]
+            - paragraph [ref=f6e674]: Chicago
+          - link [ref=f6e678] [cursor=pointer]:
+            - /url: /d/dc--washington/events/
+            - img "An image of Washington super imposed with the text \"Washington\"" [ref=f6e679]
+            - paragraph [ref=f6e681]: Washington
+          - link [ref=f6e685] [cursor=pointer]:
+            - /url: /d/ga--atlanta/events/
+            - img "An image of Atlanta super imposed with the text \"Atlanta\"" [ref=f6e686]
+            - paragraph [ref=f6e688]: Atlanta
+          - link [ref=f6e692] [cursor=pointer]:
+            - /url: /d/tx--dallas/events/
+            - img "An image of Dallas super imposed with the text \"Dallas\"" [ref=f6e693]
+            - paragraph [ref=f6e695]: Dallas
+          - link [ref=f6e699] [cursor=pointer]:
+            - /url: /d/tx--houston/events/
+            - img "An image of Houston super imposed with the text \"Houston\"" [ref=f6e700]
+            - paragraph [ref=f6e702]: Houston
+          - link [ref=f6e706] [cursor=pointer]:
+            - /url: /d/ca--san-francisco/events/
+            - img "An image of San Francisco super imposed with the text \"San Francisco\"" [ref=f6e707]
+            - paragraph [ref=f6e709]: San Francisco
+          - link [ref=f6e713] [cursor=pointer]:
+            - /url: /d/fl--miami/events/
+            - img "An image of Miami super imposed with the text \"Miami\"" [ref=f6e714]
+            - paragraph [ref=f6e716]: Miami
+          - link [ref=f6e720] [cursor=pointer]:
+            - /url: /d/ma--boston/events/
+            - img "An image of Boston super imposed with the text \"Boston\"" [ref=f6e721]
+            - paragraph [ref=f6e723]: Boston
+          - link [ref=f6e727] [cursor=pointer]:
+            - /url: /d/nv--las-vegas/events/
+            - img "An image of Las Vegas super imposed with the text \"Las Vegas\"" [ref=f6e728]
+            - paragraph [ref=f6e730]: Las Vegas
+          - link [ref=f6e734] [cursor=pointer]:
+            - /url: /d/nc--charlotte/events/
+            - img "An image of Charlotte super imposed with the text \"Charlotte\"" [ref=f6e735]
+            - paragraph [ref=f6e737]: Charlotte
+          - link [ref=f6e741] [cursor=pointer]:
+            - /url: /d/fl--orlando/events/
+            - img "An image of Orlando super imposed with the text \"Orlando\"" [ref=f6e742]
+            - paragraph [ref=f6e744]: Orlando
+          - link [ref=f6e748] [cursor=pointer]:
+            - /url: /d/pa--philadelphia/events/
+            - img "An image of Philadelphia super imposed with the text \"Philadelphia\"" [ref=f6e749]
+            - paragraph [ref=f6e751]: Philadelphia
+          - link [ref=f6e755] [cursor=pointer]:
+            - /url: /d/ca--san-diego/events/
+            - img "An image of San Diego super imposed with the text \"San Diego\"" [ref=f6e756]
+            - paragraph [ref=f6e758]: San Diego
+      - generic [ref=f6e760]:
+        - heading "Popular cities" [level=2] [ref=f6e761]
+        - generic [ref=f6e762]:
+          - generic [ref=f6e763]:
+            - generic [ref=f6e765] [cursor=pointer]:
+              - link "Things to do in Austin" [ref=f6e766]:
+                - /url: /ttd/tx--austin/
+              - link "Explore Things to do in Austin" [ref=f6e767]:
+                - /url: /ttd/tx--austin/
+            - generic [ref=f6e771] [cursor=pointer]:
+              - link "Things to do in Abilene" [ref=f6e772]:
+                - /url: /ttd/tx--abilene/
+              - link "Explore Things to do in Abilene" [ref=f6e773]:
+                - /url: /ttd/tx--abilene/
+            - generic [ref=f6e777] [cursor=pointer]:
+              - link "Things to do in Denver" [ref=f6e778]:
+                - /url: /ttd/co--denver/
+              - link "Explore Things to do in Denver" [ref=f6e779]:
+                - /url: /ttd/co--denver/
+            - generic [ref=f6e783] [cursor=pointer]:
+              - link "Things to do in Seattle" [ref=f6e784]:
+                - /url: /ttd/wa--seattle/
+              - link "Explore Things to do in Seattle" [ref=f6e785]:
+                - /url: /ttd/wa--seattle/
+            - generic [ref=f6e789] [cursor=pointer]:
+              - link "Things to do in Phoenix" [ref=f6e790]:
+                - /url: /ttd/az--phoenix/
+              - link "Explore Things to do in Phoenix" [ref=f6e791]:
+                - /url: /ttd/az--phoenix/
+            - generic [ref=f6e795] [cursor=pointer]:
+              - link "Things to do in Albuquerque" [ref=f6e796]:
+                - /url: /ttd/nm--albuquerque/
+              - link "Explore Things to do in Albuquerque" [ref=f6e797]:
+                - /url: /ttd/nm--albuquerque/
+          - generic [ref=f6e800]:
+            - generic [ref=f6e802] [cursor=pointer]:
+              - link "Things to do in Detroit" [ref=f6e803]:
+                - /url: /ttd/mi--detroit/
+              - link "Explore Things to do in Detroit" [ref=f6e804]:
+                - /url: /ttd/mi--detroit/
+            - generic [ref=f6e808] [cursor=pointer]:
+              - link "Things to do in Anaheim" [ref=f6e809]:
+                - /url: /ttd/ca--anaheim/
+              - link "Explore Things to do in Anaheim" [ref=f6e810]:
+                - /url: /ttd/ca--anaheim/
+            - generic [ref=f6e814] [cursor=pointer]:
+              - link "Things to do in Raleigh" [ref=f6e815]:
+                - /url: /ttd/nc--raleigh/
+              - link "Explore Things to do in Raleigh" [ref=f6e816]:
+                - /url: /ttd/nc--raleigh/
+            - generic [ref=f6e820] [cursor=pointer]:
+              - link "Things to do in Baltimore" [ref=f6e821]:
+                - /url: /ttd/md--baltimore/
+              - link "Explore Things to do in Baltimore" [ref=f6e822]:
+                - /url: /ttd/md--baltimore/
+            - generic [ref=f6e826] [cursor=pointer]:
+              - link "Things to do in Nashville" [ref=f6e827]:
+                - /url: /ttd/tn--nashville/
+              - link "Explore Things to do in Nashville" [ref=f6e828]:
+                - /url: /ttd/tn--nashville/
+            - generic [ref=f6e832] [cursor=pointer]:
+              - link "Things to do in Wichita" [ref=f6e833]:
+                - /url: /ttd/ks--wichita/
+              - link "Explore Things to do in Wichita" [ref=f6e834]:
+                - /url: /ttd/ks--wichita/
+          - generic [ref=f6e837]:
+            - generic [ref=f6e839] [cursor=pointer]:
+              - link "Things to do in Indianapolis" [ref=f6e840]:
+                - /url: /ttd/in--indianapolis/
+              - link "Explore Things to do in Indianapolis" [ref=f6e841]:
+                - /url: /ttd/in--indianapolis/
+            - generic [ref=f6e845] [cursor=pointer]:
+              - link "Things to do in San Antonio" [ref=f6e846]:
+                - /url: /ttd/tx--san-antonio/
+              - link "Explore Things to do in San Antonio" [ref=f6e847]:
+                - /url: /ttd/tx--san-antonio/
+    - generic "Eventbrite footer" [ref=f6e851]:
+      - heading "Site Navigation" [level=2]
+      - generic [ref=f6e852]:
+        - generic [ref=f6e853]:
+          - paragraph [ref=f6e854]: Use Eventbrite
+          - list [ref=f6e855]:
+            - listitem [ref=f6e856]:
+              - link "Create Events" [ref=f6e857] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/overview/
+            - listitem [ref=f6e858]:
+              - link "Pricing" [ref=f6e859] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/pricing/
+            - listitem [ref=f6e860]:
+              - link "Event Marketing Platform" [ref=f6e861] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/event-marketing-platform/
+            - listitem [ref=f6e862]:
+              - link "Eventbrite Mobile Ticket App" [ref=f6e863] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/l/eventbrite-app/
+            - listitem [ref=f6e864]:
+              - link "Eventbrite Check-In App" [ref=f6e865] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/organizer-check-in-app/
+            - listitem [ref=f6e866]:
+              - link "Eventbrite App Marketplace" [ref=f6e867] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/apps/
+            - listitem [ref=f6e868]:
+              - link "Event Registration Software" [ref=f6e869] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/registration-online/
+            - listitem [ref=f6e870]:
+              - link "Community Guidelines" [ref=f6e871] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/l/community-guidelines/
+            - listitem [ref=f6e872]:
+              - link "FAQs" [ref=f6e873] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/l/frequently-asked-questions/
+            - listitem [ref=f6e874]:
+              - link "Sitemap" [ref=f6e875] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/sitemap/
+        - generic [ref=f6e876]:
+          - paragraph [ref=f6e877]: Plan Events
+          - list [ref=f6e878]:
+            - listitem [ref=f6e879]:
+              - link "Sell Tickets Online" [ref=f6e880] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/sell-tickets/
+            - listitem [ref=f6e881]:
+              - link "Performing Arts Ticketing Software" [ref=f6e882] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/event-industry/performing-arts/
+            - listitem [ref=f6e883]:
+              - link "Sell Concert Tickets Online" [ref=f6e884] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/event-type/music-venues/
+            - listitem [ref=f6e885]:
+              - link "Event Payment System" [ref=f6e886] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/event-payment/
+            - listitem [ref=f6e887]:
+              - link "Solutions for Professional Services" [ref=f6e888] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/event-industry/professional-services/
+            - listitem [ref=f6e889]:
+              - link "Event Management Software" [ref=f6e890] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/event-management-software/
+            - listitem [ref=f6e891]:
+              - link "Halloween Party Planning" [ref=f6e892] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/event-type/halloween-event/
+            - listitem [ref=f6e893]:
+              - link "Virtual Events Platform" [ref=f6e894] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/event-type/virtual-events-platform/
+            - listitem [ref=f6e895]:
+              - link "QR Codes for Event Check-In" [ref=f6e896] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/how-to-use-qr-codes-for-events/
+            - listitem [ref=f6e897]:
+              - link "Post your event online" [ref=f6e898] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/features/post-events/
+        - generic [ref=f6e899]:
+          - paragraph [ref=f6e900]: Find Events
+          - list [ref=f6e901]:
+            - listitem [ref=f6e902]:
+              - link "New Orleans Food & Drink Events" [ref=f6e903] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/b/la--new-orleans/food-and-drink/
+            - listitem [ref=f6e904]:
+              - link "San Francisco Holiday Events" [ref=f6e905] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/b/ca--san-francisco/holiday/
+            - listitem [ref=f6e906]:
+              - link "Tulum Music Events" [ref=f6e907] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/b/mexico--tulum/music/
+            - listitem [ref=f6e908]:
+              - link "Denver Hobby Events" [ref=f6e909] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/b/co--denver/hobbies/
+            - listitem [ref=f6e910]:
+              - link "Atlanta Pop Music Events" [ref=f6e911] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/b/ga--atlanta/music/pop/
+            - listitem [ref=f6e912]:
+              - link "New York Events" [ref=f6e913] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/d/ny--new-york/events/
+            - listitem [ref=f6e914]:
+              - link "Chicago Events" [ref=f6e915] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/d/il--chicago/events/
+            - listitem [ref=f6e916]:
+              - link "Events in Dallas Today" [ref=f6e917] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/d/tx--dallas/events--today/
+            - listitem [ref=f6e918]:
+              - link "Los Angeles Events" [ref=f6e919] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/d/ca--los-angeles/events/
+            - listitem [ref=f6e920]:
+              - link "Washington Events" [ref=f6e921] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/d/dc--washington/events/
+        - generic [ref=f6e922]:
+          - paragraph [ref=f6e923]: Connect With Us
+          - list [ref=f6e924]:
+            - listitem [ref=f6e925]:
+              - link "Contact Support" [ref=f6e926] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/help/en-us/contact-us/
+            - listitem [ref=f6e927]:
+              - link "Contact Sales" [ref=f6e928] [cursor=pointer]:
+                - /url: https://www.eventbrite.com/organizer/contact-sales/
+            - listitem [ref=f6e929]:
+              - link "X" [ref=f6e930] [cursor=pointer]:
+                - /url: https://www.x.com/eventbritehelp
+            - listitem [ref=f6e931]:
+              - link "Facebook" [ref=f6e932] [cursor=pointer]:
+                - /url: https://www.facebook.com/Eventbrite
+            - listitem [ref=f6e933]:
+              - link "LinkedIn" [ref=f6e934] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/eventbrite
+            - listitem [ref=f6e935]:
+              - link "Instagram" [ref=f6e936] [cursor=pointer]:
+                - /url: https://www.instagram.com/eventbrite
+            - listitem [ref=f6e937]:
+              - link "TikTok" [ref=f6e938] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@eventbrite
+      - generic [ref=f6e939]:
+        - generic [ref=f6e940]: © 2026 Eventbrite
+        - list [ref=f6e942]:
+          - listitem [ref=f6e943]:
+            - link "How It Works" [ref=f6e944] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/how-it-works
+            - text: ●
+          - listitem [ref=f6e945]:
+            - link "Pricing" [ref=f6e946] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/organizer/pricing/
+            - text: ●
+          - listitem [ref=f6e947]:
+            - link "Contact Support" [ref=f6e948] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/help/en-us/contact-us/
+            - text: ●
+          - listitem [ref=f6e949]:
+            - link "About" [ref=f6e950] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/about/
+            - text: ●
+          - listitem [ref=f6e951]:
+            - link "Blog" [ref=f6e952] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/blog/
+            - text: ●
+          - listitem [ref=f6e953]:
+            - link "Help" [ref=f6e954] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/help/en-us/
+            - text: ●
+          - listitem [ref=f6e955]:
+            - link "Careers" [ref=f6e956] [cursor=pointer]:
+              - /url: https://www.eventbritecareers.com/
+            - text: ●
+          - listitem [ref=f6e957]:
+            - link "Press" [ref=f6e958] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/blog/press/
+            - text: ●
+          - listitem [ref=f6e959]:
+            - link "Impact" [ref=f6e960] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/l/impact/
+            - text: ●
+          - listitem [ref=f6e961]:
+            - link "Security" [ref=f6e962] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/security/
+            - text: ●
+          - listitem [ref=f6e963]:
+            - link "Developers" [ref=f6e964] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/platform/
+            - text: ●
+          - listitem [ref=f6e965]:
+            - link "Status" [ref=f6e966] [cursor=pointer]:
+              - /url: https://www.eventbritestatus.com/
+            - text: ●
+          - listitem [ref=f6e967]:
+            - link "Terms" [ref=f6e968] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/l/legalterms/
+            - text: ●
+          - listitem [ref=f6e969]:
+            - link "Privacy" [ref=f6e970] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/help/en-us/articles/460838/eventbrite-privacy-policy/
+            - text: ●
+          - listitem [ref=f6e971]:
+            - link "Accessibility" [ref=f6e972] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/l/accessibility/
+            - text: ●
+          - listitem [ref=f6e973]:
+            - link "Cookies" [ref=f6e974] [cursor=pointer]:
+              - /url: https://www.eventbrite.com/help/en-us/articles/666792/eventbrite-cookie-policy/
+            - text: ●
+          - listitem [ref=f6e975]:
+            - link "Manage Cookie Preferences" [ref=f6e976] [cursor=pointer]:
+              - /url: "#"
+            - text: ●
+          - listitem [ref=f6e977]:
+            - link "Do Not Sell or Share My Personal Information" [ref=f6e978] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=f6e985]:
+          - generic: Locale
+          - generic [ref=f6e986]:
+            - generic [ref=f6e987]: United States
+            - combobox "Locale" [ref=f6e993] [cursor=pointer]:
+              - option "Argentina"
+              - option "Australia"
+              - option "België"
+              - option "Belgique"
+              - option "Brasil"
+              - option "Canada (EN)"
+              - option "Canada (FR)"
+              - option "Chile"
+              - option "Colombia"
+              - option "Denmark"
+              - option "Deutschland"
+              - option "España"
+              - option "Finland"
+              - option "France"
+              - option "Hong Kong"
+              - option "Ireland"
+              - option "Italia"
+              - option "México"
+              - option "Nederland"
+              - option "New Zealand"
+              - option "Österreich"
+              - option "Perú"
+              - option "Portugal"
+              - option "Schweiz"
+              - option "Singapore"
+              - option "Suisse"
+              - option "Sverige"
+              - option "United Kingdom"
+              - option "United States" [selected]
+  - alert [ref=f6e994]

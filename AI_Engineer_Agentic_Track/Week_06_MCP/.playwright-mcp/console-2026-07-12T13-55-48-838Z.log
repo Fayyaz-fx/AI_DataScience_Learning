@@ -1,0 +1,13 @@
+[    2481ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://www.conferencemind.com/html/event_organizer/css/--/fonts/icomoon.ttf @ https://www.conferencemind.com/:3021
+[    2482ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://www.conferencemind.com/html/event_organizer/css/--/fonts/fontawesome-webfont.woff2_v_4.7.0 @ https://www.conferencemind.com/:3021
+[    3054ms] [ERROR] Failed to find a valid digest in the 'integrity' attribute for resource 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js' with computed SHA-384 integrity 'vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh'. The resource has been blocked. @ https://www.conferencemind.com/:0
+[    3095ms] [WARNING] jQuery.Deferred exception: Cannot read properties of null (reading 'getElementsByClassName') TypeError: Cannot read properties of null (reading 'getElementsByClassName')
+    at window.particlesJS (https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js:9:22398)
+    at HTMLDocument.<anonymous> (https://www.conferencemind.com/html/event_organizer/js/main.js:651:1)
+    at mightThrow (https://www.conferencemind.com/assets/ff1b5d44/jquery.js:3534:29)
+    at process (https://www.conferencemind.com/assets/ff1b5d44/jquery.js:3602:12) undefined @ https://www.conferencemind.com/assets/ff1b5d44/jquery.js:3817
+[    3113ms] TypeError: Cannot read properties of null (reading 'getElementsByClassName')
+    at window.particlesJS (https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js:9:22398)
+    at HTMLDocument.<anonymous> (https://www.conferencemind.com/html/event_organizer/js/main.js:651:1)
+    at mightThrow (https://www.conferencemind.com/assets/ff1b5d44/jquery.js:3534:29)
+    at process (https://www.conferencemind.com/assets/ff1b5d44/jquery.js:3602:12)

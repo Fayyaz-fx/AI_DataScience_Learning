@@ -1,0 +1,4 @@
+[     774ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[     774ms] [WARNING] Error with Feature-Policy header: Some features are specified in both Feature-Policy and Permissions-Policy header: accelerometer, autoplay, camera, encrypted-media, fullscreen, geolocation, gyroscope, magnetometer, microphone, midi, payment, picture-in-picture, screen-wake-lock, sync-xhr, usb, xr-spatial-tracking. Values defined in Permissions-Policy header will be used. @ :0
+[     774ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[     774ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.bbc.co.uk/food/recipes/banoffee_pie_39050:0

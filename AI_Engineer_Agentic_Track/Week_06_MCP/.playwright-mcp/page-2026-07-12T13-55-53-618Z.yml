@@ -1,0 +1,1889 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "" [ref=e4] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - generic [ref=e6]:
+        - strong [ref=e8]:
+          - link [ref=e9] [cursor=pointer]:
+            - /url: ""
+            - img "image description" [ref=e10]
+        - navigation [ref=e11]:
+          - list [ref=e13]:
+            - listitem [ref=e14]:
+              - link "HOME" [ref=e15] [cursor=pointer]:
+                - /url: /index
+            - listitem [ref=e16]:
+              - link "ABOUT" [ref=e17] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e18]:
+              - link "OCM" [ref=e19] [cursor=pointer]:
+                - /url: /ocm
+            - listitem [ref=e20]:
+              - link "GALLERY" [ref=e21] [cursor=pointer]:
+                - /url: /gallery
+            - listitem [ref=e22]:
+              - link "FAQ's" [ref=e23] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=e24]:
+              - link "TESTIMONIALS" [ref=e25] [cursor=pointer]:
+                - /url: /testimonial
+            - listitem [ref=e26]:
+              - link "CONFERENCE" [ref=e27] [cursor=pointer]:
+                - /url: /event
+            - listitem [ref=e28]:
+              - link "CONTACT US" [ref=e29] [cursor=pointer]:
+                - /url: "#contactus"
+        - generic [ref=e30]:
+          - img "image description" [ref=e31]
+          - text:     
+          - paragraph [ref=e32]:
+            - text: 2019 All Rights Reserved By
+            - generic [ref=e33]: © picsoftware
+    - banner [ref=e34]:
+      - text: 
+      - generic [ref=e38]:
+        - strong [ref=e39]:
+          - link [ref=e40] [cursor=pointer]:
+            - /url: /index
+            - img "company logo here" [ref=e41]
+        - navigation [ref=e43]:
+          - list [ref=e45]:
+            - listitem [ref=e46]:
+              - generic [ref=e47]: 
+              - link "HOME" [ref=e48] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e49]:
+              - generic [ref=e50]: 
+              - link "ABOUT" [ref=e51] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e52]:
+              - generic [ref=e53]: 
+              - link "OCM" [ref=e54] [cursor=pointer]:
+                - /url: /ocm
+            - listitem [ref=e55]:
+              - generic [ref=e56]: 
+              - link "CONTACT US" [ref=e57] [cursor=pointer]:
+                - /url: "#contactus"
+            - listitem [ref=e58]:
+              - link "FAQ's" [ref=e60] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=e61]:
+              - link "GALLERY" [ref=e63] [cursor=pointer]:
+                - /url: /gallery
+            - listitem [ref=e64]:
+              - generic [ref=e65]: 
+              - link "SPONSORS" [ref=e66] [cursor=pointer]:
+                - /url: /sponsors
+            - listitem [ref=e67]:
+              - generic [ref=e68]: 
+              - link "TESTIMONIALS" [ref=e69] [cursor=pointer]:
+                - /url: /testimonial
+            - listitem [ref=e70]:
+              - generic [ref=e71]: 
+              - link "REGISTER" [ref=e72] [cursor=pointer]:
+                - /url: /onlinepayment
+            - listitem [ref=e73]:
+              - generic [ref=e74]: 
+              - link "MORE" [ref=e75] [cursor=pointer]:
+                - /url: "#body"
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - text: Welcome to Global
+          - link "C" [ref=e84] [cursor=pointer]:
+            - /url: ""
+        - text: Community
+      - generic [ref=e85]: Join & Create all types of research, education & innovation conferences & webinars.
+      - paragraph [ref=e86]:
+        - link "Proceed to Join" [ref=e87] [cursor=pointer]:
+          - /url: /howtojoin
+    - generic [ref=e89]:
+      - generic [ref=e92]:
+        - tablist [ref=e93]:
+          - listitem [ref=e94]:
+            - tab [selected] [ref=e95] [cursor=pointer]:
+              - generic [ref=e96]: 
+              - generic [ref=e97]:
+                - text: Conference
+                - generic [ref=e98]: Join all types of International conference
+          - listitem [ref=e99]:
+            - tab [ref=e100] [cursor=pointer]:
+              - generic [ref=e101]: 
+              - generic [ref=e102]:
+                - text: Webinar
+                - generic [ref=e103]: Join all types of International Webinar
+          - listitem [ref=e104]:
+            - tab [ref=e105] [cursor=pointer]:
+              - generic [ref=e106]: 
+              - generic [ref=e107]:
+                - text: Create
+                - generic [ref=e108]: Create own International Webinar/Conference
+        - generic:
+          - tabpanel "Conference Join all types of International conference":
+            - heading "UPCOMING GLOBAL CONFERENCE" [level=2] [ref=e112]
+            - generic [ref=e113]:
+              - generic [ref=e114]:
+                - button "Select Subject name" [ref=e115] [cursor=pointer]
+                - text:                               
+                - combobox [ref=e118]:
+                  - option "Select Subject name" [selected]
+                  - option "Atomic, Molecular and Optical Physics"
+                  - option "Banking, Finance and Financial Technology"
+                  - option "Surgery and Anesthesia"
+                  - option "Forensic Research and Toxicology"
+                  - option "Aquaculture and Marine Biology"
+                  - option "Gastroenterology & Kidney Care"
+                  - option "Bacteriology & Applied Microbiology"
+                  - option "Builders- Buyers-Bankers Connect Summit"
+                  - option "Dementia & Dementia Care"
+                  - option "Veterinary and Livestock"
+                  - option "Advance 3D Printing and Modelling"
+                  - option "Biodiversity and Conservation"
+                  - option "Diabetes and Health Care"
+                  - option "Traditional & Alternative Medicine"
+                  - option "Advances in Computer Science and Information Technology"
+                  - option "Earth Science and Climate Change"
+                  - option "Biofuel and Biomass"
+                  - option "Orthopedics & Advanced Care"
+                  - option "Histopathology & Cytopathology"
+                  - option "Food Science, Nutrition & Culinary Innovation"
+                  - option "Blue Economy, Fisheries, Aquaculture & Ocean Science"
+                  - option "Geology and Geoscience"
+                  - option "Plant Genomics and Plant Science"
+                  - option "Dentistry"
+                  - option "Pharmacological Sciences"
+                  - option "Data Mining and Data Analysis"
+                  - option "Virology and Vaccine Research"
+                  - option "Animal Science and Animal Health Management"
+                  - option "Food Science and Nutrition"
+                  - option "Allergy and Clinical Immunology"
+              - generic [ref=e119]:
+                - button "Select Country" [ref=e120] [cursor=pointer]
+                - text:                        
+                - combobox [ref=e123]:
+                  - option "Select Country" [selected]
+                  - option "Milan, Italy"
+                  - option "Dubai, UAE"
+                  - option "Goa, India"
+                  - option "Germany"
+                  - option "Frankfurt, Germany"
+                  - option "Singapore City, Singapore"
+                  - option "Chennai, India"
+                  - option "Odisha, India"
+                  - option "Osaka, Japan"
+                  - option "Las Vegas, USA"
+                  - option "Odisha, India"
+                  - option "London, UK"
+                  - option "Toronto, Canada"
+                  - option "San Diego, USA"
+                  - option "Rome, Italy"
+                  - option "Paris, France"
+                  - option "Budapest, Hungary"
+                  - option "Uk, London"
+                  - option "Hybrid"
+                  - option "Rome, Italy"
+                  - option "London, UK"
+                  - option "Abu Dhabi, UAE"
+                  - option "Odisha Bhubaneswar"
+            - generic [ref=e126]:
+              - generic [ref=e128]:
+                - generic [ref=e129]:
+                  - list [ref=e131]:
+                    - listitem [ref=e132]:
+                      - generic [ref=e133]: 
+                      - text: 5 Days left
+                  - link [ref=e135] [cursor=pointer]:
+                    - /url: /conference/atomicmolecularandopticalphysics
+                    - img "atomicmolecularandopticalphysics" [ref=e136]
+                - list [ref=e139]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/atomicmolecularandopticalphysics/webinarregister
+                  - listitem [ref=e141]:
+                    - paragraph [ref=e142]:
+                      - link "Atomic, Molecular and Optical Physics" [ref=e143] [cursor=pointer]:
+                        - /url: /conference/atomicmolecularandopticalphysics
+                  - listitem [ref=e144]:
+                    - paragraph [ref=e145]:
+                      - generic [ref=e146]:
+                        - generic [ref=e147]: 
+                        - text: Paris, France
+                      - generic [ref=e148]:
+                        - generic [ref=e149]: 
+                        - text: July 17-18, 2026
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - list [ref=e154]:
+                    - listitem [ref=e155]:
+                      - generic [ref=e156]: 
+                      - text: 5 Days left
+                  - link "bankingfinanceandfinancialtechnology" [ref=e158] [cursor=pointer]:
+                    - /url: /conference/bankingfinanceandfinancialtechnology
+                - list [ref=e161]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/bankingfinanceandfinancialtechnology/webinarregister
+                  - listitem [ref=e163]:
+                    - paragraph [ref=e164]:
+                      - link "Banking, Finance and Financial Technology...." [ref=e165] [cursor=pointer]:
+                        - /url: /conference/bankingfinanceandfinancialtechnology
+                  - listitem [ref=e166]:
+                    - paragraph [ref=e167]:
+                      - generic [ref=e168]:
+                        - generic [ref=e169]: 
+                        - text: Frankfurt, Germany
+                      - generic [ref=e170]:
+                        - generic [ref=e171]: 
+                        - text: July 17-18, 2026
+              - generic [ref=e173]:
+                - generic [ref=e174]:
+                  - list [ref=e176]:
+                    - listitem [ref=e177]:
+                      - generic [ref=e178]: 
+                      - text: 12 Days left
+                  - link [ref=e180] [cursor=pointer]:
+                    - /url: /conference/surgeryandanesthesia
+                    - img "surgeryandanesthesia" [ref=e181]
+                - list [ref=e184]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/surgeryandanesthesia/webinarregister
+                  - listitem [ref=e186]:
+                    - paragraph [ref=e187]:
+                      - link "Surgery and Anesthesia" [ref=e188] [cursor=pointer]:
+                        - /url: /conference/surgeryandanesthesia
+                  - listitem [ref=e189]:
+                    - paragraph [ref=e190]:
+                      - generic [ref=e191]:
+                        - generic [ref=e192]: 
+                        - text: Las Vegas, USA
+                      - generic [ref=e193]:
+                        - generic [ref=e194]: 
+                        - text: July 24-25, 2026
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - list [ref=e199]:
+                    - listitem [ref=e200]:
+                      - generic [ref=e201]: 
+                      - text: 18 Days left
+                  - link [ref=e203] [cursor=pointer]:
+                    - /url: /conference/forensicresearchandtoxicology
+                    - img "forensicresearchandtoxicology" [ref=e204]
+                - list [ref=e207]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/forensicresearchandtoxicology/webinarregister
+                  - listitem [ref=e209]:
+                    - paragraph [ref=e210]:
+                      - link "Forensic Research and Toxicology" [ref=e211] [cursor=pointer]:
+                        - /url: /conference/forensicresearchandtoxicology
+                  - listitem [ref=e212]:
+                    - paragraph [ref=e213]:
+                      - generic [ref=e214]:
+                        - generic [ref=e215]: 
+                        - text: Singapore City, Singapore
+                      - generic [ref=e216]:
+                        - generic [ref=e217]: 
+                        - text: July 30-31, 2026
+              - generic [ref=e219]:
+                - generic [ref=e220]:
+                  - list [ref=e222]:
+                    - listitem [ref=e223]:
+                      - generic [ref=e224]: 
+                      - text: 18 Days left
+                  - link [ref=e226] [cursor=pointer]:
+                    - /url: /conference/aquacultureandmarinebiology
+                    - img "aquacultureandmarinebiology" [ref=e227]
+                - list [ref=e230]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/aquacultureandmarinebiology/webinarregister
+                  - listitem [ref=e232]:
+                    - paragraph [ref=e233]:
+                      - link "Aquaculture and Marine Biology" [ref=e234] [cursor=pointer]:
+                        - /url: /conference/aquacultureandmarinebiology
+                  - listitem [ref=e235]:
+                    - paragraph [ref=e236]:
+                      - generic [ref=e237]:
+                        - generic [ref=e238]: 
+                        - text: Odisha, India
+                      - generic [ref=e239]:
+                        - generic [ref=e240]: 
+                        - text: July 30-31, 2026
+              - generic [ref=e242]:
+                - generic [ref=e243]:
+                  - list [ref=e245]:
+                    - listitem [ref=e246]:
+                      - generic [ref=e247]: 
+                      - text: 18 Days left
+                  - link [ref=e249] [cursor=pointer]:
+                    - /url: /conference/gastroenterologykidneycare
+                    - img "gastroenterologykidneycare" [ref=e250]
+                - list [ref=e253]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/gastroenterologykidneycare/webinarregister
+                  - listitem [ref=e255]:
+                    - paragraph [ref=e256]:
+                      - link "Gastroenterology & Kidney Care" [ref=e257] [cursor=pointer]:
+                        - /url: /conference/gastroenterologykidneycare
+                  - listitem [ref=e258]:
+                    - paragraph [ref=e259]:
+                      - generic [ref=e260]:
+                        - generic [ref=e261]: 
+                        - text: Singapore City, Singapore
+                      - generic [ref=e262]:
+                        - generic [ref=e263]: 
+                        - text: July 30-31, 2026
+              - generic [ref=e265]:
+                - generic [ref=e266]:
+                  - list [ref=e268]:
+                    - listitem [ref=e269]:
+                      - generic [ref=e270]: 
+                      - text: 18 Days left
+                  - link [ref=e272] [cursor=pointer]:
+                    - /url: /conference/bacteriologyappliedmicrobiology
+                    - img "bacteriologyappliedmicrobiology" [ref=e273]
+                - list [ref=e276]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/bacteriologyappliedmicrobiology/webinarregister
+                  - listitem [ref=e278]:
+                    - paragraph [ref=e279]:
+                      - link "Bacteriology & Applied Microbiology" [ref=e280] [cursor=pointer]:
+                        - /url: /conference/bacteriologyappliedmicrobiology
+                  - listitem [ref=e281]:
+                    - paragraph [ref=e282]:
+                      - generic [ref=e283]:
+                        - generic [ref=e284]: 
+                        - text: Singapore City, Singapore
+                      - generic [ref=e285]:
+                        - generic [ref=e286]: 
+                        - text: July 30-31, 2026
+              - generic [ref=e288]:
+                - generic [ref=e289]:
+                  - list [ref=e291]:
+                    - listitem [ref=e292]:
+                      - generic [ref=e293]: 
+                      - text: 22 Days left
+                  - link [ref=e295] [cursor=pointer]:
+                    - /url: /conference/builders-buyers-bankersconnectsummit
+                    - img "builders-buyers-bankersconnectsummit" [ref=e296]
+                - list [ref=e299]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/builders-buyers-bankersconnectsummit/webinarregister
+                  - listitem [ref=e301]:
+                    - paragraph [ref=e302]:
+                      - link "Builders- Buyers-Bankers Connect Summit" [ref=e303] [cursor=pointer]:
+                        - /url: /conference/builders-buyers-bankersconnectsummit
+                  - listitem [ref=e304]:
+                    - paragraph [ref=e305]:
+                      - generic [ref=e306]:
+                        - generic [ref=e307]: 
+                        - text: Odisha Bhubaneswar
+                      - generic [ref=e308]:
+                        - generic [ref=e309]: 
+                        - text: August 03-05, 2026
+              - generic [ref=e311]:
+                - generic [ref=e312]:
+                  - list [ref=e314]:
+                    - listitem [ref=e315]:
+                      - generic [ref=e316]: 
+                      - text: 26 Days left
+                  - link [ref=e318] [cursor=pointer]:
+                    - /url: /conference/dementiadementiacare
+                    - img "dementiadementiacare" [ref=e319]
+                - list [ref=e322]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/dementiadementiacare/webinarregister
+                  - listitem [ref=e324]:
+                    - paragraph [ref=e325]:
+                      - link "Dementia & Dementia Care" [ref=e326] [cursor=pointer]:
+                        - /url: /conference/dementiadementiacare
+                  - listitem [ref=e327]:
+                    - paragraph [ref=e328]:
+                      - generic [ref=e329]:
+                        - generic [ref=e330]: 
+                        - text: Singapore City, Singapore
+                      - generic [ref=e331]:
+                        - generic [ref=e332]: 
+                        - text: August 07-08, 2026
+              - generic [ref=e334]:
+                - generic [ref=e335]:
+                  - list [ref=e337]:
+                    - listitem [ref=e338]:
+                      - generic [ref=e339]: 
+                      - text: 26 Days left
+                  - link [ref=e341] [cursor=pointer]:
+                    - /url: /conference/veterinaryandlivestock
+                    - img "veterinaryandlivestock" [ref=e342]
+                - list [ref=e345]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/veterinaryandlivestock/webinarregister
+                  - listitem [ref=e347]:
+                    - paragraph [ref=e348]:
+                      - link "Veterinary and Livestock" [ref=e349] [cursor=pointer]:
+                        - /url: /conference/veterinaryandlivestock
+                  - listitem [ref=e350]:
+                    - paragraph [ref=e351]:
+                      - generic [ref=e352]:
+                        - generic [ref=e353]: 
+                        - text: Odisha, India
+                      - generic [ref=e354]:
+                        - generic [ref=e355]: 
+                        - text: August 07-08, 2026
+              - generic [ref=e357]:
+                - generic [ref=e358]:
+                  - list [ref=e360]:
+                    - listitem [ref=e361]:
+                      - generic [ref=e362]: 
+                      - text: 36 Days left
+                  - link [ref=e364] [cursor=pointer]:
+                    - /url: /conference/advancedprintingandmodelling
+                    - img "advancedprintingandmodelling" [ref=e365]
+                - list [ref=e368]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/advancedprintingandmodelling/webinarregister
+                  - listitem [ref=e370]:
+                    - paragraph [ref=e371]:
+                      - link "Advance 3D Printing and Modelling" [ref=e372] [cursor=pointer]:
+                        - /url: /conference/advancedprintingandmodelling
+                  - listitem [ref=e373]:
+                    - paragraph [ref=e374]:
+                      - generic [ref=e375]:
+                        - generic [ref=e376]: 
+                        - text: Las Vegas, USA
+                      - generic [ref=e377]:
+                        - generic [ref=e378]: 
+                        - text: August 17-18, 2026
+              - generic [ref=e380]:
+                - generic [ref=e381]:
+                  - list [ref=e383]:
+                    - listitem [ref=e384]:
+                      - generic [ref=e385]: 
+                      - text: 40 Days left
+                  - link [ref=e387] [cursor=pointer]:
+                    - /url: /conference/biodiversityandconservation
+                    - img "biodiversityandconservation" [ref=e388]
+                - list [ref=e391]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/biodiversityandconservation/webinarregister
+                  - listitem [ref=e393]:
+                    - paragraph [ref=e394]:
+                      - link "Biodiversity and Conservation" [ref=e395] [cursor=pointer]:
+                        - /url: /conference/biodiversityandconservation
+                  - listitem [ref=e396]:
+                    - paragraph [ref=e397]:
+                      - generic [ref=e398]:
+                        - generic [ref=e399]: 
+                        - text: Rome, Italy
+                      - generic [ref=e400]:
+                        - generic [ref=e401]: 
+                        - text: August 21-22, 2026
+              - generic [ref=e403]:
+                - generic [ref=e404]:
+                  - list [ref=e406]:
+                    - listitem [ref=e407]:
+                      - generic [ref=e408]: 
+                      - text: 47 Days left
+                  - link [ref=e410] [cursor=pointer]:
+                    - /url: /conference/diabetesandhealthcare
+                    - img "diabetesandhealthcare" [ref=e411]
+                - list [ref=e414]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/diabetesandhealthcare/webinarregister
+                  - listitem [ref=e416]:
+                    - paragraph [ref=e417]:
+                      - link "Diabetes and Health Care" [ref=e418] [cursor=pointer]:
+                        - /url: /conference/diabetesandhealthcare
+                  - listitem [ref=e419]:
+                    - paragraph [ref=e420]:
+                      - generic [ref=e421]:
+                        - generic [ref=e422]: 
+                        - text: Frankfurt, Germany
+                      - generic [ref=e423]:
+                        - generic [ref=e424]: 
+                        - text: August 28-29, 2026
+              - generic [ref=e426]:
+                - generic [ref=e427]:
+                  - list [ref=e429]:
+                    - listitem [ref=e430]:
+                      - generic [ref=e431]: 
+                      - text: 47 Days left
+                  - link [ref=e433] [cursor=pointer]:
+                    - /url: /conference/traditionalalternativemedicine
+                    - img "traditionalalternativemedicine" [ref=e434]
+                - list [ref=e437]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/traditionalalternativemedicine/webinarregister
+                  - listitem [ref=e439]:
+                    - paragraph [ref=e440]:
+                      - link "Traditional & Alternative Medicine" [ref=e441] [cursor=pointer]:
+                        - /url: /conference/traditionalalternativemedicine
+                  - listitem [ref=e442]:
+                    - paragraph [ref=e443]:
+                      - generic [ref=e444]:
+                        - generic [ref=e445]: 
+                        - text: Chennai, India
+                      - generic [ref=e446]:
+                        - generic [ref=e447]: 
+                        - text: August 28-29, 2026
+              - generic [ref=e449]:
+                - generic [ref=e450]:
+                  - list [ref=e452]:
+                    - listitem [ref=e453]:
+                      - generic [ref=e454]: 
+                      - text: 47 Days left
+                  - link [ref=e456] [cursor=pointer]:
+                    - /url: /conference/advancesincomputerscienceandinformationtechnology
+                    - img "advancesincomputerscienceandinformationtechnology" [ref=e457]
+                - list [ref=e460]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/advancesincomputerscienceandinformationtechnology/webinarregister
+                  - listitem [ref=e462]:
+                    - paragraph [ref=e463]:
+                      - link "Advances in Computer Science and Information Tech...." [ref=e464] [cursor=pointer]:
+                        - /url: /conference/advancesincomputerscienceandinformationtechnology
+                  - listitem [ref=e465]:
+                    - paragraph [ref=e466]:
+                      - generic [ref=e467]:
+                        - generic [ref=e468]: 
+                        - text: Singapore City, Singapore
+                      - generic [ref=e469]:
+                        - generic [ref=e470]: 
+                        - text: August 28-29, 2026
+              - generic [ref=e472]:
+                - generic [ref=e473]:
+                  - list [ref=e475]:
+                    - listitem [ref=e476]:
+                      - generic [ref=e477]: 
+                      - text: 54 Days left
+                  - link [ref=e479] [cursor=pointer]:
+                    - /url: /conference/earthscienceandclimatechange
+                    - img "earthscienceandclimatechange" [ref=e480]
+                - list [ref=e483]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/earthscienceandclimatechange/webinarregister
+                  - listitem [ref=e485]:
+                    - paragraph [ref=e486]:
+                      - link "Earth Science and Climate Change" [ref=e487] [cursor=pointer]:
+                        - /url: /conference/earthscienceandclimatechange
+                  - listitem [ref=e488]:
+                    - paragraph [ref=e489]:
+                      - generic [ref=e490]:
+                        - generic [ref=e491]: 
+                        - text: Frankfurt, Germany
+                      - generic [ref=e492]:
+                        - generic [ref=e493]: 
+                        - text: September 04-05, 2026
+              - generic [ref=e495]:
+                - generic [ref=e496]:
+                  - list [ref=e498]:
+                    - listitem [ref=e499]:
+                      - generic [ref=e500]: 
+                      - text: 54 Days left
+                  - link [ref=e502] [cursor=pointer]:
+                    - /url: /conference/biofuelandbiomass
+                    - img "biofuelandbiomass" [ref=e503]
+                - list [ref=e506]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/biofuelandbiomass/webinarregister
+                  - listitem [ref=e508]:
+                    - paragraph [ref=e509]:
+                      - link "Biofuel and Biomass" [ref=e510] [cursor=pointer]:
+                        - /url: /conference/biofuelandbiomass
+                  - listitem [ref=e511]:
+                    - paragraph [ref=e512]:
+                      - generic [ref=e513]:
+                        - generic [ref=e514]: 
+                        - text: Singapore City, Singapore
+                      - generic [ref=e515]:
+                        - generic [ref=e516]: 
+                        - text: September 04-05, 2026
+              - generic [ref=e518]:
+                - generic [ref=e519]:
+                  - list [ref=e521]:
+                    - listitem [ref=e522]:
+                      - generic [ref=e523]: 
+                      - text: 61 Days left
+                  - link [ref=e525] [cursor=pointer]:
+                    - /url: /conference/orthopedicsadvancedcare
+                    - img "orthopedicsadvancedcare" [ref=e526]
+                - list [ref=e529]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/orthopedicsadvancedcare/webinarregister
+                  - listitem [ref=e531]:
+                    - paragraph [ref=e532]:
+                      - link "Orthopedics & Advanced Care" [ref=e533] [cursor=pointer]:
+                        - /url: /conference/orthopedicsadvancedcare
+                  - listitem [ref=e534]:
+                    - paragraph [ref=e535]:
+                      - generic [ref=e536]:
+                        - generic [ref=e537]: 
+                        - text: Abu Dhabi, UAE
+                      - generic [ref=e538]:
+                        - generic [ref=e539]: 
+                        - text: September 11-12, 2026
+              - generic [ref=e541]:
+                - generic [ref=e542]:
+                  - list [ref=e544]:
+                    - listitem [ref=e545]:
+                      - generic [ref=e546]: 
+                      - text: 68 Days left
+                  - link [ref=e548] [cursor=pointer]:
+                    - /url: /conference/histopathologycytopathology
+                    - img "histopathologycytopathology" [ref=e549]
+                - list [ref=e552]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/histopathologycytopathology/webinarregister
+                  - listitem [ref=e554]:
+                    - paragraph [ref=e555]:
+                      - link "Histopathology & Cytopathology" [ref=e556] [cursor=pointer]:
+                        - /url: /conference/histopathologycytopathology
+                  - listitem [ref=e557]:
+                    - paragraph [ref=e558]:
+                      - generic [ref=e559]:
+                        - generic [ref=e560]: 
+                        - text: Uk, London
+                      - generic [ref=e561]:
+                        - generic [ref=e562]: 
+                        - text: September 18-19, 2026
+              - generic [ref=e564]:
+                - generic [ref=e565]:
+                  - list [ref=e567]:
+                    - listitem [ref=e568]:
+                      - generic [ref=e569]: 
+                      - text: 68 Days left
+                  - link [ref=e571] [cursor=pointer]:
+                    - /url: /conference/foodsciencenutritionculinaryinnovation
+                    - img "foodsciencenutritionculinaryinnovation" [ref=e572]
+                - list [ref=e575]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/foodsciencenutritionculinaryinnovation/webinarregister
+                  - listitem [ref=e577]:
+                    - paragraph [ref=e578]:
+                      - link "Food Science, Nutrition & Culinary Innovation...." [ref=e579] [cursor=pointer]:
+                        - /url: /conference/foodsciencenutritionculinaryinnovation
+                  - listitem [ref=e580]:
+                    - paragraph [ref=e581]:
+                      - generic [ref=e582]:
+                        - generic [ref=e583]: 
+                        - text: Uk, London
+                      - generic [ref=e584]:
+                        - generic [ref=e585]: 
+                        - text: September 18-19, 2026
+              - generic [ref=e587]:
+                - generic [ref=e588]:
+                  - list [ref=e590]:
+                    - listitem [ref=e591]:
+                      - generic [ref=e592]: 
+                      - text: 68 Days left
+                  - link "blueeconomyfisheriesaquacultureoceanscience" [ref=e594] [cursor=pointer]:
+                    - /url: /conference/blueeconomyfisheriesaquacultureoceanscience
+                - list [ref=e597]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/blueeconomyfisheriesaquacultureoceanscience/webinarregister
+                  - listitem [ref=e599]:
+                    - paragraph [ref=e600]:
+                      - link "Blue Economy, Fisheries, Aquaculture & Ocean Scien...." [ref=e601] [cursor=pointer]:
+                        - /url: /conference/blueeconomyfisheriesaquacultureoceanscience
+                  - listitem [ref=e602]:
+                    - paragraph [ref=e603]:
+                      - generic [ref=e604]:
+                        - generic [ref=e605]: 
+                        - text: Singapore City, Singapore
+                      - generic [ref=e606]:
+                        - generic [ref=e607]: 
+                        - text: September 18-19, 2026
+              - generic [ref=e609]:
+                - generic [ref=e610]:
+                  - list [ref=e612]:
+                    - listitem [ref=e613]:
+                      - generic [ref=e614]: 
+                      - text: 71 Days left
+                  - link [ref=e616] [cursor=pointer]:
+                    - /url: /conference/geologyandgeoscience
+                    - img "geologyandgeoscience" [ref=e617]
+                - list [ref=e620]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/geologyandgeoscience/webinarregister
+                  - listitem [ref=e622]:
+                    - paragraph [ref=e623]:
+                      - link "Geology and Geoscience" [ref=e624] [cursor=pointer]:
+                        - /url: /conference/geologyandgeoscience
+                  - listitem [ref=e625]:
+                    - paragraph [ref=e626]:
+                      - generic [ref=e627]:
+                        - generic [ref=e628]: 
+                        - text: Toronto, Canada
+                      - generic [ref=e629]:
+                        - generic [ref=e630]: 
+                        - text: September 21-22, 2026
+              - generic [ref=e632]:
+                - generic [ref=e633]:
+                  - list [ref=e635]:
+                    - listitem [ref=e636]:
+                      - generic [ref=e637]: 
+                      - text: 75 Days left
+                  - link [ref=e639] [cursor=pointer]:
+                    - /url: /conference/plantgenomicsandplantscience
+                    - img "plantgenomicsandplantscience" [ref=e640]
+                - list [ref=e643]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/plantgenomicsandplantscience/webinarregister
+                  - listitem [ref=e645]:
+                    - paragraph [ref=e646]:
+                      - link "Plant Genomics and Plant Science" [ref=e647] [cursor=pointer]:
+                        - /url: /conference/plantgenomicsandplantscience
+                  - listitem [ref=e648]:
+                    - paragraph [ref=e649]:
+                      - generic [ref=e650]:
+                        - generic [ref=e651]: 
+                        - text: Frankfurt, Germany
+                      - generic [ref=e652]:
+                        - generic [ref=e653]: 
+                        - text: September 25-26, 2026
+              - generic [ref=e655]:
+                - generic [ref=e656]:
+                  - list [ref=e658]:
+                    - listitem [ref=e659]:
+                      - generic [ref=e660]: 
+                      - text: 75 Days left
+                  - link [ref=e662] [cursor=pointer]:
+                    - /url: /conference/dentistry
+                    - img "dentistry" [ref=e663]
+                - list [ref=e666]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/dentistry/webinarregister
+                  - listitem [ref=e668]:
+                    - paragraph [ref=e669]:
+                      - link "Dentistry" [ref=e670] [cursor=pointer]:
+                        - /url: /conference/dentistry
+                  - listitem [ref=e671]:
+                    - paragraph [ref=e672]:
+                      - generic [ref=e673]:
+                        - generic [ref=e674]: 
+                        - text: Goa, India
+                      - generic [ref=e675]:
+                        - generic [ref=e676]: 
+                        - text: September 25-26, 2026
+              - generic [ref=e678]:
+                - generic [ref=e679]:
+                  - list [ref=e681]:
+                    - listitem [ref=e682]:
+                      - generic [ref=e683]: 
+                      - text: 78 Days left
+                  - link [ref=e685] [cursor=pointer]:
+                    - /url: /conference/pharmacologicalsciences
+                    - img "pharmacologicalsciences" [ref=e686]
+                - list [ref=e689]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/pharmacologicalsciences/webinarregister
+                  - listitem [ref=e691]:
+                    - paragraph [ref=e692]:
+                      - link "Pharmacological Sciences" [ref=e693] [cursor=pointer]:
+                        - /url: /conference/pharmacologicalsciences
+                  - listitem [ref=e694]:
+                    - paragraph [ref=e695]:
+                      - generic [ref=e696]:
+                        - generic [ref=e697]: 
+                        - text: Frankfurt, Germany
+                      - generic [ref=e698]:
+                        - generic [ref=e699]: 
+                        - text: September 28-29, 2026
+              - generic [ref=e701]:
+                - generic [ref=e702]:
+                  - list [ref=e704]:
+                    - listitem [ref=e705]:
+                      - generic [ref=e706]: 
+                      - text: 79 Days left
+                  - link [ref=e708] [cursor=pointer]:
+                    - /url: /conference/datamininganddataanalysis
+                    - img "datamininganddataanalysis" [ref=e709]
+                - list [ref=e712]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/datamininganddataanalysis/webinarregister
+                  - listitem [ref=e714]:
+                    - paragraph [ref=e715]:
+                      - link "Data Mining and Data Analysis" [ref=e716] [cursor=pointer]:
+                        - /url: /conference/datamininganddataanalysis
+                  - listitem [ref=e717]:
+                    - paragraph [ref=e718]:
+                      - generic [ref=e719]:
+                        - generic [ref=e720]: 
+                        - text: London, UK
+                      - generic [ref=e721]:
+                        - generic [ref=e722]: 
+                        - text: September 29-30, 2026
+              - generic [ref=e724]:
+                - generic [ref=e725]:
+                  - list [ref=e727]:
+                    - listitem [ref=e728]:
+                      - generic [ref=e729]: 
+                      - text: 89 Days left
+                  - link [ref=e731] [cursor=pointer]:
+                    - /url: /conference/virologyandvaccineresearch
+                    - img "virologyandvaccineresearch" [ref=e732]
+                - list [ref=e735]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/virologyandvaccineresearch/webinarregister
+                  - listitem [ref=e737]:
+                    - paragraph [ref=e738]:
+                      - link "Virology and Vaccine Research" [ref=e739] [cursor=pointer]:
+                        - /url: /conference/virologyandvaccineresearch
+                  - listitem [ref=e740]:
+                    - paragraph [ref=e741]:
+                      - generic [ref=e742]:
+                        - generic [ref=e743]: 
+                        - text: Toronto, Canada
+                      - generic [ref=e744]:
+                        - generic [ref=e745]: 
+                        - text: October 09-10, 2026
+              - generic [ref=e747]:
+                - generic [ref=e748]:
+                  - list [ref=e750]:
+                    - listitem [ref=e751]:
+                      - generic [ref=e752]: 
+                      - text: 131 Days left
+                  - link "animalscienceandanimalhealthmanagement" [ref=e754] [cursor=pointer]:
+                    - /url: /conference/animalscienceandanimalhealthmanagement
+                - list [ref=e757]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/animalscienceandanimalhealthmanagement/webinarregister
+                  - listitem [ref=e759]:
+                    - paragraph [ref=e760]:
+                      - link "Animal Science and Animal Health Management...." [ref=e761] [cursor=pointer]:
+                        - /url: /conference/animalscienceandanimalhealthmanagement
+                  - listitem [ref=e762]:
+                    - paragraph [ref=e763]:
+                      - generic [ref=e764]:
+                        - generic [ref=e765]: 
+                        - text: Goa, India
+                      - generic [ref=e766]:
+                        - generic [ref=e767]: 
+                        - text: November 20-21, 2026
+              - generic [ref=e769]:
+                - generic [ref=e770]:
+                  - list [ref=e772]:
+                    - listitem [ref=e773]:
+                      - generic [ref=e774]: 
+                      - text: 137 Days left
+                  - link [ref=e776] [cursor=pointer]:
+                    - /url: /conference/foodscienceandnutrition
+                    - img "foodscienceandnutrition" [ref=e777]
+                - list [ref=e780]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/foodscienceandnutrition/webinarregister
+                  - listitem [ref=e782]:
+                    - paragraph [ref=e783]:
+                      - link "Food Science and Nutrition" [ref=e784] [cursor=pointer]:
+                        - /url: /conference/foodscienceandnutrition
+                  - listitem [ref=e785]:
+                    - paragraph [ref=e786]:
+                      - generic [ref=e787]:
+                        - generic [ref=e788]: 
+                        - text: Frankfurt, Germany
+                      - generic [ref=e789]:
+                        - generic [ref=e790]: 
+                        - text: November 27-28, 2026
+              - generic [ref=e792]:
+                - generic [ref=e793]:
+                  - list [ref=e795]:
+                    - listitem [ref=e796]:
+                      - generic [ref=e797]: 
+                      - text: 138 Days left
+                  - link [ref=e799] [cursor=pointer]:
+                    - /url: /conference/allergyandclinicalimmunology
+                    - img "allergyandclinicalimmunology" [ref=e800]
+                - list [ref=e803]:
+                  - listitem:
+                    - link:
+                      - /url: /webinar/allergyandclinicalimmunology/webinarregister
+                  - listitem [ref=e805]:
+                    - paragraph [ref=e806]:
+                      - link "Allergy and Clinical Immunology" [ref=e807] [cursor=pointer]:
+                        - /url: /conference/allergyandclinicalimmunology
+                  - listitem [ref=e808]:
+                    - paragraph [ref=e809]:
+                      - generic [ref=e810]:
+                        - generic [ref=e811]: 
+                        - text: Rome, Italy
+                      - generic [ref=e812]:
+                        - generic [ref=e813]: 
+                        - text: November 27-28, 2026
+          - text:             
+      - text:                                                                                                                        
+    - generic [ref=e818]:
+      - heading "Conferences By Country" [level=2] [ref=e820]
+      - paragraph [ref=e821]: We are covering morethan 50 countries. For organising physical conferences, Most conferences organising countries
+      - list [ref=e823]:
+        - generic [ref=e825]:
+          - listitem [ref=e827]:
+            - generic [ref=e829]: India
+          - listitem [ref=e831]:
+            - generic [ref=e833]: Germany
+          - listitem [ref=e835]:
+            - generic [ref=e837]: Singapore
+          - listitem [ref=e839]:
+            - generic [ref=e841]: Japan
+          - listitem [ref=e843]:
+            - generic [ref=e845]: France
+          - listitem [ref=e847]:
+            - generic [ref=e849]: USA
+          - listitem [ref=e851]:
+            - generic [ref=e853]: UK
+          - listitem [ref=e855]:
+            - generic [ref=e857]: Hungary
+          - listitem [ref=e859]:
+            - generic [ref=e861]: Canada
+    - main: 
+    - contentinfo [ref=e871]:
+      - generic [ref=e874]:
+        - generic [ref=e875]:
+          - heading "Our Global Address" [level=2] [ref=e878]
+          - generic [ref=e879]:
+            - heading "India" [level=2] [ref=e880]
+            - 'heading "B-145, Dream Villa, Bhubaneswar, 751024 Odisha, India Email: connect@conferencemind.com Phone no: +91- 8093002352 | +91 7735912022" [level=5] [ref=e881]'
+            - heading "Germany" [level=2] [ref=e882]
+            - 'heading "Frankfurt am Main''s city center, 60311, Frankfurt, Germany Email: connect@conferencemind.com Phone no: +91- 8093002353 | +91 7735912022" [level=5] [ref=e883]'
+            - heading "USA" [level=2] [ref=e884]
+            - 'heading "42132, Laroca Cir, Las Vegas, Neveda, 89117 Email: sponsor@conferencemind.com Phone No: +1-4707660424" [level=5] [ref=e885]'
+        - generic [ref=e886]:
+          - heading "Expert Review/Comment" [level=2] [ref=e889]
+          - generic [ref=e891]:
+            - generic [ref=e895]:
+              - heading "Suharmili Rosle" [level=3] [ref=e896]
+              - emphasis [ref=e897]: University College Bestari
+              - link ", Malaysia" [ref=e898] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e899]: It was a great pleasure to be part of the International Webinar on Aquaculture and Marine Biology. I enjoyed the presentation and meeting respected colleagues from all over the world. One of the biggest benefits is the webinar really felt like we were there together. I will consider it for the next meeting. Thank you, Conference Mind Organizer!
+            - generic [ref=e903]:
+              - heading "Jihua Chen" [level=3] [ref=e904]
+              - emphasis [ref=e905]: Oak Ridge National Laboratory
+              - link ", USA" [ref=e906] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e907]: The Conference Mind organizer did an excellent job of putting things together. I very much enjoyed the talks and discussions. I will consider it for the next meeting.
+            - generic [ref=e911]:
+              - heading "N. Anand Laxmi" [level=3] [ref=e912]
+              - emphasis [ref=e913]: Directorate of Poultry Research
+              - link ", India" [ref=e914] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e915]: It was a wonderful experience and a good organization of the program by the Conference Mind.
+              - link [ref=e916] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=i9VR8gKlTSA
+            - generic [ref=e921]:
+              - heading "Maria Cândida Arrais de Miranda Mousinho" [level=3] [ref=e922]
+              - emphasis [ref=e923]: Institute of Education, Science and Technology
+              - link ", Brazil" [ref=e924] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e925]: Thank you very much Conference Mind Team for the invitation to participate in the International Webinar on Energy. It was a great opportunity to share ideas and get to know the work of incredible professionals. Congratulations to everyone and the entire organizing team.
+            - generic [ref=e929]:
+              - heading "Rakhi Gangil" [level=3] [ref=e930]
+              - emphasis [ref=e931]: Nanaji Deshmukh Veterinary University
+              - link ", India" [ref=e932] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e933]: It is my immense pleasure to share my experience over the International Webinar on Veterinary and Livestock research. I feel privileged that organizer of this conference gave me opportunity to be a part of this valuable event. It would like to thank organizers of this conference for planning, organisation, and flawless execution of entire sessions. The theme of this International conference covered holistic view of entire areas of veterinary and livestock research. I hope this conference might be helpful in updation of knowledge of participants on advance aspects of veterinary and livestock research.
+            - generic [ref=e937]:
+              - heading "Mohammed Jaffer Pinjar" [level=3] [ref=e938]
+              - emphasis [ref=e939]: Government Medical College Mahbubnagar
+              - link ", India" [ref=e940] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e941]: It was a very good experience with your international Webinar. This gave me the opportunity to gain knowledge from renowned scholars from all over the world. It has helped me in presenting as well as updating the current research on diabetes and healthcare. I thank the Conference Mind and all the panelists and organizers for conducting such a wonderful International Webinar. I was satisfied with the organizer's arrangements in conducting the webinar.
+            - generic [ref=e945]:
+              - heading "Suraj Wasudeo Nagre" [level=3] [ref=e946]
+              - emphasis [ref=e947]: Grant Medical College
+              - link ", India" [ref=e948] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e949]: The International Web Conference on Heart was excellent academic feast for all fraternity doctors. I feel proud to be part of it. It helped all of us to improve our knowledge and clear our misconceptions. It was a very nice platform to present our research to all over the world. It will be great pleasure to participate in such web conferences again in future. Thank you very much to the organizing committee members of Conference Mind.
+            - generic [ref=e953]:
+              - heading "Debabrata Singh" [level=3] [ref=e954]
+              - emphasis [ref=e955]: SOA University
+              - link ", India" [ref=e956] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e957]: I got privileged to be a part of an International Webinar on Diabetes and Healthcare. That was my wonderful experience. Mainly the website is very impressive. We planned a lot for the conference, but due to Covid-19, we didn't execute it. By the way, the online conference was also successfully completed. Thank you Conference Mind Team.
+            - generic [ref=e961]:
+              - heading "Goutam Kumar Acherjya" [level=3] [ref=e962]
+              - emphasis [ref=e963]: Jashore Medical College
+              - link ", Bangladesh" [ref=e964] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e965]: Initially, I would like to show my heartfelt gratitude and cordial thanks for inviting me as a keynote speaker in your conference on Diabetes and Healthcare 2020 and giving me the opportunity to deliver my presentation in such a prestigious seminar. I must be thanking you for sharing my E certificate, which is really incredible for me. Yes, of course, I am announcing to join any of your conferences related to my field if you would invite me in the future. This would really be an honoured and pleasure for me. I should be thanking you once again for doing everything and your virtual hospitality.
+            - generic [ref=e969]:
+              - heading "Anastasiia Radchenko" [level=3] [ref=e970]
+              - emphasis [ref=e971]: L.T.Malaya Of The National Academy Of Sciences Of Ukraine
+              - link ", Ukraine" [ref=e972] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e973]: Thank you very much Conference Mind. I was very pleased to participate and share my research paper at the International Webinar on Heart.
+            - generic [ref=e977]:
+              - heading "Suresh Aluvihara" [level=3] [ref=e978]
+              - emphasis [ref=e979]: University of Peradeniya
+              - link ", Sri Lanka" [ref=e980] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e981]: The International Webinar on Earth Science and Climatic Change was a great platform to share the research experiences and most outstanding investigations of scientific world among new investigators and to enhance their skills and knowledge forever. Also it will be highly appreciated the well organization and great effort of the Conference Mind committee to conduct the conference in better manner. Thank you and good luck...!!!
+            - generic [ref=e985]:
+              - heading "Sai Krishna Repalli" [level=3] [ref=e986]
+              - emphasis [ref=e987]: ICAR-National Rice Research Institute(NRRI)
+              - link ", India" [ref=e988] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e989]: It is a great experience to participate in the International Webinar on Plant Science and Plant Genomics. It was an educative endeavor for exposure to all the International scientists. Congratulations to the Conference Mind team for organizing the webinar in a coherent manner
+            - generic [ref=e993]:
+              - heading "Farshid Talat" [level=3] [ref=e994]
+              - emphasis [ref=e995]: West Azerbaijan Agricultural
+              - link ", Iran" [ref=e996] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e997]: It was a great event, organized very well. Gave us an opportunity to meet with wonderful people & innovative scientists. Conference Mind created an amazing platform for learning & sharing and recognizing excavatorial spirit. It was great to meet such a vibrant collection of scientists from the globe to demonstrate that science and technology are still alive and kicking despite all the current economic and Corona pandemic gloom. Kudos to the Conference Mind team for a great event!
+            - generic [ref=e1001]:
+              - heading "Saumya Vyas" [level=3] [ref=e1002]
+              - emphasis [ref=e1003]: Barkatullah University
+              - link ", India" [ref=e1004] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1005]: This is Saumya Vyas, it was wonderful webinar organized by Conference Mind I am satisfied after attending International webinar on Earth Science and Climate Change during October 07-08, 2020. You all are doing great job in bringing up well known researchers together from different countries to share their work with each other.
+            - generic [ref=e1009]:
+              - heading "Mitra Lal Pathak" [level=3] [ref=e1010]
+              - emphasis [ref=e1011]: Ministry of Forests and Environment
+              - link ", Nepal" [ref=e1012] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1013]: I would like to thanks the organizer of this event for giving me this opportunity to participate and present my oral presentation. it’s a great pleasure to be a part of International Webinar on Plant Genomics and Plant Science. Infact, It was an amazing experience to share scientific findings and also it was a huge platform to learn new things for me. Looking forward to meet you all nice people in the future too.
+            - generic [ref=e1017]:
+              - heading "Navnit Kumar" [level=3] [ref=e1018]
+              - emphasis [ref=e1019]: Dr. Rajendra Prasad Central Agricultural University
+              - link ", India" [ref=e1020] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1021]: Respected members of Conference Mind. I have received an E- Presentation Certificate. It is a great event in my opinion as you were organized and managed very nicely. This platform gives us an opportunity to interact with resourceful scientists across the globe. I am feeling proud of being a part of this prestigious webinar. I will also try to take part in your upcoming webinar related to Agronomy. Again, I congratulate all the members of the webinar who directly or indirectly involved in the successful conduction of this worldwide webinar.
+            - generic [ref=e1025]:
+              - heading "Nadia Chiahi" [level=3] [ref=e1026]
+              - emphasis [ref=e1027]: Mohamed-Cherif Messaadia University - Souk Ahras
+              - link ", Algeria" [ref=e1028] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1029]: It was a great pleasure to be among this scientific community. again, I congratulated the organizing committee of the International Webinar on Plant Science and plant genomics on the success of the webinar. Thanks.
+            - generic [ref=e1033]:
+              - heading "Nagalakshmi CS" [level=3] [ref=e1034]
+              - emphasis [ref=e1035]: Sri Siddhartha Institute of Medical Sciences and Research Centre
+              - link ", India" [ref=e1036] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1037]: It was a pleasure indeed to be part of this year’s International Conference on Diabetes & Healthcare 2020 (though in the form of a Webinar due to COVID-19 Pandemic) organized by Conference Mind. I hope the participants enjoyed my talk. Few talks were really interesting and the whole experience was very much enjoyable. Thanks again for inviting me to such an academic feast and even publishing our work. I will be happy to be part of this continuing knowledge and experience sharing platform.
+            - generic [ref=e1041]:
+              - heading "Katerina Velchova" [level=3] [ref=e1042]
+              - emphasis [ref=e1043]: The University of Nottingham
+              - link ", UK" [ref=e1044] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1045]: Dear Conference Mind, it's been a great pleasure to be part of your web conference on Plant Science and Plant Genomics 2020. Moreover, to be surrounded by such a great scientist from all across the globe, in such difficult times. Special greetings! Thank you!
+            - generic [ref=e1049]:
+              - heading "Sunita Bishnoi" [level=3] [ref=e1050]
+              - emphasis [ref=e1051]: Vivekananda Global University
+              - link ", India" [ref=e1052] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1053]: Undoubtedly, it was a brainstorming event. Thanks a lot, to the Conference Mind team and organizers for providing such a wonderful platform to share valuable research ideas.
+            - generic [ref=e1057]:
+              - heading "Sallahuddin Panhwar" [level=3] [ref=e1058]
+              - emphasis [ref=e1059]: Balochistan University of Engineering and Technology Khuzdar
+              - link ", Pakistan" [ref=e1060] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1061]: It was a wonderful experience with distinguishing scientists. I enjoyed it a lot. I highly thankful to the conference team and organizers they provided us a great platform where we shared and learned new research ideas. I hope I will attend next coming conference.
+            - generic [ref=e1065]:
+              - heading "Maya Dimova Lambreva" [level=3] [ref=e1066]
+              - emphasis [ref=e1067]: Institute of Crystallography
+              - link ", Italy" [ref=e1068] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1069]: Thank you very much for giving me the opportunity to be part of this interesting scientific event! Thank you for your prompt reply and continuous support! It was a pleasure for me.
+            - generic [ref=e1073]:
+              - heading "Pradyumna Ghosh" [level=3] [ref=e1074]
+              - emphasis [ref=e1075]: Indian Institute of Technology (BHU) Varanasi
+              - link ", India" [ref=e1076] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1077]: It was a great experience to share my research with an esteemed gathering. Thank you, Conference Mind Team.
+            - generic [ref=e1081]:
+              - heading "Nuzhat Chalisa" [level=3] [ref=e1082]
+              - emphasis [ref=e1083]: Loyola University Medical Center
+              - link ", USA" [ref=e1084] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1085] [cursor=pointer]:
+                - /url: https://youtu.be/hTbDA9ZiYpo
+            - generic [ref=e1090]:
+              - heading "Niko Kalantzis" [level=3] [ref=e1091]
+              - emphasis [ref=e1092]: Researcher, Staffordshire University
+              - link ", UK" [ref=e1093] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1094]: Congratulations on organizing one of the first international webinars on Forensic Research. It is very important to be versatile & keep the international research community interacting, especially in these difficult times. I am certain that conferences like this will become the norm in the years to come. Thank you for inviting me to participate in this endeavor.
+            - generic [ref=e1098]:
+              - heading "Sunita Singh" [level=3] [ref=e1099]
+              - emphasis [ref=e1100]: Assistant Professor, Navyug Kanya Mahavidyalaya Lucknow, University of Lucknow
+              - link ", India" [ref=e1101] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1102]: First of all I would like to congratulate the organizing committee, Conference Mind for organizing and successful execution of this International webinar on Forensic Research and Toxicology amid this Corona Pandemic . It was an immense pleasure and privilege to share a virtual platform with eminent speakers of various fields. I hope Conference Mind will organize such webinar and conferences in future also.
+            - generic [ref=e1106]:
+              - heading "Mayank Kumar Dubey" [level=3] [ref=e1107]
+              - emphasis [ref=e1108]: Senior Forensic/DNA Expert, Forensic Laboratory and CID Police Forensic Lab
+              - link ", India" [ref=e1109] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1110]: Congratulations for organizing this successful international webinar. Thanks for inviting me to be a part of this as a speaker and learn from the other valuable presentations.
+            - generic [ref=e1114]:
+              - heading "Rajeev Jain" [level=3] [ref=e1115]
+              - emphasis [ref=e1116]: Senior Scientist, Central Forensic Science Laboratory
+              - link ", India" [ref=e1117] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1118]: Dear members of organizing committee, It’s indeed a pleasure to be a part of this webinar on forensic research and toxicology. This platform has not only provided opportunity to present my research work but also provided opportunity to gather information and knowledge about recent trends in forensic research. I hope the committee will be organizing such more webinars for dissemination of knowledge in the field of forensic science.
+            - generic [ref=e1122]:
+              - heading "RamaRao Malla" [level=3] [ref=e1123]
+              - emphasis [ref=e1124]: Professor, GITAM
+              - link ", India" [ref=e1125] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1126]: Dear organizers, I am happy to share with you that it is a wonderful opportunity for me to share my research with international community. I would like to participate in future conferences organised by you. Thank you for giving me an opportunity.
+            - generic [ref=e1130]:
+              - heading "Abdul Aziz Al Bahri" [level=3] [ref=e1131]
+              - emphasis [ref=e1132]: Consultant, Forensic Science laboratory- Muscat- Sultanate of Oman
+              - link ", Oman" [ref=e1133] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1134]: Thanks for all organizers and participants. It was really informative webinar and added to my experience more as it is my first time being a speaker in an International platform. Thank you once again
+            - generic [ref=e1138]:
+              - heading "Shyamapada Mandal" [level=3] [ref=e1139]
+              - emphasis [ref=e1140]: Professor, University of Gour Banga
+              - link ", India" [ref=e1141] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1142]: It was a great pleasure to be a part of the highly prestigious International Forensic Science Webinar 2020, where many eminent personalities in the field enlightened the scientific event with their knowledge and experience, in this COVID-19 pandemic situation. I wish all success to the organizers in such future endeavor and hope to be a part again.
+            - generic [ref=e1146]:
+              - heading "Priyanka verma" [level=3] [ref=e1147]
+              - emphasis [ref=e1148]: Assistant Professor, Chandigarh University
+              - link ", India" [ref=e1149] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1150]: Dear organizing committee members, It’s indeed a pleasure to be a part of this webinar. I heartily congratulate the event organizers for providing this platform to present and communicate with experts of different stream and such an opportunity to interact. I hope the committee will be organizing such more webinars. Looking forward to be a part of more such interactions.
+            - generic [ref=e1154]:
+              - heading "Ms Suchi" [level=3] [ref=e1155]
+              - emphasis [ref=e1156]: Empowerment Advisor
+              - link ", Singapore" [ref=e1157] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1158]: Thank you Conference Mind for a wonderful conference. It was a pleasure interacting with speakers, delegates and researchers from various countries. All the best for your future Conference!!
+            - generic [ref=e1162]:
+              - heading "Vijayaraghavan Rajagopalan" [level=3] [ref=e1163]
+              - emphasis [ref=e1164]: Professor, School of Advanced Sciences
+              - link ", India" [ref=e1165] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1166]: Conference Mind is very professional. They facilitate the logistics also they invite top class scientists. I have had excellent experience with Conference Mind in a webinar. I would again expect to work with them.
+            - generic [ref=e1170]:
+              - heading "Jyotirmoi Aich" [level=3] [ref=e1171]
+              - emphasis [ref=e1172]: Assistant Professor, D Y Patil Deemed To Be University
+              - link ", India" [ref=e1173] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1174]: Conference Mind is a very good platform for all researchers, scientists and academicians to showcase their scientific achievements. They are one of the best organizers of scientific meetings, conferences webinars. The speakers selection is also so phenomenal so that the correct information is delivered to the audiences.
+            - generic [ref=e1178]:
+              - heading "Osman Adiguzel" [level=3] [ref=e1179]
+              - emphasis [ref=e1180]: Professor, Firat University
+              - link ", Turkey" [ref=e1181] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1182]: I am very happy to join the International Conference on Material Science and Technology, December 1st, 2020, with a Keynote Speech. Speeches were presented by the expert scholars and colleagues. I followed all of the speakers, and enjoyed very much. The conference was a high grade activity. I would like to congratulate all of the speakers, moderators, delegates, listeners, moderators and conference committees. I hope we can meet again face to face in another conference in near future. International scientific activities are important for science world, and they are great platform to exchange knowledge and interact with the science authorities in the world. I wish every participant happy, healthy and successful life and years.
+            - generic [ref=e1186]:
+              - heading "Sallahuddin Panhwar" [level=3] [ref=e1187]
+              - emphasis [ref=e1188]: Assistant Professor, Balochistan University of Engineering & Technology
+              - link ", Pakistan" [ref=e1189] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1190]: Thank you so much to Conference Mind team for provided us great platform where we presented our research idea and learned lot of things.
+            - generic [ref=e1194]:
+              - heading "Luxita Sharma" [level=3] [ref=e1195]
+              - emphasis [ref=e1196]: Associate Professor, Amity University
+              - link ", India" [ref=e1197] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1198]: Conference Mind is an excellent platform to present your research among the eminent scientists and researchers from all over the world. I have been a part of their webinar and I thank them from the bottom of my heart to provide me an opportunity to be in touch with excellent and knowledgeable peers. In future also I would love to work and collaborate with conference mind. Love you Guys !!!!
+            - generic [ref=e1202]:
+              - heading "Monika Thakur" [level=3] [ref=e1203]
+              - emphasis [ref=e1204]: Assistant Professor, Amity University
+              - link ", India" [ref=e1205] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1206]: “Very informative, really well organized webinar on Food Science & Nutrition with innovative sessions. Would definitely recommend!”
+            - generic [ref=e1210]:
+              - heading "Anteneh Omer Ali" [level=3] [ref=e1211]
+              - emphasis [ref=e1212]: Researcher, Hawassa University
+              - link ", Ethiopia" [ref=e1213] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1214]: I was a speaker at the Food Science and Nutrition webinar held on Dec 03-05, 2020. It was a great opportunity to share my study results to the world. The webinar gathered researchers working on different areas of food nutrition from every corner of the globe. Very interesting topics were presented and discussed. Thank you so much for organizing such an amazing webinar. I am sure I will come again with another presentation in one of your future conferences.
+            - generic [ref=e1218]:
+              - heading "Partha Malakar" [level=3] [ref=e1219]
+              - emphasis [ref=e1220]: Assistant Professor, South Calcutta Girls’ College
+              - link ", India" [ref=e1221] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1222]: I, Dr. Partha Malakar, have participated as an 'Honourable speaker' in the international webinar on Dementia and Dementia Care, organized by the Conference Mind during 25th to 27th November, 2020. I am really thankful to them for providing me a well organized platform to share my knowledge and also to learn from the eminent speakers from different parts of the world. It was a wonderful experience which surely I will keep in mind in the coming years of my life. I wish you all the success in your future endeavors.
+            - generic [ref=e1226]:
+              - heading "Santana Jana" [level=3] [ref=e1227]
+              - emphasis [ref=e1228]: Professor, West Bengal University of Animal and Fishery Sciences
+              - link ", India" [ref=e1229] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1230]: Conference Mind is highly efficient in arranging conference in various fields . It is a good platform for the scientists, economists, environmentalists and others to focus the scientific achievements and other social and economic problems to the audience all over the world.
+            - generic [ref=e1234]:
+              - heading "Ayush Madan" [level=3] [ref=e1235]
+              - emphasis [ref=e1236]: Assistant Professor, Shobhit University
+              - link ", India" [ref=e1237] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1238]: I would like to Congratulate Conference Mind for organizing an International Webinar on Nursing Education and Health Care, during January 13 - 14, 2021. I also like to thank to the organizers for giving me this online platform to share my views & knowledge for the International audience. Thanks once again & Best wishes for future conferences!!
+            - generic [ref=e1242]:
+              - heading "Birye Dessalegn Mekonnen" [level=3] [ref=e1243]
+              - emphasis [ref=e1244]: Researcher, Teda health Science College
+              - link ", Ethiopia" [ref=e1245] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1246]: I was happy all the day. It was great time with you! I got relevant experience. I wish all the best for future endeavours. Thank you so much!!!
+            - generic [ref=e1250]:
+              - heading "Nusiba Mohammed Mohammed Ahmed" [level=3] [ref=e1251]
+              - emphasis [ref=e1252]: Medical Laboratory
+              - link ", Sudan" [ref=e1253] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1254]: I am Nusiba Mohammed Mohammed Ahmed, from Sudan University of Science and Technology, Sudan. It was very useful and exciting, I really enjoying in it and thank you very much Conference Mind team for giving me this opportunity for sharing my research work in this Global conference on Hematology and Oncology. Looking forward to join the upcoming conferences organized by your team.
+            - generic [ref=e1258]:
+              - heading "Rosalia Crupi" [level=3] [ref=e1259]
+              - emphasis [ref=e1260]: Research Assistant
+              - link ", Italy" [ref=e1261] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1262]: I would like to thank you for the opportunity to join us in the conference; the scientific program was very interesting and stimulating to give us the opportunity to share our research with other scientists. I hope the you organize another conference like this.
+            - generic [ref=e1266]:
+              - heading "Aizman Roman Idelevich" [level=3] [ref=e1267]
+              - emphasis [ref=e1268]: Professor
+              - link ", Russia" [ref=e1269] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1270]: Dear Organizer! I would like to thank you for excellent Meeting, efficient organization, interesting talks and hope to get such great quality the book of abstracts to have possibility once more to remember the content of speeches.
+            - generic [ref=e1274]:
+              - heading "Marcelein Dj. Ratoe Odjoe" [level=3] [ref=e1275]
+              - emphasis [ref=e1276]: Associate Professor
+              - link ", Indonesia" [ref=e1277] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1278]: A very good moment because of exchanging experiences, knowledge, skills in scientific knowledge and scientific technology from various countries, this moment must continue.
+            - generic [ref=e1282]:
+              - heading "Ling Sien Ngan" [level=3] [ref=e1283]
+              - emphasis [ref=e1284]: Founder & Chairman
+              - link ", Malaysia" [ref=e1285] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1286]: Quality and informative program run in a very professional way with stimulating and highly qualified speakers. Audience was able to bring golden tips back to their institution for further research or private practice. Thank you Conference Mind Organization to provide a best platform for researchers.
+            - generic [ref=e1290]:
+              - heading "Edi Erwan" [level=3] [ref=e1291]
+              - emphasis [ref=e1292]: Lecturer
+              - link ", Indonesia" [ref=e1293] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1294]: Thank you very much to the organizing team of Conference Mind for the successfully for conducted good webinar session. Congratulations for success of webinar.
+            - generic [ref=e1298]:
+              - heading "P. M. Chauhan" [level=3] [ref=e1299]
+              - emphasis [ref=e1300]: Assistant Professor
+              - link ", India" [ref=e1301] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1302]: Many many congratulations and thank u very much to organizing team of 2nd international webinar on Veterinary and livestock for organizing a very informative and useful event. Also, congratulate to all speakers, they presented very nicely research papers.
+            - generic [ref=e1306]:
+              - heading "Buhari Habibu" [level=3] [ref=e1307]
+              - emphasis [ref=e1308]: Physiologist
+              - link ", Nigeria" [ref=e1309] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1310]: It was a wonderful opportunity. The experience worth it. The conference was quite interesting. It gave me the opportunity of meeting researchers in my research field from many countries. There organizers were very friendly and helpful. Hopefully, I and my colleagues here in Ahmadu Bello University, Zaria, Nigeria will join you next time.
+            - generic [ref=e1314]:
+              - heading "Sutan Y.F.G. Dillak" [level=3] [ref=e1315]
+              - emphasis [ref=e1316]: Associate Professor
+              - link ", Indonesia" [ref=e1317] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1318]: Thanks for inviting me to the conference. I had a very nice experience during the event. Glad to learn from other field of expertise. Nice to meet all speakers. Despite the limitation due to online. I kindly think that it was a very good conference. Have a great time. Looking forward to joining the future event organized by Conference Mind
+            - generic [ref=e1322]:
+              - heading "Reshma Jain" [level=3] [ref=e1323]
+              - emphasis [ref=e1324]: Assistant Professor
+              - link ", India" [ref=e1325] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1326]: Thank you very much to the organizing team of Conference Mind for the successfully conducted good webinar session. Congratulations for success of webinar.
+            - generic [ref=e1330]:
+              - heading "Jacob R. Noach" [level=3] [ref=e1331]
+              - emphasis [ref=e1332]: Associate Professor
+              - link ", Indonesia" [ref=e1333] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1334]: According to me, this event is very attractive and prestigious conference. Hopefully, in future we can join again, of course in other theme,,, thanks a lot,,, proficient to you, the Organizer Team of 2nd International Conference of Veterinary and Livestock,,, good luck for future conferences.
+            - generic [ref=e1338]:
+              - heading "Suchitra Sena Dande" [level=3] [ref=e1339]
+              - emphasis [ref=e1340]: Principal Scientist
+              - link ", India" [ref=e1341] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1342]: Very nice talks on diversified species. Thanks for providing opportunity.
+            - generic [ref=e1346]:
+              - heading "Francesca Arfuso" [level=3] [ref=e1347]
+              - emphasis [ref=e1348]: Researcher
+              - link ", Italy" [ref=e1349] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1350]: Despite the limitation due to online conference, I strongly think that the event was of good quality and interesting by a scientific point of view. Moreover, to my opinion, the information shared by speakers are of great interest for scientific community opening new insights into veterinary and livestock research. Congratulations.
+            - generic [ref=e1354]:
+              - heading "N. Anand Laxmi" [level=3] [ref=e1355]
+              - emphasis [ref=e1356]: Principal Scientist
+              - link ", India" [ref=e1357] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1358]: This time experience was great. Thanks Conference Mind Team to helped me in slide presentation. Looking forward to join future conferences.
+            - generic [ref=e1362]:
+              - heading "Chiara Focaccetti" [level=3] [ref=e1363]
+              - emphasis [ref=e1364]: Researcher
+              - link ", Italy" [ref=e1365] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1366]: Very interesting the International Webinar on Vaccination and Immunology 2021. I was happy to participate.
+            - generic [ref=e1370]:
+              - heading "Snehalata Ankaram" [level=3] [ref=e1371]
+              - emphasis [ref=e1372]: Assistant Professor
+              - link ", India" [ref=e1373] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1374]: I am happy about the punctuality, quick response, and support of organizing command Conference Mind. It really contributes to Global connectivity and sharing, the interaction between various arenas. Thank you Conference Mind. I will work with Conference Mind in the future ahead
+            - generic [ref=e1378]:
+              - heading "Monica Benvenuto" [level=3] [ref=e1379]
+              - emphasis [ref=e1380]: Researcher
+              - link ", Italy" [ref=e1381] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1382]: Very informative and well-organized webinar on Vaccination and immunology.
+            - generic [ref=e1386]:
+              - heading "Huang Wei Ling" [level=3] [ref=e1387]
+              - emphasis [ref=e1388]: Medical Acupuncture and Pain Management Clinic
+              - link ", Brazil" [ref=e1389] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1390] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=ek36W1Q74k0
+            - generic [ref=e1395]:
+              - heading "Hakim Irfan Showkat" [level=3] [ref=e1396]
+              - emphasis [ref=e1397]: DNB CARDIOLOGY
+              - link ", India" [ref=e1398] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1399] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=yY1-zW8dkgY
+            - generic [ref=e1404]:
+              - heading "Raffaele Pilla" [level=3] [ref=e1405]
+              - emphasis [ref=e1406]: Professor
+              - link ", Italy" [ref=e1407] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1408] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=dhRucrlcW60
+            - generic [ref=e1413]:
+              - heading "Khalida Soomro" [level=3] [ref=e1414]
+              - emphasis [ref=e1415]: MD-FACC FAPSC
+              - link ", Pakistan" [ref=e1416] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1417] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=04uHebh-hXQ
+            - generic [ref=e1422]:
+              - heading "Chetna Bhagoji" [level=3] [ref=e1423]
+              - emphasis [ref=e1424]: Govidram Seksaria Science College
+              - link ", India" [ref=e1425] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1426] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=cVXhnoAdzaA
+            - generic [ref=e1431]:
+              - heading "Rifaat Abdalla" [level=3] [ref=e1432]
+              - emphasis [ref=e1433]: Associate Professor
+              - link ", Oman" [ref=e1434] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1435] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=ABduxVpvrd0
+            - generic [ref=e1440]:
+              - heading "Eddiwan Kamaruddin" [level=3] [ref=e1441]
+              - emphasis [ref=e1442]: Senior Lecturer at Fisheries and Marine Science Faculty
+              - link "," [ref=e1443] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1444] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=4q3-3xQ6zOY
+            - generic [ref=e1449]:
+              - heading "Edgar Omar Puente" [level=3] [ref=e1450]
+              - emphasis [ref=e1451]: Research Professor
+              - link ", Mexico" [ref=e1452] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1453] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=Zl4vWEmsVJg
+            - generic [ref=e1458]:
+              - heading "Wei Ling Huang" [level=3] [ref=e1459]
+              - emphasis [ref=e1460]: Acupuncturist
+              - link ", Brazil" [ref=e1461] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1462] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=kURFPzNWHkc
+            - generic [ref=e1467]:
+              - heading "Rahul Verma" [level=3] [ref=e1468]
+              - emphasis [ref=e1469]: Professor
+              - link ", Botswana" [ref=e1470] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1471] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=uKDqgUnIUlI
+            - generic [ref=e1476]:
+              - heading "Rifaat Abdalla" [level=3] [ref=e1477]
+              - emphasis [ref=e1478]: Associate Professor
+              - link ", Oman" [ref=e1479] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1480] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=2QbPE3cxLwc
+            - generic [ref=e1485]:
+              - heading "HUANG WEI LING" [level=3] [ref=e1486]
+              - emphasis [ref=e1487]: Acupuncturist
+              - link ", Brazil" [ref=e1488] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1489] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=goUVTCaexmE
+            - generic [ref=e1494]:
+              - heading "Raffaela Pilla" [level=3] [ref=e1495]
+              - emphasis [ref=e1496]: Professor
+              - link ", Italy" [ref=e1497] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1498] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=fJqdcYhNUd0
+            - generic [ref=e1503]:
+              - heading "Huang Wei Ling" [level=3] [ref=e1504]
+              - emphasis [ref=e1505]: Acupuncturist
+              - link ", Brazil" [ref=e1506] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1507] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=ek36W1Q74k0
+            - generic [ref=e1512]:
+              - heading "Huang Wei Ling" [level=3] [ref=e1513]
+              - emphasis [ref=e1514]: Acupuncturist
+              - link ", Brazil" [ref=e1515] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1516] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=cS6PfFngRTw
+            - generic [ref=e1521]:
+              - heading "Huang Wei Ling" [level=3] [ref=e1522]
+              - emphasis [ref=e1523]: Acupuncturist
+              - link ", Brazil" [ref=e1524] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1525] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=rBsCV_A-epg
+            - generic [ref=e1530]:
+              - heading "Pushpam Kumar Sinha" [level=3] [ref=e1531]
+              - emphasis [ref=e1532]: Independent Researcher
+              - link ", India" [ref=e1533] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1534] [cursor=pointer]:
+                - /url: https://youtu.be/9FLpcycdnSM
+            - generic [ref=e1539]:
+              - heading "Pravin D. Potdar" [level=3] [ref=e1540]
+              - emphasis [ref=e1541]: Ex- Head, Department of Molecular Medicine & stem cell Biology at JASLOK HOSPITAL &RESEARCH CENTRE
+              - link ", India" [ref=e1542] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1543] [cursor=pointer]:
+                - /url: https://youtu.be/LQ2JpPh-GIg
+            - generic [ref=e1548]:
+              - heading "Huang Wei Ling" [level=3] [ref=e1549]
+              - emphasis [ref=e1550]: Acupuncturist
+              - link ", Brazil" [ref=e1551] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1552] [cursor=pointer]:
+                - /url: https://youtu.be/vu8isqPfCMU
+            - generic [ref=e1557]:
+              - heading "Urwashi Kumar" [level=3] [ref=e1558]
+              - emphasis [ref=e1559]: Dr. D.Y.Patil Institute of Management
+              - link ", India" [ref=e1560] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1561] [cursor=pointer]:
+                - /url: https://youtu.be/gkng_YfyoaU
+            - generic [ref=e1566]:
+              - heading "Sunita Bishnoi" [level=3] [ref=e1567]
+              - emphasis [ref=e1568]: Professor
+              - link ", India" [ref=e1569] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1570] [cursor=pointer]:
+                - /url: https://youtu.be/UYgO4N89QiQ
+            - generic [ref=e1575]:
+              - heading "M V A N Suryanarayana" [level=3] [ref=e1576]
+              - emphasis [ref=e1577]: Professor
+              - link ", India" [ref=e1578] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1579]: Congratulations to the CONFERENCE MIND TEAM for conducting the webinar in an extraordinary way..... You are very responsive, positive and the planning of the schedule was very good..... Scientific information was updated... I would like to work further with your system of functioning... All the best.
+            - generic [ref=e1583]:
+              - heading "Sutan Y.F.G. Dillak" [level=3] [ref=e1584]
+              - emphasis [ref=e1585]: Associate Professor
+              - link ", Indonesia" [ref=e1586] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1587]: Despite the limitation due to online. I kindly think that it was a very good conference. Thank you to invite me . Have a great time.. Glad to learn from other field of expertise. Congratulations to Conference Mind. Thank you so much
+            - generic [ref=e1591]:
+              - heading "Rakhi Gangil" [level=3] [ref=e1592]
+              - emphasis [ref=e1593]: Assistant Professor
+              - link ", India" [ref=e1594] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1595]: It was a great experience to interact with scientist from all over the world. Congratulations Conference Mind Team for organizing a wonderful conference in very systematic manner... I wish that conference mind will organize such conference on other scientific aspects in future also.. thanks for providing a global platform to discuss innovative research ideas of scientists.
+            - generic [ref=e1599]:
+              - heading "Atshaya Sundar" [level=3] [ref=e1600]
+              - emphasis [ref=e1601]: Student
+              - link ", India" [ref=e1602] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1603]: Conference Mind had arranged our Aquaculture conference spectacularly. They are responsive and Highly professional. Suppose you want to excel in your academics and aspire your research to grab attention globally. Then go for their conferences without giving any second thought. They are truly commendable.
+            - generic [ref=e1607]:
+              - heading "PREM SAGAR" [level=3] [ref=e1608]
+              - emphasis [ref=e1609]: SEPPIC
+              - link ", India" [ref=e1610] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1611] [cursor=pointer]:
+                - /url: https://youtu.be/bOeI-XccDBM
+            - generic [ref=e1616]:
+              - heading "M V A N SURYANARAYANA" [level=3] [ref=e1617]
+              - emphasis [ref=e1618]: Professor & Head
+              - link ", India" [ref=e1619] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1620] [cursor=pointer]:
+                - /url: https://youtu.be/5NnnuLD5TjQ
+            - generic [ref=e1625]:
+              - heading "Akhilesh Pandey" [level=3] [ref=e1626]
+              - emphasis [ref=e1627]: Assistant Professor
+              - link ", India" [ref=e1628] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1629] [cursor=pointer]:
+                - /url: https://youtu.be/EA6ErIiUi5k
+            - generic [ref=e1634]:
+              - heading "Arpit Sikri" [level=3] [ref=e1635]
+              - emphasis [ref=e1636]: Associate Professor
+              - link ", India" [ref=e1637] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1638] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=hfOpHx1Dt5o
+            - generic [ref=e1643]:
+              - heading "Ravi P. Sahu" [level=3] [ref=e1644]
+              - emphasis [ref=e1645]: Assistant Professor
+              - link ", USA" [ref=e1646] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1647] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=CVQO1IJxH1w
+            - generic [ref=e1652]:
+              - heading "Wei Ling Huang" [level=3] [ref=e1653]
+              - emphasis [ref=e1654]: Acupuncturist
+              - link ", Brasil" [ref=e1655] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1656] [cursor=pointer]:
+                - /url: https://youtu.be/UF3ZxUHKs68
+            - generic [ref=e1661]:
+              - heading "Pushpam Kumar Sinha" [level=3] [ref=e1662]
+              - emphasis [ref=e1663]: Assistant professor
+              - link ", India" [ref=e1664] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1665] [cursor=pointer]:
+                - /url: https://youtu.be/d0gpRX6bsSo
+            - generic [ref=e1670]:
+              - heading "Sankha Bhattacharya" [level=3] [ref=e1671]
+              - emphasis [ref=e1672]: Associate professor
+              - link ", India" [ref=e1673] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1674] [cursor=pointer]:
+                - /url: https://youtu.be/Hbf-SOqmjz0
+            - generic [ref=e1679]:
+              - heading "Nita Sharma Das" [level=3] [ref=e1680]
+              - emphasis [ref=e1681]: Founder
+              - link ", India" [ref=e1682] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1683]: I am impressed by the effort of the Conference Mind team... Conference Mind has given a platform to share our expertise and also offered the service for the smooth conducting of the event. For me, it was an overall good experience.
+            - generic [ref=e1687]:
+              - heading "Sunita Singh" [level=3] [ref=e1688]
+              - emphasis [ref=e1689]: Assistant Professor
+              - link ", India" [ref=e1690] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1691]: Personally, I think the conference mind team is very cooperative and tried to assist us each time. I have attended many webinars but the assistance given by conference mind is far better than other organizers.
+            - generic [ref=e1695]:
+              - heading "Ravi P. Sahu" [level=3] [ref=e1696]
+              - emphasis [ref=e1697]: Assistant Professor
+              - link ", USA" [ref=e1698] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1699]: It was a great experience presenting in the 3rd International Webinar on Cancer Research and Therapy. It is a great platform to share the research findings with scientists from around the globe having diverse expertise. The organizers were highly responsive and very helpful.
+            - generic [ref=e1703]:
+              - heading "Upendar Rao Golla" [level=3] [ref=e1704]
+              - emphasis [ref=e1705]: Postdoctoral Scholar
+              - link ", USA" [ref=e1706] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1707]: This is my first alliance with Conference Mind organizers. The event is very well organized with real-time updates on the WhatsApp group. They provide quick responses and timely answer any queries. The event is organized in a professional way and takes care of all the participants. So, I would be looking forward to future collaboration with Conference Mind.
+            - generic [ref=e1711]:
+              - heading "Mehmet ERASLAN" [level=3] [ref=e1712]
+              - emphasis [ref=e1713]: Researcher
+              - link ", Turkey" [ref=e1714] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1715]: I congratulate conference mind for the successful organization of this cancer research and therapy webinar. All the presentations were very informative. I presented on "The Car-T cell therapy and PD-1 inhibitors for Brain Cancer and Tumorigenesis" in an International webinar on cancer research and therapy. Good luck team.
+            - generic [ref=e1719]:
+              - heading "Vaishali Abrol" [level=3] [ref=e1720]
+              - emphasis [ref=e1721]: Research Scholar
+              - link ", India" [ref=e1722] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1723]: It was my pleasure to participate in the 3rd international conference for Forensic Research & Toxicology. Thank you for giving me wonderful opportunity to share my research, I am so glad to associate with your organization.
+            - generic [ref=e1727]:
+              - heading "Subhrajyoti Roy" [level=3] [ref=e1728]
+              - emphasis [ref=e1729]: Assistant Professor
+              - link ", India" [ref=e1730] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1731]: Had a wonderful experience at the Conference. All the speakers are exceptionally good. Thanks to the Conference Organizers for providing this great platform to share my research with other researchers with expertise in the traditional medicinal areas. Moreover, the organizing team is professional and at the same time they are very helpful
+            - generic [ref=e1735]:
+              - heading "Amal I. Khalil" [level=3] [ref=e1736]
+              - emphasis [ref=e1737]: Professor
+              - link ", Egypt" [ref=e1738] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1739]: I am really appreciating the valuable information I learned from this conference for me it is a very good experience to listen and share information in an international organisation thanks for the organizing committee and all researchers participating in this scientific event.
+            - generic [ref=e1743]:
+              - heading "Mohammad Bagher Rezaee" [level=3] [ref=e1744]
+              - emphasis [ref=e1745]: Chairman
+              - link ", Iran" [ref=e1746] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1747] [cursor=pointer]:
+                - /url: https://youtu.be/HgAGKFSWU8U
+            - generic [ref=e1752]:
+              - heading "Wei Ling Huang" [level=3] [ref=e1753]
+              - emphasis [ref=e1754]: Acupuncturist
+              - link ", Brasil" [ref=e1755] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1756] [cursor=pointer]:
+                - /url: https://youtu.be/x9vIQyGPhzA
+            - generic [ref=e1761]:
+              - heading "Sunita Singh" [level=3] [ref=e1762]
+              - emphasis [ref=e1763]: Assistant Professor
+              - link ", India" [ref=e1764] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1765] [cursor=pointer]:
+                - /url: https://youtu.be/eGjOnDj0YQU
+            - generic [ref=e1770]:
+              - heading "Suvra Roy" [level=3] [ref=e1771]
+              - emphasis [ref=e1772]: Scientist
+              - link ", India" [ref=e1773] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1774] [cursor=pointer]:
+                - /url: https://youtu.be/qtr2TqcvjKo
+            - generic [ref=e1779]:
+              - heading "Manmohan Kumar" [level=3] [ref=e1780]
+              - emphasis [ref=e1781]: Assistant Professor
+              - link ", India" [ref=e1782] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1783] [cursor=pointer]:
+                - /url: https://youtu.be/-RwHdW7Abc0
+            - generic [ref=e1788]:
+              - heading "Pranali Prabhakar Marbade" [level=3] [ref=e1789]
+              - emphasis [ref=e1790]: Master’s student
+              - link ", India" [ref=e1791] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1792]: Wonderful experience to interact with the world
+              - link [ref=e1793] [cursor=pointer]:
+                - /url: https://youtu.be/FQvRGewR8D4
+            - generic [ref=e1798]:
+              - heading "Vanita D. Revankar" [level=3] [ref=e1799]
+              - emphasis [ref=e1800]: Assistant Professor
+              - link ", India" [ref=e1801] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1802] [cursor=pointer]:
+                - /url: https://youtu.be/EiMOHSyy-Vo
+            - generic [ref=e1807]:
+              - heading "Sudeshna Sarker" [level=3] [ref=e1808]
+              - emphasis [ref=e1809]: Assistant Professor
+              - link ", India" [ref=e1810] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1811] [cursor=pointer]:
+                - /url: https://youtu.be/K6TJ2nvQyGk
+            - generic [ref=e1816]:
+              - heading "Shelly Garg" [level=3] [ref=e1817]
+              - emphasis [ref=e1818]: Researcher
+              - link ", India" [ref=e1819] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1820]: The conference was very informative and the time slots provided were good enough to gain from the presentations. Would love to be a part of your future conferences.
+            - generic [ref=e1824]:
+              - heading "Santhi Goel" [level=3] [ref=e1825]
+              - emphasis [ref=e1826]: Biochemist
+              - link ", India" [ref=e1827] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1828]: Excellent webinar! I have been to many conferences; this is by far one of the most well-organized. I’d recommend it to people of all levels in this subject. I loved the open environment, the Great examples throughout, and the organizing committee was very friendly and considerate. Overall, great program. Thanks for putting the time into this event.”
+            - generic [ref=e1832]:
+              - heading "Dr. Naresh Raj Keer" [level=3] [ref=e1833]
+              - emphasis [ref=e1834]: Assistant Professor
+              - link ", India" [ref=e1835] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1836]: Conference mind is providing an excellent platform to explore your work at the national and international levels. I want to thank all the team members of the conference mind for organizing such a nice conference on Aquaculture and Marine Biology. Really it was so knowledgeable.
+            - generic [ref=e1840]:
+              - heading "Habib Vahabzadeh Roodsari" [level=3] [ref=e1841]
+              - emphasis [ref=e1842]: Member of scientific
+              - link ", Iran" [ref=e1843] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1844]: It was a wonderful experience to attend an international scientific conference, I attended on time and had a marvelous presentation with many people who attended and asked me some questions at the end of my presentation, the chairwoman was very smart and managed the panel correctly, I wanna purpose to continue this method even after covid-19 cleared from the whole of the world because world's scientists need to share their findings with their colleagues who are living in each corner of the world.
+            - generic [ref=e1848]:
+              - heading "Garima Anand" [level=3] [ref=e1849]
+              - emphasis [ref=e1850]: Ph.D. Scholar
+              - link ", India" [ref=e1851] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1852]: Had a great experience and shared a platform with International delegates too. very knowledgeable
+            - generic [ref=e1856]:
+              - heading "Samyukta Gaur" [level=3] [ref=e1857]
+              - emphasis [ref=e1858]: PhD Scholar
+              - link ", India" [ref=e1859] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1860]: Extremely amazing conference. Got an insight into new research going on worldwide. Thank you for selecting my abstract and giving me the opportunity to present my research views in front of a great audience.
+            - generic [ref=e1864]:
+              - heading "Manmohan Kumar" [level=3] [ref=e1865]
+              - emphasis [ref=e1866]: Assistant Professor
+              - link ", India" [ref=e1867] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1868]: One of the best platforms to learn, share and exchange our knowledge and ideas. Thank you so much Conference Mind Team for giving me an opportunity as a speaker at the 3rd International Conference on Aquaculture and Marine Biology.
+            - generic [ref=e1872]:
+              - heading "Sakshi Sharma" [level=3] [ref=e1873]
+              - emphasis [ref=e1874]: PhD Scholar
+              - link ", India" [ref=e1875] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1876]: Had a great experience while presenting at 3 rd Global Conference on Food Science and Nutrition. Thanks to the organizing committee for providing me with this opportunity. The team is quite helpful and professional.
+            - generic [ref=e1880]:
+              - heading "Neelesh Kumar" [level=3] [ref=e1881]
+              - emphasis [ref=e1882]: Research Scholar
+              - link ", India" [ref=e1883] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1884]: We had very informative sessions, Thank you so much, Conference Mind Team
+            - generic [ref=e1888]:
+              - heading "Roshan Kumar Ram" [level=3] [ref=e1889]
+              - emphasis [ref=e1890]: Assistant Professor
+              - link ", India" [ref=e1891] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1892]: This conference provides a great platform to share our thoughts and research.
+            - generic [ref=e1896]:
+              - heading "ABHIJIT MALLIK" [level=3] [ref=e1897]
+              - emphasis [ref=e1898]: Ph.D. Scholar
+              - link ", India" [ref=e1899] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1900] [cursor=pointer]:
+                - /url: https://youtu.be/yR1VyCXimdw
+            - generic [ref=e1905]:
+              - heading "Ayush Madan" [level=3] [ref=e1906]
+              - emphasis [ref=e1907]: Assistant Professor
+              - link ", India" [ref=e1908] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph
+              - link [ref=e1909] [cursor=pointer]:
+                - /url: https://youtu.be/EqwCCzhur_E
+            - generic [ref=e1914]:
+              - heading "Kala Suhas Kulkarni" [level=3] [ref=e1915]
+              - emphasis [ref=e1916]: M.D Pharmacology
+              - link ", M.D Pharmacology M.C.P.S , Mumbai India" [ref=e1917] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1918]: Express my Gratitude I am very happy to express my thanks to the team conference mind. They have conducted a significant number of webinars and international conferences both offline and online. Large participation indicates that this would be a very ideal way of promoting alternative medicine. The combination of therapeutic approach of allopathic modern medicine with traditional medicine May produce complimentary effect and hence the patient will be able to come out of pain and discomfort of the chronic disease .The areas of interest appeal to a large number of practitioners. The ultimate we are looking for is improving the quality of life in prolonged diseases Once again I take this time to acknowledge the efforts of traditional medicine practitioners and team conference mind Congratulations and Best wishes Dr Kala Suhas Kulkarni
+            - generic [ref=e1922]:
+              - heading "Dr. Bhavya Srivastava" [level=3] [ref=e1923]
+              - emphasis [ref=e1924]: Assistant Professor
+              - link "," [ref=e1925] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1926]: I would like to express my appreciation for organizing such an insightful and well-structured international conference. The event provided a platform for fruitful discussions and valuable networking opportunities among participants from diverse backgrounds.
+            - generic [ref=e1930]:
+              - heading "Ms. Vaishali Abrol" [level=3] [ref=e1931]
+              - emphasis [ref=e1932]: Research Scholar
+              - link "," [ref=e1933] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1934]: It was my pleasure to participate in the 7th International Conference for Forensic Research & Toxicology. Thank you for giving me a wonderful opportunity to share my research, I am so glad to associate with your organization. Positive Professionalism
+            - generic [ref=e1938]:
+              - heading "Madhuri Vagal" [level=3] [ref=e1939]
+              - emphasis [ref=e1940]: Founder/CEO
+              - link ", Legal Investigation Forensic Laboratory, Mumbai, India" [ref=e1941] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1942]: Very informative Very Professional Very Knowledgeable Conference Proud to be part of such an elite eConference.Thankyou and Wishes to all learned Participants Proud to be part of the Forensic Medicine Research econference . All Research paper n studies n experience shared by all Participants Sir/Madam Thankyou Special thanks to Vinay sir n Aparajit Sahoo.Keep up the good work.
+            - generic [ref=e1946]:
+              - heading "Dr. Shiva Pujan Singh" [level=3] [ref=e1947]
+              - emphasis [ref=e1948]: Assistant Professor
+              - link ", Dr. Rajendra Prasad Central Agricultural University India" [ref=e1949] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1950]: I congratulate to conference mind team for Organizing this wonderful conference. All the sessions were very informative and useful for the researchers and students. Thanks a lot for bringing together all the startwards in this field on a common platform.
+            - generic [ref=e1954]:
+              - heading "Dr. Suneeta Paswan" [level=3] [ref=e1955]
+              - emphasis [ref=e1956]: Scientist
+              - link ", Saharsa Bihar Agricultural University, India" [ref=e1957] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1958]: Excellent presentation of all the participants, it was very Informative and innovative, Thank goes to all organizing members, participants, and all involved in this.
+            - generic [ref=e1962]:
+              - heading "Dr. Rahul Singh Pal" [level=3] [ref=e1963]
+              - emphasis [ref=e1964]: Professor and Head
+              - link ", Department of of Veterinary and Animal Husbandry Extension Education, Rajasthan University of Veterinary and Animal Sciences Bikaner, Rajasthan. India" [ref=e1965] [cursor=pointer]:
+                - /url: "#/"
+              - paragraph [ref=e1966]: Wonderful and Memorable 8th International conference organized by conference Mind. This conference covered almost all the aspects related to the Veterinary and Livestock. All the speaker gave deep and valuable knowledge about their topics. It is really helpful for us. I heartily congratulate to organizers for such an excellent organization. Best wishes for the Future, Thanks lots. Regards - Dr. Rahul Singh Pal professor and Head Department of Veterinary and Animal Husbandry Extension Education, Rajasthan University of Veterinary and Animal Sciences Bikaner, Rajasthan.
+        - generic [ref=e1967]:
+          - heading "Get in touch with us" [level=2] [ref=e1970]
+          - group [ref=e1972]:
+            - textbox "Full Name*" [ref=e1974]
+            - textbox "Email*" [ref=e1976]
+            - textbox "Phone*" [ref=e1978]
+            - textbox "Subject*" [ref=e1980]
+            - textbox "Profession" [ref=e1982]
+            - textbox "Message*" [ref=e1984]
+            - button "Send Now" [ref=e1986] [cursor=pointer]
+      - generic [ref=e1987]:
+        - link "" [ref=e1988] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - generic [ref=e1991]:
+          - list [ref=e1992]:
+            - listitem [ref=e1993]:
+              - link "" [ref=e1994] [cursor=pointer]:
+                - /url: https://www.facebook.com/Conference-Mind-103557674347276/
+            - listitem [ref=e1996]:
+              - link "" [ref=e1997] [cursor=pointer]:
+                - /url: https://twitter.com/ConferenceMind
+            - listitem [ref=e1999]:
+              - link "" [ref=e2000] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/officialconferencemind
+            - listitem [ref=e2002]:
+              - link "" [ref=e2003] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UC2KH-I3EBpPSMkJEZQKIU0A
+            - listitem [ref=e2005]:
+              - link "" [ref=e2006] [cursor=pointer]:
+                - /url: https://in.pinterest.com/academic0532/
+            - listitem [ref=e2008]:
+              - link "" [ref=e2009] [cursor=pointer]:
+                - /url: https://www.instagram.com/conferencemind/
+          - list [ref=e2011]:
+            - listitem [ref=e2012]:
+              - link "About" [ref=e2013] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e2014]:
+              - link "FAQs" [ref=e2015] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=e2016]:
+              - link "Terms & Conditions" [ref=e2017] [cursor=pointer]:
+                - /url: /terms
+            - listitem [ref=e2018]:
+              - link "Privacy Policy" [ref=e2019] [cursor=pointer]:
+                - /url: /privacy
+          - paragraph [ref=e2020]:
+            - text: All Rights Reserved
+            - link "Conference Mind PVT. LTD." [ref=e2021] [cursor=pointer]:
+              - /url: "#"
+  - generic [ref=e2022]:
+    - generic:
+      - generic [ref=e2025] [cursor=pointer]:
+        - generic [ref=e2026]: Chat with us on WhatsApp!
+        - strong [ref=e2027]: ×
+      - generic [ref=e2028]: Hello, how can we help you?
+      - textbox [ref=e2030]

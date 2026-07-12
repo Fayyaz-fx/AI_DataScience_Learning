@@ -1,0 +1,4 @@
+[    2609ms] TypeError: Cannot read properties of null (reading 'addEventListener')
+    at https://www.allconferencealert.com/js/mobile.js?v=1.0:407:14
+    at https://www.allconferencealert.com/js/mobile.js?v=1.0:411:3
+[    4125ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.allconferencealert.com/:0

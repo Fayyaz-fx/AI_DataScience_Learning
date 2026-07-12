@@ -1,0 +1,7 @@
+[     731ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://cdn.evbstatic.com/s3-build/perm_001/befbf7/django/images/favicons/manifest.webmanifest:0
+[     731ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://cdn.evbstatic.com/s3-build/perm_001/befbf7/django/images/favicons/manifest.webmanifest:0
+[     978ms] [WARNING] Use `y` instead of `Y` (in `Y`) for formatting years to the input `Sun Jul 12 2026 06:55:57 GMT-0700 (Pacific Daylight Time)`; see: https://github.com/date-fns/date-fns/blob/master/docs/unicodeTokens.md @ https://www.eventbrite.com/home/_next/static/chunks/1166-0f931c1d451f4b54.js:0
+[    1155ms] [WARNING] [statsig] Not initialized yet, storing callback for later @ https://www.eventbrite.com/home/_next/static/chunks/pages/_app-23c43f004056ad5f.js:112
+[    1155ms] [WARNING] [statsig] Not initialized yet, storing callback for later @ https://www.eventbrite.com/home/_next/static/chunks/pages/_app-23c43f004056ad5f.js:112
+[    1159ms] [LOG] Regime detected is cpra-others, loading transcend @ :3
+[    5717ms] [LOG] Sync done via valkriye: Show banner @ :10

@@ -1,0 +1,2438 @@
+- generic [active] [ref=f13e1]:
+  - navigation [ref=f13e2]:
+    - generic [ref=f13e3]:
+      - link [ref=f13e5] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com
+        - img "Logo" [ref=f13e6]
+      - generic [ref=f13e7]:
+        - link "Home" [ref=f13e8] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com
+        - link "About" [ref=f13e9] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/about
+        - link "Contact" [ref=f13e10] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/contact
+        - link "Subscribe" [ref=f13e11] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/subscribe
+        - link "FAQ" [ref=f13e12] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/faq
+        - link "Blog" [ref=f13e13] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/blog
+        - link "Journals" [ref=f13e14] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/journal
+        - link "Help" [ref=f13e15] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/help
+      - generic [ref=f13e16]:
+        - link "Login" [ref=f13e17] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/login
+        - button "Toggle dark mode" [ref=f13e18] [cursor=pointer]:
+          - text: 
+          - generic [ref=f13e19]: 
+        - text: 
+  - generic [ref=f13e20]:
+    - img "Background" [ref=f13e22]
+    - generic [ref=f13e25]:
+      - generic [ref=f13e26]: All Conference Alert
+      - generic [ref=f13e27]:
+        - tablist "Search Options" [ref=f13e28]:
+          - tab "Quick Search" [selected] [ref=f13e29] [cursor=pointer]
+          - tab "Advanced Search" [ref=f13e30] [cursor=pointer]
+        - generic [ref=f13e31]:
+          - tabpanel "Quick Search" [ref=f13e32]:
+            - generic [ref=f13e34]:
+              - generic [ref=f13e35]: Search by name, topic, or location
+              - textbox "Search by name, topic, or location..." [ref=f13e37]
+          - text:     
+      - generic [ref=f13e41]:
+        - link "All Conference Alert Facebook Business Page" [ref=f13e42] [cursor=pointer]:
+          - /url: https://www.facebook.com/pages/allconferencealertcom/323565867774881
+          - generic [ref=f13e43]: 
+        - link "All Conference Alert Twitter Business Page" [ref=f13e44] [cursor=pointer]:
+          - /url: https://twitter.com/AllConefernce
+          - generic [ref=f13e45]: 
+        - link "All Conference Alert Linkedin Business Page" [ref=f13e46] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/allconferencealertofficial
+          - generic [ref=f13e47]: 
+        - link "All Conference Alert YouTube Page" [ref=f13e48] [cursor=pointer]:
+          - /url: https://www.youtube.com/@allconferencealert-com
+          - generic [ref=f13e49]: 
+        - link "Academic Conference Wikipedia Page" [ref=f13e50] [cursor=pointer]:
+          - /url: https://en.wikipedia.org/wiki/Academic_conference
+          - generic [ref=f13e51]: 
+        - link "All Conference Alert Instagram Page" [ref=f13e52] [cursor=pointer]:
+          - /url: https://www.instagram.com/allconferencealertt/
+          - generic [ref=f13e53]: 
+        - link "All Conference Alert Telegram Page" [ref=f13e54] [cursor=pointer]:
+          - /url: https://t.me/allconferencealertt
+          - generic [ref=f13e55]: 
+  - generic [ref=f13e57]:
+    - generic [ref=f13e58]:
+      - heading "International Conferences 2026" [level=1] [ref=f13e59]
+      - generic [ref=f13e60]:
+        - paragraph [ref=f13e61]: With AllConferenceAlert, explore the list of International Conferences 2026 across multiple disciplines, including science, technology, medicine, business, education, engineering, and more. Discover global events happening in various countries and browse conferences by subject, location, and month to find the most relevant opportunities for your academic and professional goals.
+        - heading "What is Conference?" [level=4] [ref=f13e62]
+        - paragraph [ref=f13e63]:
+          - strong [ref=f13e64]: Conferences
+          - text: are professional academic meetings that bridge gaps between industry scholars, experts, and researchers from diverse fields, offering a platform to share viewpoints, present research papers, and engage in meaningful academic discussions.
+        - paragraph
+        - heading "How can I find Upcoming Conferences in my field?" [level=4] [ref=f13e65]
+        - paragraph [ref=f13e66]:
+          - text: We make it simple for you to find
+          - strong [ref=f13e67]: Upcoming Conferences
+          - text: that match your interests. You can search by subject area, country, city, or specific month. Our advanced filtering options allow you to narrow down results quickly so you can focus only on conferences that align with your research or career objectives.
+      - group [ref=f13e68]:
+        - generic "View more" [ref=f13e69] [cursor=pointer]
+    - generic [ref=f13e71]:
+      - generic [ref=f13e73]:
+        - generic [ref=f13e75]: ACTIVE
+        - text: 50k+
+        - paragraph [ref=f13e79]: Live Conferences Right Now
+        - paragraph [ref=f13e80]: Join researchers from 150+ countries
+      - generic [ref=f13e82]:
+        - generic [ref=f13e83]: 1M+
+        - paragraph [ref=f13e88]: Monthly Visitors
+        - paragraph [ref=f13e89]: +23% from last month
+      - generic [ref=f13e90]:
+        - generic [ref=f13e91]: 330+
+        - paragraph [ref=f13e96]: Diverse Topics
+        - paragraph [ref=f13e97]: AI, Medicine, Engineering
+      - generic [ref=f13e98]:
+        - generic [ref=f13e99]: 150+
+        - paragraph [ref=f13e104]: Countries Represented
+        - paragraph [ref=f13e105]: Global academic network
+      - generic [ref=f13e106]:
+        - generic [ref=f13e107]: 100k+
+        - paragraph [ref=f13e112]: Expert Speakers
+        - paragraph [ref=f13e113]: World‑renowned faculty
+  - region [ref=f13e114]:
+    - generic [ref=f13e115]:
+      - heading "Upcoming International Conferences 2026" [level=2] [ref=f13e116]
+      - generic [ref=f13e117]:
+        - article [ref=f13e118]:
+          - generic [ref=f13e119]:
+            - img "2nd International Multidisciplinary Conference on Science, Education and Management (IMCSEM-2026) in Bali, Indonesia in October 2026" [ref=f13e121]
+            - heading "2nd International Multidisciplinary Conference on Science, Education and Management (IMCSEM-2026)" [level=3] [ref=f13e122]
+            - generic [ref=f13e123]:
+              - generic [ref=f13e124]:
+                - generic [ref=f13e125]: 
+                - text: 09 Oct, 2026
+              - generic [ref=f13e126]:
+                - generic [ref=f13e127]: 
+                - text: Bali
+            - link "Details" [ref=f13e130] [cursor=pointer]:
+              - /url: https://www.allconferencealert.com/event/3013307
+        - article [ref=f13e131]:
+          - generic [ref=f13e132]:
+            - img "Asia Pacific Conference on Educational Research, Social Science and Technology(APCERSST- 2026) in Kuala Lumpur, Malaysia in November 2026" [ref=f13e134]
+            - heading "Asia Pacific Conference on Educational Research, Social Science and Technology(APCERSST- 2026)" [level=3] [ref=f13e135]
+            - generic [ref=f13e136]:
+              - generic [ref=f13e137]:
+                - generic [ref=f13e138]: 
+                - text: 13 Nov, 2026
+              - generic [ref=f13e139]:
+                - generic [ref=f13e140]: 
+                - text: Kuala Lumpur
+            - link "Details" [ref=f13e143] [cursor=pointer]:
+              - /url: https://www.allconferencealert.com/event/2982018
+        - article [ref=f13e144]:
+          - generic [ref=f13e145]:
+            - img "International Conference on Machine Learning and Chat GPT (ICMLCG) in Bangkok, Thailand in August 2026" [ref=f13e147]
+            - heading "International Conference on Machine Learning and Chat GPT (ICMLCG)" [level=3] [ref=f13e148]
+            - generic [ref=f13e149]:
+              - generic [ref=f13e150]:
+                - generic [ref=f13e151]: 
+                - text: 11 Aug, 2026
+              - generic [ref=f13e152]:
+                - generic [ref=f13e153]: 
+                - text: Bangkok
+            - link "Details" [ref=f13e156] [cursor=pointer]:
+              - /url: https://www.allconferencealert.com/event/2879476
+        - article [ref=f13e157]:
+          - generic [ref=f13e158]:
+            - img "International Conference on Linguistics and English Literature Linguistics (ICLELL) in Hanoi, Vietnam in November 2026" [ref=f13e160]
+            - heading "International Conference on Linguistics and English Literature Linguistics (ICLELL)" [level=3] [ref=f13e161]
+            - generic [ref=f13e162]:
+              - generic [ref=f13e163]:
+                - generic [ref=f13e164]: 
+                - text: 25 Nov, 2026
+              - generic [ref=f13e165]:
+                - generic [ref=f13e166]: 
+                - text: Hanoi
+            - link "Details" [ref=f13e169] [cursor=pointer]:
+              - /url: https://www.allconferencealert.com/event/2262422
+        - article [ref=f13e170]:
+          - generic [ref=f13e171]:
+            - img "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS) in Belgrade, Serbia in September 2026" [ref=f13e173]
+            - heading "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)" [level=3] [ref=f13e174]
+            - generic [ref=f13e175]:
+              - generic [ref=f13e176]:
+                - generic [ref=f13e177]: 
+                - text: 10 Sep, 2026
+              - generic [ref=f13e178]:
+                - generic [ref=f13e179]: 
+                - text: Belgrade
+            - link "Details" [ref=f13e182] [cursor=pointer]:
+              - /url: https://www.allconferencealert.com/event/2071232
+        - article [ref=f13e183]:
+          - generic [ref=f13e184]:
+            - img "World Congress on Emerging Trends in Artificial Intelligence (WCETAI) in New York, USA in September 2026" [ref=f13e186]
+            - heading "World Congress on Emerging Trends in Artificial Intelligence (WCETAI)" [level=3] [ref=f13e187]
+            - generic [ref=f13e188]:
+              - generic [ref=f13e189]:
+                - generic [ref=f13e190]: 
+                - text: 16 Sep, 2026
+              - generic [ref=f13e191]:
+                - generic [ref=f13e192]: 
+                - text: New York
+            - link "Details" [ref=f13e195] [cursor=pointer]:
+              - /url: https://www.allconferencealert.com/event/2100890
+        - article [ref=f13e196]:
+          - generic [ref=f13e197]:
+            - img "International Conference on Recent Advances in Engineering and Technology (ICRAET) in Madrid, Spain in August 2026" [ref=f13e199]
+            - heading "International Conference on Recent Advances in Engineering and Technology (ICRAET)" [level=3] [ref=f13e200]
+            - generic [ref=f13e201]:
+              - generic [ref=f13e202]:
+                - generic [ref=f13e203]: 
+                - text: 22 Aug, 2026
+              - generic [ref=f13e204]:
+                - generic [ref=f13e205]: 
+                - text: Madrid
+            - link "Details" [ref=f13e208] [cursor=pointer]:
+              - /url: https://www.allconferencealert.com/event/1850508
+      - link "View All Conferences " [ref=f13e210] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/top-conferences-list
+        - text: View All Conferences
+        - generic [ref=f13e211]: 
+  - generic [ref=f13e213]:
+    - heading "Conference Cities" [level=3] [ref=f13e214]
+    - generic [ref=f13e215]:
+      - link "Abu Dhabi" [ref=f13e216] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/abu-dhabi
+      - link "Bali" [ref=f13e217] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/bali
+      - link "Bangalore" [ref=f13e218] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/bangalore
+      - link "Bangkok" [ref=f13e219] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/bangkok
+      - link "Beijing" [ref=f13e220] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/beijing
+      - link "Berlin" [ref=f13e221] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/berlin
+      - link "Boston" [ref=f13e222] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/boston
+      - link "Chennai" [ref=f13e223] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/chennai
+      - link "Delhi" [ref=f13e224] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/delhi
+      - link "Dubai" [ref=f13e225] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/dubai
+      - link "Dublin" [ref=f13e226] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/dublin
+      - link "Istanbul" [ref=f13e227] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/istanbul
+      - link "Jakarta" [ref=f13e228] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/jakarta
+      - link "Kolkata" [ref=f13e229] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/kolkata
+      - link "Kuala Lumpur" [ref=f13e230] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/kuala-lumpur
+      - link "London" [ref=f13e231] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/london
+      - link "Manila" [ref=f13e232] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/manila
+      - link "Melbourne" [ref=f13e233] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/melbourne
+      - link "Milan" [ref=f13e234] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/milan
+      - link "Mumbai" [ref=f13e235] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/mumbai
+      - link "New York" [ref=f13e236] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/new-york
+      - link "Paris" [ref=f13e237] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/paris
+      - link "Rome" [ref=f13e238] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/rome
+      - link "Shanghai" [ref=f13e239] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/shanghai
+      - link "Singapore" [ref=f13e240] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/singapore
+      - link "Sydney" [ref=f13e241] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/sydney
+      - link "Tokyo" [ref=f13e242] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/tokyo
+      - link "Toronto" [ref=f13e243] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/toronto
+    - link "More Places " [ref=f13e245] [cursor=pointer]:
+      - /url: https://www.allconferencealert.com/more_places
+      - text: More Places
+      - generic [ref=f13e246]: 
+  - generic [ref=f13e248]:
+    - generic [ref=f13e249]:
+      - text: Research Areas
+      - paragraph [ref=f13e250]: Discover events in the fields that matter to you.
+    - generic [ref=f13e251]:
+      - link " Business" [ref=f13e252] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/business
+        - generic [ref=f13e253]: 
+        - generic [ref=f13e254]: Business
+      - link " Health" [ref=f13e255] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/health
+        - generic [ref=f13e256]: 
+        - generic [ref=f13e257]: Health
+      - link " Mathematics" [ref=f13e258] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/mathematics
+        - generic [ref=f13e259]: 
+        - generic [ref=f13e260]: Mathematics
+      - link " Engineering" [ref=f13e261] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/engineering
+        - generic [ref=f13e262]: 
+        - generic [ref=f13e263]: Engineering
+      - link " Physical" [ref=f13e264] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/physical-and-life-sciences
+        - generic [ref=f13e265]: 
+        - generic [ref=f13e266]: Physical
+      - link " Social Sciences" [ref=f13e267] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/social-science
+        - generic [ref=f13e268]: 
+        - generic [ref=f13e269]: Social Sciences
+      - link " Education" [ref=f13e270] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/education
+        - generic [ref=f13e271]: 
+        - generic [ref=f13e272]: Education
+      - link " Law" [ref=f13e273] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/law
+        - generic [ref=f13e274]: 
+        - generic [ref=f13e275]: Law
+      - link " Environment" [ref=f13e276] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/environment
+        - generic [ref=f13e277]: 
+        - generic [ref=f13e278]: Environment
+      - link " Webinar" [ref=f13e279] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com/webinar
+        - generic [ref=f13e280]: 
+        - generic [ref=f13e281]: Webinar
+  - generic [ref=f13e284]:
+    - generic [ref=f13e285]:
+      - generic [ref=f13e286]:
+        - heading "Conference by Continents" [level=3] [ref=f13e287]
+        - generic [ref=f13e288]:
+          - link "Africa" [ref=f13e289] [cursor=pointer]:
+            - /url: "#countries-africa"
+          - link "Asia" [ref=f13e290] [cursor=pointer]:
+            - /url: "#countries-asia"
+          - link "Europe" [ref=f13e291] [cursor=pointer]:
+            - /url: "#countries-europe"
+          - link "North America" [ref=f13e292] [cursor=pointer]:
+            - /url: "#countries-north-america"
+          - link "Oceania" [ref=f13e293] [cursor=pointer]:
+            - /url: "#countries-oceania"
+          - link "South America" [ref=f13e294] [cursor=pointer]:
+            - /url: "#countries-south-america"
+      - generic [ref=f13e295]:
+        - generic [ref=f13e296]:
+          - heading " Africa" [level=4] [ref=f13e297]:
+            - generic [ref=f13e298]: 
+            - link "Africa" [ref=f13e299] [cursor=pointer]:
+              - /url: africa
+          - list [ref=f13e300]:
+            - listitem [ref=f13e301]:
+              - link " Algeria" [ref=f13e302] [cursor=pointer]:
+                - /url: algeria
+                - generic [ref=f13e303]: 
+                - text: Algeria
+            - listitem [ref=f13e304]:
+              - link " Comoros" [ref=f13e305] [cursor=pointer]:
+                - /url: comoros
+                - generic [ref=f13e306]: 
+                - text: Comoros
+            - listitem [ref=f13e307]:
+              - link " Egypt" [ref=f13e308] [cursor=pointer]:
+                - /url: egypt
+                - generic [ref=f13e309]: 
+                - text: Egypt
+            - listitem [ref=f13e310]:
+              - link " Equatorial Guinea" [ref=f13e311] [cursor=pointer]:
+                - /url: equatorial-guinea
+                - generic [ref=f13e312]: 
+                - text: Equatorial Guinea
+            - listitem [ref=f13e313]:
+              - link " Ethiopia" [ref=f13e314] [cursor=pointer]:
+                - /url: ethiopia
+                - generic [ref=f13e315]: 
+                - text: Ethiopia
+            - listitem [ref=f13e316]:
+              - link " Gambia" [ref=f13e317] [cursor=pointer]:
+                - /url: gambia
+                - generic [ref=f13e318]: 
+                - text: Gambia
+            - listitem [ref=f13e319]:
+              - link " Ghana" [ref=f13e320] [cursor=pointer]:
+                - /url: ghana
+                - generic [ref=f13e321]: 
+                - text: Ghana
+            - listitem [ref=f13e322]:
+              - link " Guinea" [ref=f13e323] [cursor=pointer]:
+                - /url: guinea
+                - generic [ref=f13e324]: 
+                - text: Guinea
+            - listitem [ref=f13e325]:
+              - link " Kenya" [ref=f13e326] [cursor=pointer]:
+                - /url: kenya
+                - generic [ref=f13e327]: 
+                - text: Kenya
+            - listitem [ref=f13e328]:
+              - link " Lesotho" [ref=f13e329] [cursor=pointer]:
+                - /url: lesotho
+                - generic [ref=f13e330]: 
+                - text: Lesotho
+            - listitem [ref=f13e331]:
+              - link " Liberia" [ref=f13e332] [cursor=pointer]:
+                - /url: liberia
+                - generic [ref=f13e333]: 
+                - text: Liberia
+            - listitem [ref=f13e334]:
+              - link " Malawi" [ref=f13e335] [cursor=pointer]:
+                - /url: malawi
+                - generic [ref=f13e336]: 
+                - text: Malawi
+            - listitem [ref=f13e337]:
+              - link " Mali" [ref=f13e338] [cursor=pointer]:
+                - /url: mali
+                - generic [ref=f13e339]: 
+                - text: Mali
+            - listitem [ref=f13e340]:
+              - link " Mauritius" [ref=f13e341] [cursor=pointer]:
+                - /url: mauritius
+                - generic [ref=f13e342]: 
+                - text: Mauritius
+            - listitem [ref=f13e343]:
+              - link " Morocco" [ref=f13e344] [cursor=pointer]:
+                - /url: morocco
+                - generic [ref=f13e345]: 
+                - text: Morocco
+            - listitem [ref=f13e346]:
+              - link " Mozambique" [ref=f13e347] [cursor=pointer]:
+                - /url: mozambique
+                - generic [ref=f13e348]: 
+                - text: Mozambique
+            - listitem [ref=f13e349]:
+              - link " Namibia" [ref=f13e350] [cursor=pointer]:
+                - /url: namibia
+                - generic [ref=f13e351]: 
+                - text: Namibia
+            - listitem [ref=f13e352]:
+              - link " Niger" [ref=f13e353] [cursor=pointer]:
+                - /url: niger
+                - generic [ref=f13e354]: 
+                - text: Niger
+            - listitem [ref=f13e355]:
+              - link " Nigeria" [ref=f13e356] [cursor=pointer]:
+                - /url: nigeria
+                - generic [ref=f13e357]: 
+                - text: Nigeria
+            - listitem [ref=f13e358]:
+              - link " Rwanda" [ref=f13e359] [cursor=pointer]:
+                - /url: rwanda
+                - generic [ref=f13e360]: 
+                - text: Rwanda
+            - listitem [ref=f13e361]:
+              - link " Seychelles" [ref=f13e362] [cursor=pointer]:
+                - /url: seychelles
+                - generic [ref=f13e363]: 
+                - text: Seychelles
+            - listitem [ref=f13e364]:
+              - link " Sierra Leone" [ref=f13e365] [cursor=pointer]:
+                - /url: sierra-leone
+                - generic [ref=f13e366]: 
+                - text: Sierra Leone
+            - listitem [ref=f13e367]:
+              - link " Somalia" [ref=f13e368] [cursor=pointer]:
+                - /url: somalia
+                - generic [ref=f13e369]: 
+                - text: Somalia
+            - listitem [ref=f13e370]:
+              - link " South Africa" [ref=f13e371] [cursor=pointer]:
+                - /url: south-africa
+                - generic [ref=f13e372]: 
+                - text: South Africa
+            - listitem [ref=f13e373]:
+              - link " Sudan" [ref=f13e374] [cursor=pointer]:
+                - /url: sudan
+                - generic [ref=f13e375]: 
+                - text: Sudan
+            - listitem [ref=f13e376]:
+              - link " Tanzania" [ref=f13e377] [cursor=pointer]:
+                - /url: tanzania
+                - generic [ref=f13e378]: 
+                - text: Tanzania
+            - listitem [ref=f13e379]:
+              - link " Tunisia" [ref=f13e380] [cursor=pointer]:
+                - /url: tunisia
+                - generic [ref=f13e381]: 
+                - text: Tunisia
+            - listitem [ref=f13e382]:
+              - link " Uganda" [ref=f13e383] [cursor=pointer]:
+                - /url: uganda
+                - generic [ref=f13e384]: 
+                - text: Uganda
+            - listitem [ref=f13e385]:
+              - link " Zambia" [ref=f13e386] [cursor=pointer]:
+                - /url: zambia
+                - generic [ref=f13e387]: 
+                - text: Zambia
+            - listitem [ref=f13e388]:
+              - link " Zimbabwe" [ref=f13e389] [cursor=pointer]:
+                - /url: zimbabwe
+                - generic [ref=f13e390]: 
+                - text: Zimbabwe
+        - generic [ref=f13e391]:
+          - heading " Asia" [level=4] [ref=f13e392]:
+            - generic [ref=f13e393]: 
+            - link "Asia" [ref=f13e394] [cursor=pointer]:
+              - /url: asia
+          - list [ref=f13e395]:
+            - listitem [ref=f13e396]:
+              - link " Afghanistan" [ref=f13e397] [cursor=pointer]:
+                - /url: afghanistan
+                - generic [ref=f13e398]: 
+                - text: Afghanistan
+            - listitem [ref=f13e399]:
+              - link " Azerbaijan" [ref=f13e400] [cursor=pointer]:
+                - /url: azerbaijan
+                - generic [ref=f13e401]: 
+                - text: Azerbaijan
+            - listitem [ref=f13e402]:
+              - link " Bahrain" [ref=f13e403] [cursor=pointer]:
+                - /url: bahrain
+                - generic [ref=f13e404]: 
+                - text: Bahrain
+            - listitem [ref=f13e405]:
+              - link " Bangladesh" [ref=f13e406] [cursor=pointer]:
+                - /url: bangladesh
+                - generic [ref=f13e407]: 
+                - text: Bangladesh
+            - listitem [ref=f13e408]:
+              - link " Bhutan" [ref=f13e409] [cursor=pointer]:
+                - /url: bhutan
+                - generic [ref=f13e410]: 
+                - text: Bhutan
+            - listitem [ref=f13e411]:
+              - link " Brunei Darussalam" [ref=f13e412] [cursor=pointer]:
+                - /url: brunei-darussalam
+                - generic [ref=f13e413]: 
+                - text: Brunei Darussalam
+            - listitem [ref=f13e414]:
+              - link " Cambodia" [ref=f13e415] [cursor=pointer]:
+                - /url: cambodia
+                - generic [ref=f13e416]: 
+                - text: Cambodia
+            - listitem [ref=f13e417]:
+              - link " China" [ref=f13e418] [cursor=pointer]:
+                - /url: china
+                - generic [ref=f13e419]: 
+                - text: China
+            - listitem [ref=f13e420]:
+              - link " Hong Kong" [ref=f13e421] [cursor=pointer]:
+                - /url: hong-kong
+                - generic [ref=f13e422]: 
+                - text: Hong Kong
+            - listitem [ref=f13e423]:
+              - link " India" [ref=f13e424] [cursor=pointer]:
+                - /url: india
+                - generic [ref=f13e425]: 
+                - text: India
+            - listitem [ref=f13e426]:
+              - link " Indonesia" [ref=f13e427] [cursor=pointer]:
+                - /url: indonesia
+                - generic [ref=f13e428]: 
+                - text: Indonesia
+            - listitem [ref=f13e429]:
+              - link " Iran" [ref=f13e430] [cursor=pointer]:
+                - /url: iran
+                - generic [ref=f13e431]: 
+                - text: Iran
+            - listitem [ref=f13e432]:
+              - link " Iraq" [ref=f13e433] [cursor=pointer]:
+                - /url: iraq
+                - generic [ref=f13e434]: 
+                - text: Iraq
+            - listitem [ref=f13e435]:
+              - link " Israel" [ref=f13e436] [cursor=pointer]:
+                - /url: israel
+                - generic [ref=f13e437]: 
+                - text: Israel
+            - listitem [ref=f13e438]:
+              - link " Japan" [ref=f13e439] [cursor=pointer]:
+                - /url: japan
+                - generic [ref=f13e440]: 
+                - text: Japan
+            - listitem [ref=f13e441]:
+              - link " Jordan" [ref=f13e442] [cursor=pointer]:
+                - /url: jordan
+                - generic [ref=f13e443]: 
+                - text: Jordan
+            - listitem [ref=f13e444]:
+              - link " Kazakhstan" [ref=f13e445] [cursor=pointer]:
+                - /url: kazakhstan
+                - generic [ref=f13e446]: 
+                - text: Kazakhstan
+            - listitem [ref=f13e447]:
+              - link " Kuwait" [ref=f13e448] [cursor=pointer]:
+                - /url: kuwait
+                - generic [ref=f13e449]: 
+                - text: Kuwait
+            - listitem [ref=f13e450]:
+              - link " Kyrgyzstan" [ref=f13e451] [cursor=pointer]:
+                - /url: kyrgyzstan
+                - generic [ref=f13e452]: 
+                - text: Kyrgyzstan
+            - listitem [ref=f13e453]:
+              - link " Lebanon" [ref=f13e454] [cursor=pointer]:
+                - /url: lebanon
+                - generic [ref=f13e455]: 
+                - text: Lebanon
+            - listitem [ref=f13e456]:
+              - link " Macau" [ref=f13e457] [cursor=pointer]:
+                - /url: macau
+                - generic [ref=f13e458]: 
+                - text: Macau
+            - listitem [ref=f13e459]:
+              - link " Malaysia" [ref=f13e460] [cursor=pointer]:
+                - /url: malaysia
+                - generic [ref=f13e461]: 
+                - text: Malaysia
+            - listitem [ref=f13e462]:
+              - link " Maldives" [ref=f13e463] [cursor=pointer]:
+                - /url: maldives
+                - generic [ref=f13e464]: 
+                - text: Maldives
+            - listitem [ref=f13e465]:
+              - link " Mongolia" [ref=f13e466] [cursor=pointer]:
+                - /url: mongolia
+                - generic [ref=f13e467]: 
+                - text: Mongolia
+            - listitem [ref=f13e468]:
+              - link " Myanmar" [ref=f13e469] [cursor=pointer]:
+                - /url: myanmar
+                - generic [ref=f13e470]: 
+                - text: Myanmar
+            - listitem [ref=f13e471]:
+              - link " Nepal" [ref=f13e472] [cursor=pointer]:
+                - /url: nepal
+                - generic [ref=f13e473]: 
+                - text: Nepal
+            - listitem [ref=f13e474]:
+              - link " North Korea" [ref=f13e475] [cursor=pointer]:
+                - /url: north-korea
+                - generic [ref=f13e476]: 
+                - text: North Korea
+            - listitem [ref=f13e477]:
+              - link " Oman" [ref=f13e478] [cursor=pointer]:
+                - /url: oman
+                - generic [ref=f13e479]: 
+                - text: Oman
+            - listitem [ref=f13e480]:
+              - link " Pakistan" [ref=f13e481] [cursor=pointer]:
+                - /url: pakistan
+                - generic [ref=f13e482]: 
+                - text: Pakistan
+            - listitem [ref=f13e483]:
+              - link " Philippines" [ref=f13e484] [cursor=pointer]:
+                - /url: philippines
+                - generic [ref=f13e485]: 
+                - text: Philippines
+            - listitem [ref=f13e486]:
+              - link " Qatar" [ref=f13e487] [cursor=pointer]:
+                - /url: qatar
+                - generic [ref=f13e488]: 
+                - text: Qatar
+            - listitem [ref=f13e489]:
+              - link " Russia" [ref=f13e490] [cursor=pointer]:
+                - /url: russia
+                - generic [ref=f13e491]: 
+                - text: Russia
+            - listitem [ref=f13e492]:
+              - link " Saudi Arabia" [ref=f13e493] [cursor=pointer]:
+                - /url: saudi-arabia
+                - generic [ref=f13e494]: 
+                - text: Saudi Arabia
+            - listitem [ref=f13e495]:
+              - link " Singapore" [ref=f13e496] [cursor=pointer]:
+                - /url: singapore
+                - generic [ref=f13e497]: 
+                - text: Singapore
+            - listitem [ref=f13e498]:
+              - link " South Korea" [ref=f13e499] [cursor=pointer]:
+                - /url: south-korea
+                - generic [ref=f13e500]: 
+                - text: South Korea
+            - listitem [ref=f13e501]:
+              - link " Sri Lanka" [ref=f13e502] [cursor=pointer]:
+                - /url: sri-lanka
+                - generic [ref=f13e503]: 
+                - text: Sri Lanka
+            - listitem [ref=f13e504]:
+              - link " Syria" [ref=f13e505] [cursor=pointer]:
+                - /url: syria
+                - generic [ref=f13e506]: 
+                - text: Syria
+            - listitem [ref=f13e507]:
+              - link " Taiwan" [ref=f13e508] [cursor=pointer]:
+                - /url: taiwan
+                - generic [ref=f13e509]: 
+                - text: Taiwan
+            - listitem [ref=f13e510]:
+              - link " Tajikistan" [ref=f13e511] [cursor=pointer]:
+                - /url: tajikistan
+                - generic [ref=f13e512]: 
+                - text: Tajikistan
+            - listitem [ref=f13e513]:
+              - link " Thailand" [ref=f13e514] [cursor=pointer]:
+                - /url: thailand
+                - generic [ref=f13e515]: 
+                - text: Thailand
+            - listitem [ref=f13e516]:
+              - link " Turkey" [ref=f13e517] [cursor=pointer]:
+                - /url: turkey
+                - generic [ref=f13e518]: 
+                - text: Turkey
+            - listitem [ref=f13e519]:
+              - link " Turkmenistan" [ref=f13e520] [cursor=pointer]:
+                - /url: turkmenistan
+                - generic [ref=f13e521]: 
+                - text: Turkmenistan
+            - listitem [ref=f13e522]:
+              - link " UAE" [ref=f13e523] [cursor=pointer]:
+                - /url: uae
+                - generic [ref=f13e524]: 
+                - text: UAE
+            - listitem [ref=f13e525]:
+              - link " Uzbekistan" [ref=f13e526] [cursor=pointer]:
+                - /url: uzbekistan
+                - generic [ref=f13e527]: 
+                - text: Uzbekistan
+            - listitem [ref=f13e528]:
+              - link " Vietnam" [ref=f13e529] [cursor=pointer]:
+                - /url: vietnam
+                - generic [ref=f13e530]: 
+                - text: Vietnam
+        - generic [ref=f13e531]:
+          - heading " Europe" [level=4] [ref=f13e532]:
+            - generic [ref=f13e533]: 
+            - link "Europe" [ref=f13e534] [cursor=pointer]:
+              - /url: europe
+          - list [ref=f13e535]:
+            - listitem [ref=f13e536]:
+              - link " Albania" [ref=f13e537] [cursor=pointer]:
+                - /url: albania
+                - generic [ref=f13e538]: 
+                - text: Albania
+            - listitem [ref=f13e539]:
+              - link " Andorra" [ref=f13e540] [cursor=pointer]:
+                - /url: andorra
+                - generic [ref=f13e541]: 
+                - text: Andorra
+            - listitem [ref=f13e542]:
+              - link " Armenia" [ref=f13e543] [cursor=pointer]:
+                - /url: armenia
+                - generic [ref=f13e544]: 
+                - text: Armenia
+            - listitem [ref=f13e545]:
+              - link " Austria" [ref=f13e546] [cursor=pointer]:
+                - /url: austria
+                - generic [ref=f13e547]: 
+                - text: Austria
+            - listitem [ref=f13e548]:
+              - link " Belarus" [ref=f13e549] [cursor=pointer]:
+                - /url: belarus
+                - generic [ref=f13e550]: 
+                - text: Belarus
+            - listitem [ref=f13e551]:
+              - link " Belgium" [ref=f13e552] [cursor=pointer]:
+                - /url: belgium
+                - generic [ref=f13e553]: 
+                - text: Belgium
+            - listitem [ref=f13e554]:
+              - link " Bulgaria" [ref=f13e555] [cursor=pointer]:
+                - /url: bulgaria
+                - generic [ref=f13e556]: 
+                - text: Bulgaria
+            - listitem [ref=f13e557]:
+              - link " Croatia" [ref=f13e558] [cursor=pointer]:
+                - /url: croatia
+                - generic [ref=f13e559]: 
+                - text: Croatia
+            - listitem [ref=f13e560]:
+              - link " Cyprus" [ref=f13e561] [cursor=pointer]:
+                - /url: cyprus
+                - generic [ref=f13e562]: 
+                - text: Cyprus
+            - listitem [ref=f13e563]:
+              - link " Czech Republic" [ref=f13e564] [cursor=pointer]:
+                - /url: czech-republic
+                - generic [ref=f13e565]: 
+                - text: Czech Republic
+            - listitem [ref=f13e566]:
+              - link " Denmark" [ref=f13e567] [cursor=pointer]:
+                - /url: denmark
+                - generic [ref=f13e568]: 
+                - text: Denmark
+            - listitem [ref=f13e569]:
+              - link " Estonia" [ref=f13e570] [cursor=pointer]:
+                - /url: estonia
+                - generic [ref=f13e571]: 
+                - text: Estonia
+            - listitem [ref=f13e572]:
+              - link " Finland" [ref=f13e573] [cursor=pointer]:
+                - /url: finland
+                - generic [ref=f13e574]: 
+                - text: Finland
+            - listitem [ref=f13e575]:
+              - link " France" [ref=f13e576] [cursor=pointer]:
+                - /url: france
+                - generic [ref=f13e577]: 
+                - text: France
+            - listitem [ref=f13e578]:
+              - link " Georgia" [ref=f13e579] [cursor=pointer]:
+                - /url: georgia
+                - generic [ref=f13e580]: 
+                - text: Georgia
+            - listitem [ref=f13e581]:
+              - link " Germany" [ref=f13e582] [cursor=pointer]:
+                - /url: germany
+                - generic [ref=f13e583]: 
+                - text: Germany
+            - listitem [ref=f13e584]:
+              - link " Greece" [ref=f13e585] [cursor=pointer]:
+                - /url: greece
+                - generic [ref=f13e586]: 
+                - text: Greece
+            - listitem [ref=f13e587]:
+              - link " Hungary" [ref=f13e588] [cursor=pointer]:
+                - /url: hungary
+                - generic [ref=f13e589]: 
+                - text: Hungary
+            - listitem [ref=f13e590]:
+              - link " Iceland" [ref=f13e591] [cursor=pointer]:
+                - /url: iceland
+                - generic [ref=f13e592]: 
+                - text: Iceland
+            - listitem [ref=f13e593]:
+              - link " Ireland" [ref=f13e594] [cursor=pointer]:
+                - /url: ireland
+                - generic [ref=f13e595]: 
+                - text: Ireland
+            - listitem [ref=f13e596]:
+              - link " Italy" [ref=f13e597] [cursor=pointer]:
+                - /url: italy
+                - generic [ref=f13e598]: 
+                - text: Italy
+            - listitem [ref=f13e599]:
+              - link " Latvia" [ref=f13e600] [cursor=pointer]:
+                - /url: latvia
+                - generic [ref=f13e601]: 
+                - text: Latvia
+            - listitem [ref=f13e602]:
+              - link " Liechtenstein" [ref=f13e603] [cursor=pointer]:
+                - /url: liechtenstein
+                - generic [ref=f13e604]: 
+                - text: Liechtenstein
+            - listitem [ref=f13e605]:
+              - link " Lithuania" [ref=f13e606] [cursor=pointer]:
+                - /url: lithuania
+                - generic [ref=f13e607]: 
+                - text: Lithuania
+            - listitem [ref=f13e608]:
+              - link " Luxembourg" [ref=f13e609] [cursor=pointer]:
+                - /url: luxembourg
+                - generic [ref=f13e610]: 
+                - text: Luxembourg
+            - listitem [ref=f13e611]:
+              - link " Macedonia" [ref=f13e612] [cursor=pointer]:
+                - /url: macedonia
+                - generic [ref=f13e613]: 
+                - text: Macedonia
+            - listitem [ref=f13e614]:
+              - link " Malta" [ref=f13e615] [cursor=pointer]:
+                - /url: malta
+                - generic [ref=f13e616]: 
+                - text: Malta
+            - listitem [ref=f13e617]:
+              - link " Moldova" [ref=f13e618] [cursor=pointer]:
+                - /url: moldova
+                - generic [ref=f13e619]: 
+                - text: Moldova
+            - listitem [ref=f13e620]:
+              - link " Monaco" [ref=f13e621] [cursor=pointer]:
+                - /url: monaco
+                - generic [ref=f13e622]: 
+                - text: Monaco
+            - listitem [ref=f13e623]:
+              - link " Netherlands" [ref=f13e624] [cursor=pointer]:
+                - /url: netherlands
+                - generic [ref=f13e625]: 
+                - text: Netherlands
+            - listitem [ref=f13e626]:
+              - link " Norway" [ref=f13e627] [cursor=pointer]:
+                - /url: norway
+                - generic [ref=f13e628]: 
+                - text: Norway
+            - listitem [ref=f13e629]:
+              - link " Poland" [ref=f13e630] [cursor=pointer]:
+                - /url: poland
+                - generic [ref=f13e631]: 
+                - text: Poland
+            - listitem [ref=f13e632]:
+              - link " Portugal" [ref=f13e633] [cursor=pointer]:
+                - /url: portugal
+                - generic [ref=f13e634]: 
+                - text: Portugal
+            - listitem [ref=f13e635]:
+              - link " Romania" [ref=f13e636] [cursor=pointer]:
+                - /url: romania
+                - generic [ref=f13e637]: 
+                - text: Romania
+            - listitem [ref=f13e638]:
+              - link " San Marino" [ref=f13e639] [cursor=pointer]:
+                - /url: san-marino
+                - generic [ref=f13e640]: 
+                - text: San Marino
+            - listitem [ref=f13e641]:
+              - link " Scotland" [ref=f13e642] [cursor=pointer]:
+                - /url: scotland
+                - generic [ref=f13e643]: 
+                - text: Scotland
+            - listitem [ref=f13e644]:
+              - link " Serbia" [ref=f13e645] [cursor=pointer]:
+                - /url: serbia
+                - generic [ref=f13e646]: 
+                - text: Serbia
+            - listitem [ref=f13e647]:
+              - link " Slovakia" [ref=f13e648] [cursor=pointer]:
+                - /url: slovakia
+                - generic [ref=f13e649]: 
+                - text: Slovakia
+            - listitem [ref=f13e650]:
+              - link " Slovenia" [ref=f13e651] [cursor=pointer]:
+                - /url: slovenia
+                - generic [ref=f13e652]: 
+                - text: Slovenia
+            - listitem [ref=f13e653]:
+              - link " Spain" [ref=f13e654] [cursor=pointer]:
+                - /url: spain
+                - generic [ref=f13e655]: 
+                - text: Spain
+            - listitem [ref=f13e656]:
+              - link " Sweden" [ref=f13e657] [cursor=pointer]:
+                - /url: sweden
+                - generic [ref=f13e658]: 
+                - text: Sweden
+            - listitem [ref=f13e659]:
+              - link " Switzerland" [ref=f13e660] [cursor=pointer]:
+                - /url: switzerland
+                - generic [ref=f13e661]: 
+                - text: Switzerland
+            - listitem [ref=f13e662]:
+              - link " UK" [ref=f13e663] [cursor=pointer]:
+                - /url: uk
+                - generic [ref=f13e664]: 
+                - text: UK
+            - listitem [ref=f13e665]:
+              - link " Ukraine" [ref=f13e666] [cursor=pointer]:
+                - /url: ukraine
+                - generic [ref=f13e667]: 
+                - text: Ukraine
+            - listitem [ref=f13e668]:
+              - link " Vatican City" [ref=f13e669] [cursor=pointer]:
+                - /url: vatican-city
+                - generic [ref=f13e670]: 
+                - text: Vatican City
+        - generic [ref=f13e671]:
+          - heading " North America" [level=4] [ref=f13e672]:
+            - generic [ref=f13e673]: 
+            - link "North America" [ref=f13e674] [cursor=pointer]:
+              - /url: north-america
+          - list [ref=f13e675]:
+            - listitem [ref=f13e676]:
+              - link " Bahamas" [ref=f13e677] [cursor=pointer]:
+                - /url: bahamas
+                - generic [ref=f13e678]: 
+                - text: Bahamas
+            - listitem [ref=f13e679]:
+              - link " Barbados" [ref=f13e680] [cursor=pointer]:
+                - /url: barbados
+                - generic [ref=f13e681]: 
+                - text: Barbados
+            - listitem [ref=f13e682]:
+              - link " Canada" [ref=f13e683] [cursor=pointer]:
+                - /url: canada
+                - generic [ref=f13e684]: 
+                - text: Canada
+            - listitem [ref=f13e685]:
+              - link " Costa Rica" [ref=f13e686] [cursor=pointer]:
+                - /url: costa-rica
+                - generic [ref=f13e687]: 
+                - text: Costa Rica
+            - listitem [ref=f13e688]:
+              - link " Cuba" [ref=f13e689] [cursor=pointer]:
+                - /url: cuba
+                - generic [ref=f13e690]: 
+                - text: Cuba
+            - listitem [ref=f13e691]:
+              - link " Dominica" [ref=f13e692] [cursor=pointer]:
+                - /url: dominica
+                - generic [ref=f13e693]: 
+                - text: Dominica
+            - listitem [ref=f13e694]:
+              - link " Dominican Republic" [ref=f13e695] [cursor=pointer]:
+                - /url: dominican-republic
+                - generic [ref=f13e696]: 
+                - text: Dominican Republic
+            - listitem [ref=f13e697]:
+              - link " El Salvador" [ref=f13e698] [cursor=pointer]:
+                - /url: el-salvador
+                - generic [ref=f13e699]: 
+                - text: El Salvador
+            - listitem [ref=f13e700]:
+              - link " Greenland" [ref=f13e701] [cursor=pointer]:
+                - /url: greenland
+                - generic [ref=f13e702]: 
+                - text: Greenland
+            - listitem [ref=f13e703]:
+              - link " Grenada" [ref=f13e704] [cursor=pointer]:
+                - /url: grenada
+                - generic [ref=f13e705]: 
+                - text: Grenada
+            - listitem [ref=f13e706]:
+              - link " Haiti" [ref=f13e707] [cursor=pointer]:
+                - /url: haiti
+                - generic [ref=f13e708]: 
+                - text: Haiti
+            - listitem [ref=f13e709]:
+              - link " Honduras" [ref=f13e710] [cursor=pointer]:
+                - /url: honduras
+                - generic [ref=f13e711]: 
+                - text: Honduras
+            - listitem [ref=f13e712]:
+              - link " Jamaica" [ref=f13e713] [cursor=pointer]:
+                - /url: jamaica
+                - generic [ref=f13e714]: 
+                - text: Jamaica
+            - listitem [ref=f13e715]:
+              - link " Mexico" [ref=f13e716] [cursor=pointer]:
+                - /url: mexico
+                - generic [ref=f13e717]: 
+                - text: Mexico
+            - listitem [ref=f13e718]:
+              - link " Panama" [ref=f13e719] [cursor=pointer]:
+                - /url: panama
+                - generic [ref=f13e720]: 
+                - text: Panama
+            - listitem [ref=f13e721]:
+              - link " Puerto Rico" [ref=f13e722] [cursor=pointer]:
+                - /url: puerto-rico
+                - generic [ref=f13e723]: 
+                - text: Puerto Rico
+            - listitem [ref=f13e724]:
+              - link " Saint Lucia" [ref=f13e725] [cursor=pointer]:
+                - /url: saint-lucia
+                - generic [ref=f13e726]: 
+                - text: Saint Lucia
+            - listitem [ref=f13e727]:
+              - link " USA" [ref=f13e728] [cursor=pointer]:
+                - /url: usa
+                - generic [ref=f13e729]: 
+                - text: USA
+        - generic [ref=f13e730]:
+          - heading " Oceania" [level=4] [ref=f13e731]:
+            - generic [ref=f13e732]: 
+            - link "Oceania" [ref=f13e733] [cursor=pointer]:
+              - /url: oceania
+          - list [ref=f13e734]:
+            - listitem [ref=f13e735]:
+              - link " Australia" [ref=f13e736] [cursor=pointer]:
+                - /url: australia
+                - generic [ref=f13e737]: 
+                - text: Australia
+            - listitem [ref=f13e738]:
+              - link " Fiji" [ref=f13e739] [cursor=pointer]:
+                - /url: fiji
+                - generic [ref=f13e740]: 
+                - text: Fiji
+            - listitem [ref=f13e741]:
+              - link " Kiribati" [ref=f13e742] [cursor=pointer]:
+                - /url: kiribati
+                - generic [ref=f13e743]: 
+                - text: Kiribati
+            - listitem [ref=f13e744]:
+              - link " Nauru" [ref=f13e745] [cursor=pointer]:
+                - /url: nauru
+                - generic [ref=f13e746]: 
+                - text: Nauru
+            - listitem [ref=f13e747]:
+              - link " New Zealand" [ref=f13e748] [cursor=pointer]:
+                - /url: new-zealand
+                - generic [ref=f13e749]: 
+                - text: New Zealand
+            - listitem [ref=f13e750]:
+              - link " Palau" [ref=f13e751] [cursor=pointer]:
+                - /url: palau
+                - generic [ref=f13e752]: 
+                - text: Palau
+            - listitem [ref=f13e753]:
+              - link " Papua New Guinea" [ref=f13e754] [cursor=pointer]:
+                - /url: papua-new-guinea
+                - generic [ref=f13e755]: 
+                - text: Papua New Guinea
+        - generic [ref=f13e756]:
+          - heading " South America" [level=4] [ref=f13e757]:
+            - generic [ref=f13e758]: 
+            - link "South America" [ref=f13e759] [cursor=pointer]:
+              - /url: south-america
+          - list [ref=f13e760]:
+            - listitem [ref=f13e761]:
+              - link " Argentina" [ref=f13e762] [cursor=pointer]:
+                - /url: argentina
+                - generic [ref=f13e763]: 
+                - text: Argentina
+            - listitem [ref=f13e764]:
+              - link " Aruba" [ref=f13e765] [cursor=pointer]:
+                - /url: aruba
+                - generic [ref=f13e766]: 
+                - text: Aruba
+            - listitem [ref=f13e767]:
+              - link " Bolivia" [ref=f13e768] [cursor=pointer]:
+                - /url: bolivia
+                - generic [ref=f13e769]: 
+                - text: Bolivia
+            - listitem [ref=f13e770]:
+              - link " Brazil" [ref=f13e771] [cursor=pointer]:
+                - /url: brazil
+                - generic [ref=f13e772]: 
+                - text: Brazil
+            - listitem [ref=f13e773]:
+              - link " Chile" [ref=f13e774] [cursor=pointer]:
+                - /url: chile
+                - generic [ref=f13e775]: 
+                - text: Chile
+            - listitem [ref=f13e776]:
+              - link " Colombia" [ref=f13e777] [cursor=pointer]:
+                - /url: colombia
+                - generic [ref=f13e778]: 
+                - text: Colombia
+            - listitem [ref=f13e779]:
+              - link " Ecuador" [ref=f13e780] [cursor=pointer]:
+                - /url: ecuador
+                - generic [ref=f13e781]: 
+                - text: Ecuador
+            - listitem [ref=f13e782]:
+              - link " French Guiana" [ref=f13e783] [cursor=pointer]:
+                - /url: french-guiana
+                - generic [ref=f13e784]: 
+                - text: French Guiana
+            - listitem [ref=f13e785]:
+              - link " Guyana" [ref=f13e786] [cursor=pointer]:
+                - /url: guyana
+                - generic [ref=f13e787]: 
+                - text: Guyana
+            - listitem [ref=f13e788]:
+              - link " Paraguay" [ref=f13e789] [cursor=pointer]:
+                - /url: paraguay
+                - generic [ref=f13e790]: 
+                - text: Paraguay
+            - listitem [ref=f13e791]:
+              - link " Peru" [ref=f13e792] [cursor=pointer]:
+                - /url: peru
+                - generic [ref=f13e793]: 
+                - text: Peru
+            - listitem [ref=f13e794]:
+              - link " Suriname" [ref=f13e795] [cursor=pointer]:
+                - /url: suriname
+                - generic [ref=f13e796]: 
+                - text: Suriname
+            - listitem [ref=f13e797]:
+              - link " Uruguay" [ref=f13e798] [cursor=pointer]:
+                - /url: uruguay
+                - generic [ref=f13e799]: 
+                - text: Uruguay
+            - listitem [ref=f13e800]:
+              - link " Venezuela" [ref=f13e801] [cursor=pointer]:
+                - /url: venezuela
+                - generic [ref=f13e802]: 
+                - text: Venezuela
+    - generic [ref=f13e803]:
+      - generic [ref=f13e804]:
+        - heading "Conferences by Topic" [level=3] [ref=f13e805]
+        - generic [ref=f13e806]:
+          - link "Business and Economics" [ref=f13e807] [cursor=pointer]:
+            - /url: "#topic-business-and-economics"
+          - link "Engineering and Technology" [ref=f13e808] [cursor=pointer]:
+            - /url: "#topic-engineering-and-technology"
+          - link "Medical And Health Science" [ref=f13e809] [cursor=pointer]:
+            - /url: "#topic-medical-and-health-science"
+          - link "Education" [ref=f13e810] [cursor=pointer]:
+            - /url: "#topic-education"
+          - link "Social Sciences and Humanities" [ref=f13e811] [cursor=pointer]:
+            - /url: "#topic-social-sciences-and-humanities"
+          - link "Sports Science" [ref=f13e812] [cursor=pointer]:
+            - /url: "#topic-sports-science"
+          - link "Physical and life sciences" [ref=f13e813] [cursor=pointer]:
+            - /url: "#topic-physical-and-life-sciences"
+          - link "Agriculture" [ref=f13e814] [cursor=pointer]:
+            - /url: "#topic-agriculture"
+          - link "Mathematics and statistics" [ref=f13e815] [cursor=pointer]:
+            - /url: "#topic-mathematics-and-statistics"
+          - link "Law" [ref=f13e816] [cursor=pointer]:
+            - /url: "#topic-law"
+          - link "Interdisciplinary" [ref=f13e817] [cursor=pointer]:
+            - /url: "#topic-interdisciplinary"
+      - generic [ref=f13e818]:
+        - generic [ref=f13e819]:
+          - heading " Business and Economics" [level=4] [ref=f13e820]:
+            - generic [ref=f13e821]: 
+            - generic [ref=f13e822]: Business and Economics
+          - list [ref=f13e823]:
+            - listitem [ref=f13e824]:
+              - link "Accounting" [ref=f13e825] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/accounting
+            - listitem [ref=f13e827]:
+              - link "Banking" [ref=f13e828] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/banking
+            - listitem [ref=f13e830]:
+              - link "Business" [ref=f13e831] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/business
+            - listitem [ref=f13e833]:
+              - link "Digital Marketing" [ref=f13e834] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/digital-marketing
+            - listitem [ref=f13e836]:
+              - link "E-commerce" [ref=f13e837] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/e-commerce
+            - listitem [ref=f13e839]:
+              - link "Economics" [ref=f13e840] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/economics
+            - listitem [ref=f13e842]:
+              - link "Entrepreneurship" [ref=f13e843] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/entrepreneurship
+            - listitem [ref=f13e845]:
+              - link "Finance" [ref=f13e846] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/finance
+            - listitem [ref=f13e848]:
+              - link "Human Resource Management" [ref=f13e849] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/human-resource-management
+            - listitem [ref=f13e851]:
+              - link "Internet marketing" [ref=f13e852] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/internet-marketing
+            - listitem [ref=f13e854]:
+              - link "Leadership" [ref=f13e855] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/leadership
+            - listitem [ref=f13e857]:
+              - link "Logistics" [ref=f13e858] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/logistics
+            - listitem [ref=f13e860]:
+              - link "Management" [ref=f13e861] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/management
+            - listitem [ref=f13e863]:
+              - link "Marketing" [ref=f13e864] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/marketing
+            - listitem [ref=f13e866]:
+              - link "Micromanagement" [ref=f13e867] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/micromanagement
+            - listitem [ref=f13e869]:
+              - link "Strategic Management" [ref=f13e870] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/strategic-management
+            - listitem [ref=f13e872]:
+              - link "Supply Chain Management" [ref=f13e873] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/supply-chain-management
+        - generic [ref=f13e875]:
+          - heading " Engineering and Technology" [level=4] [ref=f13e876]:
+            - generic [ref=f13e877]: 
+            - generic [ref=f13e878]: Engineering and Technology
+          - list [ref=f13e879]:
+            - listitem [ref=f13e880]:
+              - link "AI" [ref=f13e881] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ai
+            - listitem [ref=f13e883]:
+              - link "Aeronautical" [ref=f13e884] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/aeronautical
+            - listitem [ref=f13e886]:
+              - link "Architecture" [ref=f13e887] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/architecture
+            - listitem [ref=f13e889]:
+              - link "Artificial Intelligence" [ref=f13e890] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/artificial-intelligence
+            - listitem [ref=f13e892]:
+              - link "Aviation Technology" [ref=f13e893] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/aviation-technology
+            - listitem [ref=f13e895]:
+              - link "Big Data" [ref=f13e896] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/big-data
+            - listitem [ref=f13e898]:
+              - link "Bioinformatics" [ref=f13e899] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/bioinformatics
+            - listitem [ref=f13e901]:
+              - link "Biomedical Engineering" [ref=f13e902] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biomedical-engineering
+            - listitem [ref=f13e904]:
+              - link "Bionuclear Engineering" [ref=f13e905] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/bionuclear-engineering
+            - listitem [ref=f13e907]:
+              - link "Biotechnology" [ref=f13e908] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biotechnology
+            - listitem [ref=f13e910]:
+              - link "Chemical Engineering" [ref=f13e911] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/chemical-engineering
+            - listitem [ref=f13e913]:
+              - link "Civil Engineering" [ref=f13e914] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/civil-engineering
+            - listitem [ref=f13e916]:
+              - link "Computer Science" [ref=f13e917] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/computer-science
+            - listitem [ref=f13e919]:
+              - link "Computing" [ref=f13e920] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/computing
+            - listitem [ref=f13e922]:
+              - link "Control Automation" [ref=f13e923] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/control-automation
+            - listitem [ref=f13e925]:
+              - link "Cybersecurity" [ref=f13e926] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cybersecurity
+            - listitem [ref=f13e928]:
+              - link "Design" [ref=f13e929] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/design
+            - listitem [ref=f13e931]:
+              - link "Electrical" [ref=f13e932] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/electrical
+            - listitem [ref=f13e934]:
+              - link "Electronics" [ref=f13e935] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/electronics
+            - listitem [ref=f13e937]:
+              - link "Energy" [ref=f13e938] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/energy
+            - listitem [ref=f13e940]:
+              - link "Engineering" [ref=f13e941] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/engineering
+            - listitem [ref=f13e943]:
+              - link "IOT" [ref=f13e944] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/iot
+            - listitem [ref=f13e946]:
+              - link "Image Processing" [ref=f13e947] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/image-processing
+            - listitem [ref=f13e949]:
+              - link "Industrial Engineering" [ref=f13e950] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/industrial-engineering
+            - listitem [ref=f13e952]:
+              - link "Information Technology" [ref=f13e953] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/information-technology
+            - listitem [ref=f13e955]:
+              - link "Manufacturing" [ref=f13e956] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/manufacturing
+            - listitem [ref=f13e958]:
+              - link "Marine Engineering" [ref=f13e959] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/marine-engineering
+            - listitem [ref=f13e961]:
+              - link "Material Science" [ref=f13e962] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/material-science
+            - listitem [ref=f13e964]:
+              - link "Mechanical" [ref=f13e965] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/mechanical
+            - listitem [ref=f13e967]:
+              - link "Military" [ref=f13e968] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/military
+            - listitem [ref=f13e970]:
+              - link "Mining" [ref=f13e971] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/mining
+            - listitem [ref=f13e973]:
+              - link "Nanotechnology" [ref=f13e974] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/nanotechnology
+            - listitem [ref=f13e976]:
+              - link "Natural Language Processing" [ref=f13e977] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/natural-language-processing
+            - listitem [ref=f13e979]:
+              - link "Networking" [ref=f13e980] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/networking
+            - listitem [ref=f13e982]:
+              - link "Nuclear Science" [ref=f13e983] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/nuclear-science
+            - listitem [ref=f13e985]:
+              - link "Pattern Recognition" [ref=f13e986] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pattern-recognition
+            - listitem [ref=f13e988]:
+              - link "Plasma Physics" [ref=f13e989] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/plasma-physics
+            - listitem [ref=f13e991]:
+              - link "Polymers and Plastics" [ref=f13e992] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/polymers-and-plastics
+            - listitem [ref=f13e994]:
+              - link "Production Engineering" [ref=f13e995] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/production-engineering
+            - listitem [ref=f13e997]:
+              - link "Quantum Computing" [ref=f13e998] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/quantum-computing
+            - listitem [ref=f13e1000]:
+              - link "Quantum Engineering" [ref=f13e1001] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/quantum-engineering
+            - listitem [ref=f13e1003]:
+              - link "Radiation" [ref=f13e1004] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/radiation
+            - listitem [ref=f13e1006]:
+              - link "Reactor Engineering" [ref=f13e1007] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/reactor-engineering
+            - listitem [ref=f13e1009]:
+              - link "Renewable Energy" [ref=f13e1010] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/renewable-energy
+            - listitem [ref=f13e1012]:
+              - link "Robotics" [ref=f13e1013] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/robotics
+            - listitem [ref=f13e1015]:
+              - link "Signal Processing" [ref=f13e1016] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/signal-processing
+            - listitem [ref=f13e1018]:
+              - link "Smart Materials" [ref=f13e1019] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/smart-materials
+            - listitem [ref=f13e1021]:
+              - link "Smart Technology" [ref=f13e1022] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/smart-technology
+            - listitem [ref=f13e1024]:
+              - link "Soft Computing" [ref=f13e1025] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/soft-computing
+            - listitem [ref=f13e1027]:
+              - link "Software Engineering" [ref=f13e1028] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/software-engineering
+            - listitem [ref=f13e1030]:
+              - link "Space Science" [ref=f13e1031] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/space-science
+            - listitem [ref=f13e1033]:
+              - link "Structural Engineering" [ref=f13e1034] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/structural-engineering
+            - listitem [ref=f13e1036]:
+              - link "Systems Engineering" [ref=f13e1037] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/systems-engineering
+            - listitem [ref=f13e1039]:
+              - link "Technology" [ref=f13e1040] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/technology
+            - listitem [ref=f13e1042]:
+              - link "Thermal Hydraulics" [ref=f13e1043] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/thermal-hydraulics
+            - listitem [ref=f13e1045]:
+              - link "Transport" [ref=f13e1046] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/transport
+            - listitem [ref=f13e1048]:
+              - link "Vision Engineering" [ref=f13e1049] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/vision-engineering
+            - listitem [ref=f13e1051]:
+              - link "Wearable Technology" [ref=f13e1052] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/wearable-technology
+            - listitem [ref=f13e1054]:
+              - link "Wireless Communication" [ref=f13e1055] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/wireless-communication
+        - generic [ref=f13e1057]:
+          - heading " Medical And Health Science" [level=4] [ref=f13e1058]:
+            - generic [ref=f13e1059]: 
+            - generic [ref=f13e1060]: Medical And Health Science
+          - list [ref=f13e1061]:
+            - listitem [ref=f13e1062]:
+              - link "Allergy" [ref=f13e1063] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/allergy
+            - listitem [ref=f13e1065]:
+              - link "Alternative Health" [ref=f13e1066] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/alternative-health
+            - listitem [ref=f13e1068]:
+              - link "Alternative Medicine" [ref=f13e1069] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/alternative-medicine
+            - listitem [ref=f13e1071]:
+              - link "Anesthesia" [ref=f13e1072] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/anesthesia
+            - listitem [ref=f13e1074]:
+              - link "Asthma" [ref=f13e1075] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/asthma
+            - listitem [ref=f13e1077]:
+              - link "Autism" [ref=f13e1078] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/autism
+            - listitem [ref=f13e1080]:
+              - link "Ayurveda" [ref=f13e1081] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ayurveda
+            - listitem [ref=f13e1083]:
+              - link "Bioethics" [ref=f13e1084] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/bioethics
+            - listitem [ref=f13e1086]:
+              - link "Biomedicine" [ref=f13e1087] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biomedicine
+            - listitem [ref=f13e1089]:
+              - link "Biophysics" [ref=f13e1090] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biophysics
+            - listitem [ref=f13e1092]:
+              - link "Blood Pressure" [ref=f13e1093] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/blood-pressure
+            - listitem [ref=f13e1095]:
+              - link "Cancer" [ref=f13e1096] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cancer
+            - listitem [ref=f13e1098]:
+              - link "Cardiology" [ref=f13e1099] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cardiology
+            - listitem [ref=f13e1101]:
+              - link "Cell Sciences" [ref=f13e1102] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cell-sciences
+            - listitem [ref=f13e1104]:
+              - link "Clinical Laboratory" [ref=f13e1105] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/clinical-laboratory
+            - listitem [ref=f13e1107]:
+              - link "Cosmetology" [ref=f13e1108] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cosmetology
+            - listitem [ref=f13e1110]:
+              - link "Critical care" [ref=f13e1111] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/critical-care
+            - listitem [ref=f13e1113]:
+              - link "Dental" [ref=f13e1114] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/dental
+            - listitem [ref=f13e1116]:
+              - link "Dermatology" [ref=f13e1117] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/dermatology
+            - listitem [ref=f13e1119]:
+              - link "Diabetes" [ref=f13e1120] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/diabetes
+            - listitem [ref=f13e1122]:
+              - link "Disability" [ref=f13e1123] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/disability
+            - listitem [ref=f13e1125]:
+              - link "Drug Discovery" [ref=f13e1126] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/drug-discovery
+            - listitem [ref=f13e1128]:
+              - link "Emergency Medicine" [ref=f13e1129] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/emergency-medicine
+            - listitem [ref=f13e1131]:
+              - link "Ent" [ref=f13e1132] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ent
+            - listitem [ref=f13e1134]:
+              - link "Epidemiology" [ref=f13e1135] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/epidemiology
+            - listitem [ref=f13e1137]:
+              - link "Eye Health" [ref=f13e1138] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/eye-health
+            - listitem [ref=f13e1140]:
+              - link "Food Safety" [ref=f13e1141] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/food-safety
+            - listitem [ref=f13e1143]:
+              - link "Forensic" [ref=f13e1144] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/forensic
+            - listitem [ref=f13e1146]:
+              - link "Gastroenterology" [ref=f13e1147] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/gastroenterology
+            - listitem [ref=f13e1149]:
+              - link "Gerontology" [ref=f13e1150] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/gerontology
+            - listitem [ref=f13e1152]:
+              - link "Gynecology" [ref=f13e1153] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/gynecology
+            - listitem [ref=f13e1155]:
+              - link "Health" [ref=f13e1156] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/health
+            - listitem [ref=f13e1158]:
+              - link "Healthy Living" [ref=f13e1159] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/healthy-living
+            - listitem [ref=f13e1161]:
+              - link "Hepatitis" [ref=f13e1162] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/hepatitis
+            - listitem [ref=f13e1164]:
+              - link "Hygiene" [ref=f13e1165] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/hygiene
+            - listitem [ref=f13e1167]:
+              - link "Immune Systems" [ref=f13e1168] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/immune-systems
+            - listitem [ref=f13e1170]:
+              - link "Infectious Diseases" [ref=f13e1171] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/infectious-diseases
+            - listitem [ref=f13e1173]:
+              - link "Medical" [ref=f13e1174] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/medical
+            - listitem [ref=f13e1176]:
+              - link "Medical Equipment" [ref=f13e1177] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/medical-equipment
+            - listitem [ref=f13e1179]:
+              - link "Medicine" [ref=f13e1180] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/medicine
+            - listitem [ref=f13e1182]:
+              - link "Men's Health" [ref=f13e1183] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/mens-health
+            - listitem [ref=f13e1185]:
+              - link "Mental Health" [ref=f13e1186] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/mental-health
+            - listitem [ref=f13e1188]:
+              - link "Metabolism" [ref=f13e1189] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/metabolism
+            - listitem [ref=f13e1191]:
+              - link "Microbiology" [ref=f13e1192] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/microbiology
+            - listitem [ref=f13e1194]:
+              - link "Migraine" [ref=f13e1195] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/migraine
+            - listitem [ref=f13e1197]:
+              - link "Nervous System" [ref=f13e1198] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/nervous-system
+            - listitem [ref=f13e1200]:
+              - link "Neurology" [ref=f13e1201] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/neurology
+            - listitem [ref=f13e1203]:
+              - link "Neuroscience" [ref=f13e1204] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/neuroscience
+            - listitem [ref=f13e1206]:
+              - link "Nursing" [ref=f13e1207] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/nursing
+            - listitem [ref=f13e1209]:
+              - link "Nursing Informatics" [ref=f13e1210] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/nursing-informatics
+            - listitem [ref=f13e1212]:
+              - link "Nutrition" [ref=f13e1213] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/nutrition
+            - listitem [ref=f13e1215]:
+              - link "Obesity" [ref=f13e1216] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/obesity
+            - listitem [ref=f13e1218]:
+              - link "Oncology" [ref=f13e1219] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/oncology
+            - listitem [ref=f13e1221]:
+              - link "Ophthalmology" [ref=f13e1222] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ophthalmology
+            - listitem [ref=f13e1224]:
+              - link "Orthopedics" [ref=f13e1225] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/orthopedics
+            - listitem [ref=f13e1227]:
+              - link "Osteoporosis" [ref=f13e1228] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/osteoporosis
+            - listitem [ref=f13e1230]:
+              - link "Pain Management" [ref=f13e1231] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pain-management
+            - listitem [ref=f13e1233]:
+              - link "Palliative Care" [ref=f13e1234] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/palliative-care
+            - listitem [ref=f13e1236]:
+              - link "Pathology" [ref=f13e1237] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pathology
+            - listitem [ref=f13e1239]:
+              - link "Pediatrics" [ref=f13e1240] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pediatrics
+            - listitem [ref=f13e1242]:
+              - link "Pharmaceutical" [ref=f13e1243] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pharmaceutical
+            - listitem [ref=f13e1245]:
+              - link "Pharmacy" [ref=f13e1246] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pharmacy
+            - listitem [ref=f13e1248]:
+              - link "Physiotherapy" [ref=f13e1249] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/physiotherapy
+            - listitem [ref=f13e1251]:
+              - link "Pregnancy" [ref=f13e1252] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pregnancy
+            - listitem [ref=f13e1254]:
+              - link "Psychiatry" [ref=f13e1255] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/psychiatry
+            - listitem [ref=f13e1257]:
+              - link "Public Health" [ref=f13e1258] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/public-health
+            - listitem [ref=f13e1260]:
+              - link "Pulmonology" [ref=f13e1261] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pulmonology
+            - listitem [ref=f13e1263]:
+              - link "Radiography" [ref=f13e1264] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/radiography
+            - listitem [ref=f13e1266]:
+              - link "Radiology" [ref=f13e1267] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/radiology
+            - listitem [ref=f13e1269]:
+              - link "Rehabilitation and Physical Medicine" [ref=f13e1270] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/rehabilitation-and-physical-medicine
+            - listitem [ref=f13e1272]:
+              - link "Sexual Health" [ref=f13e1273] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sexual-health
+            - listitem [ref=f13e1275]:
+              - link "Sleep Disorders" [ref=f13e1276] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sleep-disorders
+            - listitem [ref=f13e1278]:
+              - link "Surgery" [ref=f13e1279] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/surgery
+            - listitem [ref=f13e1281]:
+              - link "Thyroid" [ref=f13e1282] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/thyroid
+            - listitem [ref=f13e1284]:
+              - link "Trichology" [ref=f13e1285] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/trichology
+            - listitem [ref=f13e1287]:
+              - link "Ultrasound" [ref=f13e1288] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ultrasound
+            - listitem [ref=f13e1290]:
+              - link "Urology" [ref=f13e1291] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/urology
+            - listitem [ref=f13e1293]:
+              - link "Vaccines" [ref=f13e1294] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/vaccines
+            - listitem [ref=f13e1296]:
+              - link "Women's Health" [ref=f13e1297] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/womens-health
+        - generic [ref=f13e1299]:
+          - heading " Education" [level=4] [ref=f13e1300]:
+            - generic [ref=f13e1301]: 
+            - generic [ref=f13e1302]: Education
+          - list [ref=f13e1303]:
+            - listitem [ref=f13e1304]:
+              - link "Biology Education" [ref=f13e1305] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biology-education
+            - listitem [ref=f13e1307]:
+              - link "Career fair" [ref=f13e1308] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/career-fair
+            - listitem [ref=f13e1310]:
+              - link "Computer Education" [ref=f13e1311] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/computer-education
+            - listitem [ref=f13e1313]:
+              - link "Creative Education" [ref=f13e1314] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/creative-education
+            - listitem [ref=f13e1316]:
+              - link "Distance Education" [ref=f13e1317] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/distance-education
+            - listitem [ref=f13e1319]:
+              - link "Education" [ref=f13e1320] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/education
+            - listitem [ref=f13e1322]:
+              - link "Educational Systems Planning" [ref=f13e1323] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/educational-systems-planning
+            - listitem [ref=f13e1325]:
+              - link "Foreign Language" [ref=f13e1326] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/foreign-language
+            - listitem [ref=f13e1328]:
+              - link "Higher Education" [ref=f13e1329] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/higher-education
+            - listitem [ref=f13e1331]:
+              - link "Human Development" [ref=f13e1332] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/human-development
+            - listitem [ref=f13e1334]:
+              - link "Learning" [ref=f13e1335] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/learning
+            - listitem [ref=f13e1337]:
+              - link "Linguistics" [ref=f13e1338] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/linguistics
+            - listitem [ref=f13e1340]:
+              - link "Media Design" [ref=f13e1341] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/media-design
+            - listitem [ref=f13e1343]:
+              - link "Music Education" [ref=f13e1344] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/music-education
+            - listitem [ref=f13e1346]:
+              - link "Pedagogical Science" [ref=f13e1347] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/pedagogical-science
+            - listitem [ref=f13e1349]:
+              - link "Sociology Education" [ref=f13e1350] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sociology-education
+            - listitem [ref=f13e1352]:
+              - link "Teaching" [ref=f13e1353] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/teaching
+        - generic [ref=f13e1355]:
+          - heading " Social Sciences and Humanities" [level=4] [ref=f13e1356]:
+            - generic [ref=f13e1357]: 
+            - generic [ref=f13e1358]: Social Sciences and Humanities
+          - list [ref=f13e1359]:
+            - listitem [ref=f13e1360]:
+              - link "African Studies" [ref=f13e1361] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/african-studies
+            - listitem [ref=f13e1363]:
+              - link "American Studies" [ref=f13e1364] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/american-studies
+            - listitem [ref=f13e1366]:
+              - link "Anthropology" [ref=f13e1367] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/anthropology
+            - listitem [ref=f13e1369]:
+              - link "Arts" [ref=f13e1370] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/arts
+            - listitem [ref=f13e1372]:
+              - link "Asian Studies" [ref=f13e1373] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/asian-studies
+            - listitem [ref=f13e1375]:
+              - link "Church" [ref=f13e1376] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/church
+            - listitem [ref=f13e1378]:
+              - link "Development Studies" [ref=f13e1379] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/development-studies
+            - listitem [ref=f13e1381]:
+              - link "English Literature" [ref=f13e1382] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/english-literature
+            - listitem [ref=f13e1384]:
+              - link "European Studies" [ref=f13e1385] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/european-studies
+            - listitem [ref=f13e1387]:
+              - link "Geography" [ref=f13e1388] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/geography
+            - listitem [ref=f13e1390]:
+              - link "Global Politics" [ref=f13e1391] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/global-politics
+            - listitem [ref=f13e1393]:
+              - link "Government" [ref=f13e1394] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/government
+            - listitem [ref=f13e1396]:
+              - link "History" [ref=f13e1397] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/history
+            - listitem [ref=f13e1399]:
+              - link "Income Disparity" [ref=f13e1400] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/income-disparity
+            - listitem [ref=f13e1402]:
+              - link "Information Science" [ref=f13e1403] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/information-science
+            - listitem [ref=f13e1405]:
+              - link "International Relations" [ref=f13e1406] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/international-relations
+            - listitem [ref=f13e1408]:
+              - link "Islamic Studies" [ref=f13e1409] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/islamic-studies
+            - listitem [ref=f13e1411]:
+              - link "Labor Economics" [ref=f13e1412] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/labor-economics
+            - listitem [ref=f13e1414]:
+              - link "Language" [ref=f13e1415] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/language
+            - listitem [ref=f13e1417]:
+              - link "Liberal Arts" [ref=f13e1418] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/liberal-arts
+            - listitem [ref=f13e1420]:
+              - link "Linguistic" [ref=f13e1421] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/linguistic
+            - listitem [ref=f13e1423]:
+              - link "Literacy" [ref=f13e1424] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/literacy
+            - listitem [ref=f13e1426]:
+              - link "Literature" [ref=f13e1427] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/literature
+            - listitem [ref=f13e1429]:
+              - link "Multiculturalism" [ref=f13e1430] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/multiculturalism
+            - listitem [ref=f13e1432]:
+              - link "Multidisciplinary Studies" [ref=f13e1433] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/multidisciplinary-studies
+            - listitem [ref=f13e1435]:
+              - link "Museums and Heritage" [ref=f13e1436] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/museums-and-heritage
+            - listitem [ref=f13e1438]:
+              - link "Occupational Science" [ref=f13e1439] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/occupational-science
+            - listitem [ref=f13e1441]:
+              - link "Philosophy" [ref=f13e1442] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/philosophy
+            - listitem [ref=f13e1444]:
+              - link "Poetry" [ref=f13e1445] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/poetry
+            - listitem [ref=f13e1447]:
+              - link "Political Science" [ref=f13e1448] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/political-science
+            - listitem [ref=f13e1450]:
+              - link "Psychology" [ref=f13e1451] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/psychology
+            - listitem [ref=f13e1453]:
+              - link "Racial Issues" [ref=f13e1454] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/racial-issues
+            - listitem [ref=f13e1456]:
+              - link "Religious Studies" [ref=f13e1457] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/religious-studies
+            - listitem [ref=f13e1459]:
+              - link "Social Science" [ref=f13e1460] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/social-science
+            - listitem [ref=f13e1462]:
+              - link "Social Work" [ref=f13e1463] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/social-work
+            - listitem [ref=f13e1465]:
+              - link "Sociology" [ref=f13e1466] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sociology
+            - listitem [ref=f13e1468]:
+              - link "Youth" [ref=f13e1469] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/youth
+        - generic [ref=f13e1471]:
+          - heading " Sports Science" [level=4] [ref=f13e1472]:
+            - generic [ref=f13e1473]: 
+            - generic [ref=f13e1474]: Sports Science
+          - list [ref=f13e1475]:
+            - listitem [ref=f13e1476]:
+              - link "Exercise Science" [ref=f13e1477] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/exercise-science
+            - listitem [ref=f13e1479]:
+              - link "Physical Education" [ref=f13e1480] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/physical-education
+            - listitem [ref=f13e1482]:
+              - link "Physical Therapy" [ref=f13e1483] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/physical-therapy
+            - listitem [ref=f13e1485]:
+              - link "Sport Coaching" [ref=f13e1486] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sport-coaching
+            - listitem [ref=f13e1488]:
+              - link "Sports Biomechanics" [ref=f13e1489] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-biomechanics
+            - listitem [ref=f13e1491]:
+              - link "Sports Engineering" [ref=f13e1492] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-engineering
+            - listitem [ref=f13e1494]:
+              - link "Sports Law" [ref=f13e1495] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-law
+            - listitem [ref=f13e1497]:
+              - link "Sports Management" [ref=f13e1498] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-management
+            - listitem [ref=f13e1500]:
+              - link "Sports Medicine" [ref=f13e1501] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-medicine
+            - listitem [ref=f13e1503]:
+              - link "Sports Nutrition" [ref=f13e1504] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-nutrition
+            - listitem [ref=f13e1506]:
+              - link "Sports Science" [ref=f13e1507] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-science
+            - listitem [ref=f13e1509]:
+              - link "Sports Technology" [ref=f13e1510] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-technology
+            - listitem [ref=f13e1512]:
+              - link "Sports and Fitness" [ref=f13e1513] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sports-and-fitness
+        - generic [ref=f13e1515]:
+          - heading " Physical and life sciences" [level=4] [ref=f13e1516]:
+            - generic [ref=f13e1517]: 
+            - generic [ref=f13e1518]: Physical and life sciences
+          - list [ref=f13e1519]:
+            - listitem [ref=f13e1520]:
+              - link "Aquaculture" [ref=f13e1521] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/aquaculture
+            - listitem [ref=f13e1523]:
+              - link "Archaeology" [ref=f13e1524] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/archaeology
+            - listitem [ref=f13e1526]:
+              - link "Astronomy" [ref=f13e1527] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/astronomy
+            - listitem [ref=f13e1529]:
+              - link "Biodiversity" [ref=f13e1530] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biodiversity
+            - listitem [ref=f13e1532]:
+              - link "Biology" [ref=f13e1533] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biology
+            - listitem [ref=f13e1535]:
+              - link "Biomaterials" [ref=f13e1536] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/biomaterials
+            - listitem [ref=f13e1538]:
+              - link "Chemistry" [ref=f13e1539] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/chemistry
+            - listitem [ref=f13e1541]:
+              - link "Climate Change" [ref=f13e1542] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/climate-change
+            - listitem [ref=f13e1544]:
+              - link "Earth Observation" [ref=f13e1545] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/earth-observation
+            - listitem [ref=f13e1547]:
+              - link "Earth Sciences" [ref=f13e1548] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/earth-sciences
+            - listitem [ref=f13e1550]:
+              - link "Ecology" [ref=f13e1551] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ecology
+            - listitem [ref=f13e1553]:
+              - link "Ecosystems" [ref=f13e1554] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ecosystems
+            - listitem [ref=f13e1556]:
+              - link "Environment" [ref=f13e1557] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/environment
+            - listitem [ref=f13e1559]:
+              - link "GIS" [ref=f13e1560] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/gis
+            - listitem [ref=f13e1562]:
+              - link "Genetics" [ref=f13e1563] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/genetics
+            - listitem [ref=f13e1565]:
+              - link "Geophysics and Geology" [ref=f13e1566] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/geophysics-and-geology
+            - listitem [ref=f13e1568]:
+              - link "Global Positioning System" [ref=f13e1569] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/global-positioning-system
+            - listitem [ref=f13e1571]:
+              - link "Hydrology" [ref=f13e1572] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/hydrology
+            - listitem [ref=f13e1574]:
+              - link "Life Science" [ref=f13e1575] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/life-science
+            - listitem [ref=f13e1577]:
+              - link "Meteorology" [ref=f13e1578] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/meteorology
+            - listitem [ref=f13e1580]:
+              - link "Oceanography" [ref=f13e1581] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/oceanography
+            - listitem [ref=f13e1583]:
+              - link "Physics" [ref=f13e1584] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/physics
+            - listitem [ref=f13e1586]:
+              - link "Soil" [ref=f13e1587] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/soil
+            - listitem [ref=f13e1589]:
+              - link "Sustainable Development" [ref=f13e1590] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sustainable-development
+            - listitem [ref=f13e1592]:
+              - link "Waste Management" [ref=f13e1593] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/waste-management
+            - listitem [ref=f13e1595]:
+              - link "Water" [ref=f13e1596] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/water
+        - generic [ref=f13e1598]:
+          - heading " Agriculture" [level=4] [ref=f13e1599]:
+            - generic [ref=f13e1600]: 
+            - generic [ref=f13e1601]: Agriculture
+          - list [ref=f13e1602]:
+            - listitem [ref=f13e1603]:
+              - link "Agriculture" [ref=f13e1604] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/agriculture
+            - listitem [ref=f13e1606]:
+              - link "Animal Science" [ref=f13e1607] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/animal-science
+            - listitem [ref=f13e1609]:
+              - link "Aquatic Nutrition" [ref=f13e1610] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/aquatic-nutrition
+            - listitem [ref=f13e1612]:
+              - link "Dairy Sciences" [ref=f13e1613] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/dairy-sciences
+            - listitem [ref=f13e1615]:
+              - link "Fisheries" [ref=f13e1616] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/fisheries
+            - listitem [ref=f13e1618]:
+              - link "Forestry" [ref=f13e1619] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/forestry
+            - listitem [ref=f13e1621]:
+              - link "Mycobacterial Diseases" [ref=f13e1622] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/mycobacterial-diseases
+            - listitem [ref=f13e1624]:
+              - link "Plant Biology" [ref=f13e1625] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/plant-biology
+            - listitem [ref=f13e1627]:
+              - link "Veterinary" [ref=f13e1628] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/veterinary
+            - listitem [ref=f13e1630]:
+              - link "crop science" [ref=f13e1631] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/crop-science
+            - listitem [ref=f13e1633]:
+              - link "soil science" [ref=f13e1634] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/soil-science
+        - generic [ref=f13e1636]:
+          - heading " Mathematics and statistics" [level=4] [ref=f13e1637]:
+            - generic [ref=f13e1638]: 
+            - generic [ref=f13e1639]: Mathematics and statistics
+          - list [ref=f13e1640]:
+            - listitem [ref=f13e1641]:
+              - link "Applied Mathematics" [ref=f13e1642] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/applied-mathematics
+            - listitem [ref=f13e1644]:
+              - link "Blockchain" [ref=f13e1645] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/blockchain
+            - listitem [ref=f13e1647]:
+              - link "Boolean Algebra" [ref=f13e1648] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/boolean-algebra
+            - listitem [ref=f13e1650]:
+              - link "Complex Analysis" [ref=f13e1651] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/complex-analysis
+            - listitem [ref=f13e1653]:
+              - link "Computational Mathematics" [ref=f13e1654] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/computational-mathematics
+            - listitem [ref=f13e1656]:
+              - link "Computational science" [ref=f13e1657] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/computational-science
+            - listitem [ref=f13e1659]:
+              - link "Control and Automation" [ref=f13e1660] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/control-and-automation
+            - listitem [ref=f13e1662]:
+              - link "Cryptography" [ref=f13e1663] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cryptography
+            - listitem [ref=f13e1665]:
+              - link "Data Acquisition" [ref=f13e1666] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/data-acquisition
+            - listitem [ref=f13e1668]:
+              - link "Embedded Systems" [ref=f13e1669] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/embedded-systems
+            - listitem [ref=f13e1671]:
+              - link "Information Security" [ref=f13e1672] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/information-security
+            - listitem [ref=f13e1674]:
+              - link "Linear Algebra" [ref=f13e1675] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/linear-algebra
+            - listitem [ref=f13e1677]:
+              - link "Mathematics" [ref=f13e1678] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/mathematics
+            - listitem [ref=f13e1680]:
+              - link "Number Theory" [ref=f13e1681] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/number-theory
+            - listitem [ref=f13e1683]:
+              - link "Numerical Analysis" [ref=f13e1684] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/numerical-analysis
+            - listitem [ref=f13e1686]:
+              - link "Operational Research" [ref=f13e1687] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/operational-research
+            - listitem [ref=f13e1689]:
+              - link "Optimization Theory" [ref=f13e1690] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/optimization-theory
+            - listitem [ref=f13e1692]:
+              - link "Reciprocity Laws" [ref=f13e1693] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/reciprocity-laws
+            - listitem [ref=f13e1695]:
+              - link "Statistics" [ref=f13e1696] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/statistics
+            - listitem [ref=f13e1698]:
+              - link "Time Series" [ref=f13e1699] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/time-series
+            - listitem [ref=f13e1701]:
+              - link "Vector Spaces" [ref=f13e1702] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/vector-spaces
+        - generic [ref=f13e1704]:
+          - heading " Law" [level=4] [ref=f13e1705]:
+            - generic [ref=f13e1706]: 
+            - generic [ref=f13e1707]: Law
+          - list [ref=f13e1708]:
+            - listitem [ref=f13e1709]:
+              - link "Arbitration and Mediation" [ref=f13e1710] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/arbitration-and-mediation
+            - listitem [ref=f13e1712]:
+              - link "Civil Rights" [ref=f13e1713] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/civil-rights
+            - listitem [ref=f13e1715]:
+              - link "Consumer Issues" [ref=f13e1716] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/consumer-issues
+            - listitem [ref=f13e1718]:
+              - link "Criminal Law" [ref=f13e1719] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/criminal-law
+            - listitem [ref=f13e1721]:
+              - link "Education Law" [ref=f13e1722] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/education-law
+            - listitem [ref=f13e1724]:
+              - link "Elder law and Aging" [ref=f13e1725] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/elder-law-and-aging
+            - listitem [ref=f13e1727]:
+              - link "Employee's Right" [ref=f13e1728] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/employees-right
+            - listitem [ref=f13e1730]:
+              - link "Estates and Probbate" [ref=f13e1731] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/estates-and-probbate
+            - listitem [ref=f13e1733]:
+              - link "Family Law" [ref=f13e1734] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/family-law
+            - listitem [ref=f13e1736]:
+              - link "Health Care Law" [ref=f13e1737] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/health-care-law
+            - listitem [ref=f13e1739]:
+              - link "Immigration Law" [ref=f13e1740] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/immigration-law
+            - listitem [ref=f13e1742]:
+              - link "Insolvency and Bankruptcy" [ref=f13e1743] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/insolvency-and-bankruptcy
+            - listitem [ref=f13e1745]:
+              - link "Intellectual property" [ref=f13e1746] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/intellectual-property
+            - listitem [ref=f13e1748]:
+              - link "Internet Law" [ref=f13e1749] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/internet-law
+            - listitem [ref=f13e1751]:
+              - link "Justice and legal studies" [ref=f13e1752] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/justice-and-legal-studies
+            - listitem [ref=f13e1754]:
+              - link "Law" [ref=f13e1755] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/law
+            - listitem [ref=f13e1757]:
+              - link "Real Estate" [ref=f13e1758] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/real-estate
+            - listitem [ref=f13e1760]:
+              - link "Safety and Injury Prevention" [ref=f13e1761] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/safety-and-injury-prevention
+            - listitem [ref=f13e1763]:
+              - link "Securities Law" [ref=f13e1764] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/securities-law
+        - generic [ref=f13e1766]:
+          - heading " Interdisciplinary" [level=4] [ref=f13e1767]:
+            - generic [ref=f13e1768]: 
+            - generic [ref=f13e1769]: Interdisciplinary
+          - list [ref=f13e1770]:
+            - listitem [ref=f13e1771]:
+              - link "Award Shows" [ref=f13e1772] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/award-shows
+            - listitem [ref=f13e1774]:
+              - link "Children and Youth" [ref=f13e1775] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/children-and-youth
+            - listitem [ref=f13e1777]:
+              - link "Communications and Media" [ref=f13e1778] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/communications-and-media
+            - listitem [ref=f13e1780]:
+              - link "Conflict Resolution" [ref=f13e1781] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/conflict-resolution
+            - listitem [ref=f13e1783]:
+              - link "Creativity" [ref=f13e1784] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/creativity
+            - listitem [ref=f13e1786]:
+              - link "Culture" [ref=f13e1787] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/culture
+            - listitem [ref=f13e1789]:
+              - link "Disaster Management" [ref=f13e1790] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/disaster-management
+            - listitem [ref=f13e1792]:
+              - link "Discourse" [ref=f13e1793] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/discourse
+            - listitem [ref=f13e1795]:
+              - link "Film Studies" [ref=f13e1796] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/film-studies
+            - listitem [ref=f13e1798]:
+              - link "Gender Studies" [ref=f13e1799] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/gender-studies
+            - listitem [ref=f13e1801]:
+              - link "Globalization" [ref=f13e1802] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/globalization
+            - listitem [ref=f13e1804]:
+              - link "HIV/AIDS" [ref=f13e1805] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/hiv-aids
+            - listitem [ref=f13e1807]:
+              - link "IEEE" [ref=f13e1808] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/ieee
+            - listitem [ref=f13e1810]:
+              - link "Identity" [ref=f13e1811] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/identity
+            - listitem [ref=f13e1813]:
+              - link "LGBT" [ref=f13e1814] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/lgbt
+            - listitem [ref=f13e1816]:
+              - link "Memory" [ref=f13e1817] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/memory
+            - listitem [ref=f13e1819]:
+              - link "Poverty" [ref=f13e1820] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/poverty
+            - listitem [ref=f13e1822]:
+              - link "Public Policy" [ref=f13e1823] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/public-policy
+            - listitem [ref=f13e1825]:
+              - link "Sexuality and eroticism" [ref=f13e1826] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sexuality-and-eroticism
+            - listitem [ref=f13e1828]:
+              - link "Spirituality" [ref=f13e1829] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/spirituality
+            - listitem [ref=f13e1831]:
+              - link "Tourism" [ref=f13e1832] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/tourism
+            - listitem [ref=f13e1834]:
+              - link "Urban studies" [ref=f13e1835] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/urban-studies
+            - listitem [ref=f13e1837]:
+              - link "Violence" [ref=f13e1838] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/violence
+    - complementary [ref=f13e1840]
+  - generic [ref=f13e1845]:
+    - generic [ref=f13e1846]: Latest Blog
+    - generic [ref=f13e1847]:
+      - generic [ref=f13e1849]:
+        - heading [level=3] [ref=f13e1850]:
+          - link "Scopus Journals That Often Publish Within 3 Months" [ref=f13e1851] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/blog/scopus-journals-that-often-publish-within-3-months/
+        - paragraph
+        - generic [ref=f13e1853]:
+          - generic [ref=f13e1854]: 
+          - text: Jul 10, 2026
+      - generic [ref=f13e1856]:
+        - heading [level=3] [ref=f13e1857]:
+          - link "How Journals Detect “Low Publication Priority” Manuscripts" [ref=f13e1858] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/blog/how-journals-detect-low-publication-priority-manuscripts/
+        - paragraph [ref=f13e1859]: In academic publishing, Low Publication Priority Manuscripts refer to research papers that, while often scientifically sound, are considered less competitive due to limited novelty, impact, or relevance compared to other submissions. Understanding how journals evaluate and filter such manuscripts is essential for researchers who aim to improve their publication success rate. Editorial decisions are not [&hellip;]
+        - generic [ref=f13e1861]:
+          - generic [ref=f13e1862]: 
+          - text: Jun 20, 2026
+      - generic [ref=f13e1864]:
+        - heading [level=3] [ref=f13e1865]:
+          - 'link "Fast Publication Conferences 2026: Deadlines &amp; Travel Planning Details" [ref=f13e1866] [cursor=pointer]':
+            - /url: https://www.allconferencealert.com/blog/fast-publication-conferences-2026-deadlines-travel-planning/
+        - paragraph [ref=f13e1867]: Fast publication conferences have become an essential platform for researchers seeking quicker publication, international exposure, and valuable networking opportunities. Unlike traditional journals that often involve lengthy review processes, many conferences offer faster peer review, acceptance notifications, and publication of proceedings, helping researchers share their findings with the global academic community more efficiently. Find below, some [&hellip;]
+        - generic [ref=f13e1869]:
+          - generic [ref=f13e1870]: 
+          - text: Jun 12, 2026
+      - generic [ref=f13e1872]:
+        - heading [level=3] [ref=f13e1873]:
+          - 'link "Cheapest Countries to Attend Conferences: Visa &amp; Travel Guide" [ref=f13e1874] [cursor=pointer]':
+            - /url: https://www.allconferencealert.com/blog/cheapest-countries-to-attend-conferences-visa-travel-guide/
+        - paragraph [ref=f13e1875]: For students, researchers, academics, entrepreneurs, and business professionals, finding the Cheapest Countries to Attend Conferences can significantly reduce travel expenses while still providing access to valuable networking and learning opportunities. The right destination can help you save on conference registration fees, visa costs, airfare, accommodation, transportation, and daily living expenses without compromising on the quality [&hellip;]
+        - generic [ref=f13e1877]:
+          - generic [ref=f13e1878]: 
+          - text: May 29, 2026
+    - link "View More Articles" [ref=f13e1880] [cursor=pointer]:
+      - /url: https://allconferencealert.com/blog
+  - generic [ref=f13e1882]:
+    - heading "Conference Calendar" [level=3] [ref=f13e1884]
+    - generic [ref=f13e1885]:
+      - link " Conference in July" [ref=f13e1886] [cursor=pointer]:
+        - /url: july
+        - generic [ref=f13e1887]: 
+        - heading "Conference in July" [level=3] [ref=f13e1888]
+      - link " Conference in August" [ref=f13e1889] [cursor=pointer]:
+        - /url: august
+        - generic [ref=f13e1890]: 
+        - heading "Conference in August" [level=3] [ref=f13e1891]
+      - link " Conference in September" [ref=f13e1892] [cursor=pointer]:
+        - /url: september
+        - generic [ref=f13e1893]: 
+        - heading "Conference in September" [level=3] [ref=f13e1894]
+      - link " Conference in October" [ref=f13e1895] [cursor=pointer]:
+        - /url: october
+        - generic [ref=f13e1896]: 
+        - heading "Conference in October" [level=3] [ref=f13e1897]
+      - link " Conference in November" [ref=f13e1898] [cursor=pointer]:
+        - /url: november
+        - generic [ref=f13e1899]: 
+        - heading "Conference in November" [level=3] [ref=f13e1900]
+      - link " Conference in December" [ref=f13e1901] [cursor=pointer]:
+        - /url: december
+        - generic [ref=f13e1902]: 
+        - heading "Conference in December" [level=3] [ref=f13e1903]
+      - link " Conference in January" [ref=f13e1904] [cursor=pointer]:
+        - /url: january
+        - generic [ref=f13e1905]: 
+        - heading "Conference in January" [level=3] [ref=f13e1906]
+      - link " Conference in February" [ref=f13e1907] [cursor=pointer]:
+        - /url: february
+        - generic [ref=f13e1908]: 
+        - heading "Conference in February" [level=3] [ref=f13e1909]
+      - link " Conference in March" [ref=f13e1910] [cursor=pointer]:
+        - /url: march
+        - generic [ref=f13e1911]: 
+        - heading "Conference in March" [level=3] [ref=f13e1912]
+      - link " Conference in April" [ref=f13e1913] [cursor=pointer]:
+        - /url: april
+        - generic [ref=f13e1914]: 
+        - heading "Conference in April" [level=3] [ref=f13e1915]
+      - link " Conference in May" [ref=f13e1916] [cursor=pointer]:
+        - /url: may
+        - generic [ref=f13e1917]: 
+        - heading "Conference in May" [level=3] [ref=f13e1918]
+      - link " Conference in June" [ref=f13e1919] [cursor=pointer]:
+        - /url: june
+        - generic [ref=f13e1920]: 
+        - heading "Conference in June" [level=3] [ref=f13e1921]
+  - text: 
+  - contentinfo [ref=f13e1922]:
+    - generic [ref=f13e1923]:
+      - generic [ref=f13e1924]:
+        - generic [ref=f13e1925]:
+          - link [ref=f13e1926] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com
+            - img "Logo" [ref=f13e1927]
+          - paragraph [ref=f13e1928]: The leading global platform for academics, researchers, and professionals to discover and register for, and promote conferences worldwide.
+        - generic [ref=f13e1929]:
+          - heading "Quick Links" [level=4] [ref=f13e1930]
+          - list [ref=f13e1931]:
+            - listitem [ref=f13e1932]:
+              - link "About" [ref=f13e1933] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/about
+            - listitem [ref=f13e1934]:
+              - link "Terms Of Use" [ref=f13e1935] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/terms-of-use
+            - listitem [ref=f13e1936]:
+              - link "Cookie Policy" [ref=f13e1937] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cookie-policy
+            - listitem [ref=f13e1938]:
+              - link "Privacy Policy" [ref=f13e1939] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/privacy-policy
+            - listitem [ref=f13e1940]:
+              - link "Conference Alerts" [ref=f13e1941] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/what-is-conference-alerts
+            - listitem [ref=f13e1942]:
+              - link "Subscribe" [ref=f13e1943] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/subscribe
+            - listitem [ref=f13e1944]:
+              - link "Verification Policy" [ref=f13e1945] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/verification-policy
+            - listitem [ref=f13e1946]:
+              - link "Think. Check. Attend" [ref=f13e1947] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/think-check-attend
+            - listitem [ref=f13e1948]:
+              - link "Sitemap" [ref=f13e1949] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sitemap
+            - listitem [ref=f13e1950]:
+              - link "Careers" [ref=f13e1951] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/careers
+        - generic [ref=f13e1952]:
+          - heading "Browse" [level=4] [ref=f13e1953]
+          - list [ref=f13e1954]:
+            - listitem [ref=f13e1955]:
+              - link "Contact Us" [ref=f13e1956] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/contact
+            - listitem [ref=f13e1957]:
+              - link "F.A.Q." [ref=f13e1958] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/faq
+            - listitem [ref=f13e1959]:
+              - link "Help" [ref=f13e1960] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/help
+            - listitem [ref=f13e1961]:
+              - link "Blog" [ref=f13e1962] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/blog/
+            - listitem [ref=f13e1963]:
+              - link "Conference Partner" [ref=f13e1964] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/conference-partner
+            - listitem [ref=f13e1965]:
+              - link "Journals" [ref=f13e1966] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/journal
+            - listitem [ref=f13e1967]:
+              - link "All Events" [ref=f13e1968] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/allevents
+            - listitem [ref=f13e1969]:
+              - link "Webinar" [ref=f13e1970] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/webinar
+        - generic [ref=f13e1971]:
+          - heading "Get in Touch" [level=4] [ref=f13e1972]
+          - list [ref=f13e1973]:
+            - listitem [ref=f13e1974]:
+              - generic [ref=f13e1975]: 
+              - generic [ref=f13e1976]: Block-A, ITR Building, Khandagiri, Bhubaneswar, Odisha 751030
+            - listitem [ref=f13e1977]:
+              - generic [ref=f13e1978]: 
+              - text: Email For support & sales info@allconferencealert.com
+            - listitem [ref=f13e1979]:
+              - generic [ref=f13e1980]: 
+              - text: +91 8093243939
+            - listitem [ref=f13e1981]:
+              - link " Facebook" [ref=f13e1982] [cursor=pointer]:
+                - /url: https://www.facebook.com/pages/allconferencealertcom/323565867774881
+                - generic [ref=f13e1983]: 
+                - text: Facebook
+            - listitem [ref=f13e1984]:
+              - link " Twitter" [ref=f13e1985] [cursor=pointer]:
+                - /url: https://twitter.com/AllConefernce
+                - generic [ref=f13e1986]: 
+                - text: Twitter
+            - listitem [ref=f13e1987]:
+              - link " Linkedin" [ref=f13e1988] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/allconferencealertofficial
+                - generic [ref=f13e1989]: 
+                - text: Linkedin
+            - listitem [ref=f13e1990]:
+              - link " youtube" [ref=f13e1991] [cursor=pointer]:
+                - /url: https://www.youtube.com/@allconferencealert-com
+                - generic [ref=f13e1992]: 
+                - text: youtube
+            - listitem [ref=f13e1993]:
+              - link " wikipedia" [ref=f13e1994] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Academic_conference
+                - generic [ref=f13e1995]: 
+                - text: wikipedia
+            - listitem [ref=f13e1996]:
+              - link " instagram" [ref=f13e1997] [cursor=pointer]:
+                - /url: https://www.instagram.com/allconferencealertt/
+                - generic [ref=f13e1998]: 
+                - text: instagram
+            - listitem [ref=f13e1999]:
+              - link " telegram" [ref=f13e2000] [cursor=pointer]:
+                - /url: https://t.me/allconferencealertt
+                - generic [ref=f13e2001]: 
+                - text: telegram
+      - generic [ref=f13e2002]:
+        - paragraph [ref=f13e2004]: © 2026 All Conference Alert. All Rights Reserved.
+        - generic [ref=f13e2008]:
+          - link "All Conference Alert Facebook Business Page" [ref=f13e2009] [cursor=pointer]:
+            - /url: https://www.facebook.com/pages/allconferencealertcom/323565867774881
+            - generic [ref=f13e2010]: 
+          - link "All Conference Alert Twitter Business Page" [ref=f13e2011] [cursor=pointer]:
+            - /url: https://twitter.com/AllConefernce
+            - generic [ref=f13e2012]: 
+          - link "All Conference Alert Linkedin Business Page" [ref=f13e2013] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/allconferencealertofficial
+            - generic [ref=f13e2014]: 
+          - link "All Conference Alert YouTube Page" [ref=f13e2015] [cursor=pointer]:
+            - /url: https://www.youtube.com/@allconferencealert-com
+            - generic [ref=f13e2016]: 
+          - link "Academic Conference Wikipedia Page" [ref=f13e2017] [cursor=pointer]:
+            - /url: https://en.wikipedia.org/wiki/Academic_conference
+            - generic [ref=f13e2018]: 
+          - link "All Conference Alert Instagram Page" [ref=f13e2019] [cursor=pointer]:
+            - /url: https://www.instagram.com/allconferencealertt/
+            - generic [ref=f13e2020]: 
+          - link "All Conference Alert Telegram Page" [ref=f13e2021] [cursor=pointer]:
+            - /url: https://t.me/allconferencealertt
+            - generic [ref=f13e2022]: 

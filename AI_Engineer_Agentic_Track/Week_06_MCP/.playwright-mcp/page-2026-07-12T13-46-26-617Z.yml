@@ -1,0 +1,470 @@
+- generic [active] [ref=f16e1]:
+  - generic [ref=f16e2]:
+    - link "Menu" [ref=f16e3] [cursor=pointer]:
+      - /url: "#mmenu"
+    - link [ref=f16e5] [cursor=pointer]:
+      - /url: https://www.bbcgoodfoodme.com
+      - img "Good Food ME logo" [ref=f16e6]
+  - generic [ref=f16e9]:
+    - link "Skip to content" [ref=f16e10] [cursor=pointer]:
+      - /url: "#content"
+    - iframe [ref=f16e15]:
+      - link [ref=f21e2] [cursor=pointer]:
+        - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjssV2PIV_10J8HamJI6XTl0RUiWnrj9TfOmbIm8RPsC2b_Mx8dSfRDc0dEFxN1fw1iKjmJDxLEh8aQKXFMqtnyThRNFMnt7Goe1J2d3BoPXJ8aWVIWEDqukIZ9birqonpx6DSrX-fxW6McyI-NQwJNQxelv4fwIa80aG5Z5m1JCRrGXWUDJCj4hV-g0rJHYNrTQZj9MBcLVcfXlsLk4qHy3aB9-OZI81mBxLONc_V6mWkgOnOlId2oMNuaVZALSOIRhohKC1tUFLqmf4n5odC2vrfXwJ5nVg_saQJ467wBAiuxAlQwJz0SMqnpo-CXl9m2gUZSAlgmowd1mCjy5eSZHnNiGvWzPpoMIvDuSDNh9b2hrzonhJdur8rJXLGRBkqOHHAfLlccfHcJB4P_uu7PzdMUrM3g&sai=AMfl-YS2hPtkumn32M6BNqPcIptIke-eZ1PXPeOYnx6sbzPFedcN7C8HeyH-zQ50EhihPIHoie4qoia0cBreBfNPBDtkZhsFBLFCBIBrkh9bge_xpRZwIrneJYzwf2kLxs0OhsfjtePKgIN-Kf3crl5izDYSMhfFqcgeggz5IGDho9o0WwvxHnnlyYflb1MACvilIQhplXddKMED-xFUv5DIBJvXddovYzFJGnwNmPqcqePYNziruuFztNQ3vtmTam-NoXoY07-wV5Jl72g6-n6mAtgmY2mnXCH4gGtxWrNwGmtwzCT4J3ouxe92v8JoIklvvpAIKDN_nIIUriV8jKPBi1JZeQGmgK3DfD1wbi3mwlUjIwwv28gKMLZZEftEL2SiJPQSK6soyUkfMBOWEPAuGA&sig=Cg0ArKJSzIegKLrfZob-&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://bbcgoodfoodme.com/awards/abu-dhabi-2026/nomination/
+    - generic [ref=f16e17]:
+      - generic [ref=f16e19]:
+        - button "Previous" [ref=f16e20] [cursor=pointer]
+        - generic [ref=f16e22]:
+          - generic [ref=f16e23]:
+            - link [ref=f16e24] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/roast-chicken-with-dill-potatoes/
+            - generic [ref=f16e29]:
+              - heading [level=2] [ref=f16e31]: Sunday Lunch at home
+              - generic [ref=f16e32]: Elevated classic
+          - generic [ref=f16e33]:
+            - link [ref=f16e34] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/summer-fruits-cheesecake-board/
+              - img "Celebrate summer" [ref=f16e36]
+            - generic [ref=f16e39]:
+              - heading "Celebrate summer" [level=2] [ref=f16e41]
+              - generic [ref=f16e42]: Seasonal delight
+          - generic [ref=f16e43]:
+            - link [ref=f16e44] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/pauls-genoise-sponge/
+            - generic [ref=f16e49]:
+              - heading [level=2] [ref=f16e51]: Your watch party
+              - generic [ref=f16e52]: Celebrate victory
+          - generic [ref=f16e53]:
+            - link [ref=f16e54] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/gluten-free-apple-crumble/
+            - generic [ref=f16e59]:
+              - heading [level=2] [ref=f16e61]: Gluten-free ideas
+              - generic [ref=f16e62]: Scrumptious dessert
+          - generic [ref=f16e63]:
+            - link [ref=f16e64] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/roast-chicken-with-dill-potatoes/
+            - generic [ref=f16e69]:
+              - heading [level=2] [ref=f16e71]: Sunday Lunch at home
+              - generic [ref=f16e72]: Elevated classic
+          - generic [ref=f16e73]:
+            - link [ref=f16e74] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/summer-fruits-cheesecake-board/
+            - generic [ref=f16e79]:
+              - heading [level=2] [ref=f16e81]: Celebrate summer
+              - generic [ref=f16e82]: Seasonal delight
+          - generic [ref=f16e83]:
+            - link [ref=f16e84] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/pauls-genoise-sponge/
+            - generic [ref=f16e89]:
+              - heading [level=2] [ref=f16e91]: Your watch party
+              - generic [ref=f16e92]: Celebrate victory
+          - generic [ref=f16e93]:
+            - link [ref=f16e94] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/gluten-free-apple-crumble/
+            - generic [ref=f16e99]:
+              - heading [level=2] [ref=f16e101]: Gluten-free ideas
+              - generic [ref=f16e102]: Scrumptious dessert
+          - generic [ref=f16e103]:
+            - link [ref=f16e104] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com/recipes/roast-chicken-with-dill-potatoes/
+            - generic [ref=f16e109]:
+              - heading [level=2] [ref=f16e111]: Sunday Lunch at home
+              - generic [ref=f16e112]: Elevated classic
+        - button "Next" [ref=f16e113] [cursor=pointer]
+      - main [ref=f16e115]:
+        - generic [ref=f16e117]:
+          - generic [ref=f16e118]:
+            - generic [ref=f16e120]:
+              - heading "Trending Videos" [level=2] [ref=f16e121]
+              - application "Video Player - HexClad now available in the UAE" [ref=f16e122]:
+                - generic [ref=f16e124]:
+                  - generic [ref=f16e128]: 0 seconds of 48 secondsVolume 0%
+                  - generic:
+                    - button "Loading" [ref=f16e129] [cursor=pointer]
+                    - text: •
+                    - generic [ref=f16e130]:
+                      - slider "Seek" [ref=f16e131] [cursor=pointer]
+                      - generic [ref=f16e138]:
+                        - button "Play" [ref=f16e139] [cursor=pointer]
+                        - button "Rewind 10 Seconds" [ref=f16e140] [cursor=pointer]
+                        - button "Next" [ref=f16e141] [cursor=pointer]
+                        - group "Unmute button" [ref=f16e142] [cursor=pointer]:
+                          - slider "Volume"
+                        - status
+                        - timer [ref=f16e143]: 00:00
+                        - timer [ref=f16e144]: / 00:48
+                        - button "Share" [ref=f16e145] [cursor=pointer]
+                        - button "Settings" [ref=f16e146] [cursor=pointer]
+                        - button "Picture in Picture (PiP)" [ref=f16e147] [cursor=pointer]
+                        - button "Fullscreen" [ref=f16e148] [cursor=pointer]
+              - generic [ref=f16e152]:
+                - button "Previous"
+                - generic [ref=f16e154]:
+                  - button "Video - HexClad now available in the UAE" [ref=f16e155] [cursor=pointer]:
+                    - generic [ref=f16e157]: HexClad now available in the UAE
+                  - button "Video - Hello Chef | Love in Every Bite" [ref=f16e160] [cursor=pointer]:
+                    - generic [ref=f16e162]: Hello Chef | Love in Every Bite
+                  - button "Video - How to make Cornflake tart" [ref=f16e165] [cursor=pointer]:
+                    - generic [ref=f16e167]: How to make Cornflake tart
+                  - button "Video - How to make Strawberry tart" [ref=f16e170] [cursor=pointer]:
+                    - generic [ref=f16e172]: How to make Strawberry tart
+                  - button "Video - How to make Frozen yoghurt" [ref=f16e175] [cursor=pointer]:
+                    - generic [ref=f16e177]: How to make Frozen yoghurt
+                  - button "Video - How to make hummus" [ref=f16e180] [cursor=pointer]:
+                    - generic [ref=f16e182]: How to make hummus
+                  - button "Video - How to make Tuna pasta bake" [ref=f16e185] [cursor=pointer]:
+                    - generic [ref=f16e187]: How to make Tuna pasta bake
+                  - button "Video - How to make Gnocchi & tomato bake" [ref=f16e190] [cursor=pointer]:
+                    - generic [ref=f16e192]: How to make Gnocchi & tomato bake
+                - button "Next" [ref=f16e195] [cursor=pointer]
+              - link "More Video Recipes" [ref=f16e198] [cursor=pointer]:
+                - /url: https://www.bbcgoodfoodme.com/video-recipe/
+            - generic [ref=f16e200]:
+              - generic [ref=f16e201]:
+                - heading [level=2] [ref=f16e202]:
+                  - link "Easy summer" [ref=f16e203] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/easy-summer
+                - link [ref=f16e205] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/collections/easy-summer
+                  - img "Easy summer" [ref=f16e206]
+                - paragraph [ref=f16e207]:
+                  - link "Our favourite dishes for the season" [ref=f16e208] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/easy-summer
+                - link "Herby baked fish with green olives" [ref=f16e209] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/herby-baked-fish-with-green-olives/
+                - link "Parmesan chicken & green bean salad" [ref=f16e210] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/parmesan-chicken-green-bean-salad/
+                - link "Summery beans & herby green aïoli" [ref=f16e211] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/summery-beans-herby-green-aioli/
+              - generic [ref=f16e212]:
+                - heading [level=2] [ref=f16e213]:
+                  - link "Summer dessert" [ref=f16e214] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/summer-dessert
+                - link [ref=f16e216] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/collections/summer-dessert
+                  - img "Summer dessert" [ref=f16e217]
+                - paragraph [ref=f16e218]:
+                  - link "Recipes to beat the heat" [ref=f16e219] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/summer-dessert
+                - link "Coconut panna cotta with passion fruit" [ref=f16e220] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/coconut-panna-cotta-with-passion-fruit/
+                - link "Strawberry smoothie & banana milkshake ice lollies" [ref=f16e221] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/strawberry-smoothie-banana-milkshake-ice-lollies/
+                - link "Salted pecan banoffee sundae" [ref=f16e222] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/salted-pecan-banoffee-sundae/
+              - generic [ref=f16e223]:
+                - heading [level=2] [ref=f16e224]:
+                  - link "Summer salads" [ref=f16e225] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/summer-salads
+                - link [ref=f16e227] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/collections/summer-salads
+                  - img "Summer salads" [ref=f16e228]
+                - paragraph [ref=f16e229]:
+                  - link "Perfect for tucking into during the hotter months" [ref=f16e230] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/summer-salads
+                - link "Charred brussels salad with chilli & crispy onions" [ref=f16e231] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/charred-brussels-salad-with-chilli-crispy-onions/
+                - link "Steak, courgette & summer bean salad" [ref=f16e232] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/steak-courgette-summer-bean-salad/
+                - link "Prawn, black bean & avocado salad with hot sauce & lime dressing" [ref=f16e233] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/prawn-black-bean-avocado-salad-with-hot-sauce-lime-dressing/
+              - generic [ref=f16e234]:
+                - heading [level=2] [ref=f16e235]:
+                  - link "Healthy summer" [ref=f16e236] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/healthy-summer
+                - link [ref=f16e238] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/collections/healthy-summer
+                  - img "Healthy summer" [ref=f16e239]
+                - paragraph [ref=f16e240]:
+                  - link "Make the most of summer produce" [ref=f16e241] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfoodme.com/collections/healthy-summer
+                - link "Cucumber soup" [ref=f16e242] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/cucumber-soup/
+                - link "One-pot green bean, potato & pesto pasta" [ref=f16e243] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/one-pot-green-bean-potato-pesto-pasta/
+                - link "Seared tuna & asparagus niçoise" [ref=f16e244] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/recipes/seared-tuna-asparagus-nicoise/
+            - generic [ref=f16e245]:
+              - heading "Latest Stories" [level=2] [ref=f16e246]
+              - generic [ref=f16e247] [cursor=pointer]: Stay up-to-date with the latest stories in the Middle East...
+              - generic [ref=f16e251]:
+                - button "Previous" [disabled] [ref=f16e252] [cursor=pointer]
+                - generic [ref=f16e254]:
+                  - generic [ref=f16e256]:
+                    - link [ref=f16e258] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/new-dubai-restaurants-here/
+                      - img "70 new Dubai restaurants and cafés" [ref=f16e259]
+                    - paragraph [ref=f16e260]:
+                      - link "70 new Dubai restaurants and cafés" [ref=f16e261] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/new-dubai-restaurants-here/
+                  - generic [ref=f16e263]:
+                    - link [ref=f16e265] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/where-to-watch-the-fifa-world-cup-2026-in-dubai/
+                      - img "Where to watch the FIFA World Cup 2026 in Dubai" [ref=f16e266]
+                    - paragraph [ref=f16e267]:
+                      - link "Where to watch the FIFA World Cup 2026 in Dubai" [ref=f16e268] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/where-to-watch-the-fifa-world-cup-2026-in-dubai/
+                  - generic [ref=f16e270]:
+                    - link [ref=f16e272] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/things-to-do-in-the-uae-in-july-2026/
+                      - img "10 spectacular things to do in the UAE in July" [ref=f16e273]
+                    - paragraph [ref=f16e274]:
+                      - link "10 spectacular things to do in the UAE in July" [ref=f16e275] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/things-to-do-in-the-uae-in-july-2026/
+                  - generic [ref=f16e277]:
+                    - link [ref=f16e279] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/dubai-brunches-to-visit/
+                      - img "30 Dubai brunches to check off your list in 2026" [ref=f16e280]
+                    - paragraph [ref=f16e281]:
+                      - link "30 Dubai brunches to check off your list in 2026" [ref=f16e282] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/dubai-brunches-to-visit/
+                  - generic [ref=f16e284]:
+                    - link [ref=f16e286] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/uae-dining-deals-to-enjoy-this-season/
+                    - paragraph [ref=f16e288]:
+                      - link [ref=f16e289] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/uae-dining-deals-to-enjoy-this-season/
+                        - text: Where to dine this summer across the UAE
+                  - generic [ref=f16e291]:
+                    - link [ref=f16e293] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/gymkhana-to-open-in-dubai-this-september/
+                    - paragraph [ref=f16e295]:
+                      - link [ref=f16e296] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/gymkhana-to-open-in-dubai-this-september/
+                        - text: Gymkhana to open in Dubai this September
+                  - generic [ref=f16e298]:
+                    - link [ref=f16e300] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/dubai-summer-restaurant-week-2026-is-back/
+                    - paragraph [ref=f16e302]:
+                      - link [ref=f16e303] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/dubai-summer-restaurant-week-2026-is-back/
+                        - text: Dubai Summer Restaurant Week 2026 is back
+                  - generic [ref=f16e305]:
+                    - link [ref=f16e307] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/dining-experiences-to-book-at-sushisamba-dubai-this-summer/
+                    - paragraph [ref=f16e309]:
+                      - link [ref=f16e310] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfoodme.com/news/dining-experiences-to-book-at-sushisamba-dubai-this-summer/
+                        - text: Dining experiences to book at SUSHISAMBA Dubai this summer
+                - button "Next" [ref=f16e311] [cursor=pointer]
+            - generic [ref=f16e312]:
+              - heading "Follow Us on Instagram" [level=2] [ref=f16e313]
+              - generic [ref=f16e315]:
+                - generic [ref=f16e316]:
+                  - link "Hudson & Rye, a New York-style deli, is officially" [ref=f16e319] [cursor=pointer]:
+                    - /url: https://www.instagram.com/reel/DaM2uRoqX8b/
+                    - img [ref=f16e320]: 
+                  - link "@hexclad_me is now in the UAE! 🇦🇪 Save up to 35%" [ref=f16e325] [cursor=pointer]:
+                    - /url: https://www.instagram.com/reel/DaMqsfmk65W/
+                    - img [ref=f16e326]: 
+                  - link "“Greek food is so much more than gyros and souvlak" [ref=f16e331] [cursor=pointer]:
+                    - /url: https://www.instagram.com/reel/DZ9ilUiqYtu/
+                    - img [ref=f16e332]: 
+                  - link "Win a HexClad Small Kitchen Bundle featuring a 25c" [ref=f16e337] [cursor=pointer]:
+                    - /url: https://www.instagram.com/p/DZZeJuTEh83/
+                    - img [ref=f16e338]: 
+                - link "View More" [ref=f16e343] [cursor=pointer]:
+                  - /url: https://www.instagram.com/goodfoodmiddleeast/
+                  - img [ref=f16e344]: 
+                  - text: View More
+          - generic [ref=f16e347]:
+            - iframe [ref=f16e352]:
+              - link [ref=f23e2] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsuUcyDN6vGKET80zbHaoZ_Rfv9mcdXGMqr4mIUipetgggoZLpbxDIW4ysymlmUAQ7K5bq78afbjTRfBMwWPwfyNfT6eC_SW1mAfBDzPsx2sOK2UlUri7ImYAi8nz8REIZlU_7JZEif2eexphjZKVQmo564lav_Nk_tECwJW5HMdnEdwA3SYZlNJA6_hj4QA-ugOk_xW9COM7bhC9qE3mYLD2xQufMyhMTqA3FUErCskQ6j5WkLfAq0HIbQ9NuD5JnqD8vA2NbFETKEC6vaOWIZfaz3GAMISFBXzEji2kt40_F-uURJ1PVyLTp8c7-GFcgaK5j-9x9ZW_Zd7XK44CBGuX1VKoAcI2WI4u4drK3_EUd6F5lz7pc49Q00wN4J0s_T2eSsF5p1Is7737ogbbkG0FepPbA&sai=AMfl-YRDL5aZYeCt9pFcfXtzthNMNe2nm68DFdTii3Sqd9VuYlbiXs-L4ZcdsyQAMMk2ew4zSGNL2Qdwyrkqxbcvvo2BMZWrfHmatly-T7U_EKKNdBMwPcH0j7arPlZN-rASkq61Y1FWX6-dpX5fJxJA8CQDm55NaVwLis_qIBKumAZ0vkjZXSLIIoGZKpgULabRd6b2I2k7W3o6UCwl62CHc5xbCz81uRNp9tZExWTSZvcHP8D8NqFI81yZiYLaJyhI0PjDN7LEFd0GvyyLUoS_33gBAuU3EiiNt_IQgAuHPuXXaOaP0xPxutLzpUt91JVAzljml5wOwCQueXF1WrlWyXUxjoNxvCLhIFMl550mwFNXyRCtBZu7sP_KwbWBX1b6grF6kGKrwk7cuwr-MIHVpQ&sig=Cg0ArKJSzKfGQfLpej0J&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://mbcmag.co/thrive/registration/
+            - generic [ref=f16e353]:
+              - heading "Homegrown Tables" [level=3] [ref=f16e354]
+              - separator [ref=f16e356]
+              - generic [ref=f16e358]:
+                - generic [ref=f16e359] [cursor=pointer]: 
+                - generic [ref=f16e362]:
+                  - generic [ref=f16e363]:
+                    - link [ref=f16e364] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-hilton-bahrain-city-centre-with-eric-pellen/
+                    - link [ref=f16e366] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-hilton-bahrain-city-centre-with-eric-pellen/
+                      - text: "Homegrown Tables: A Seat at Hilton Bahrain City Centre with Eric Pellen"
+                  - generic [ref=f16e367]:
+                    - link [ref=f16e368] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-brix-cafe-with-chef-carmen-rueda-hernandez/
+                      - 'img "Homegrown Tables: A Seat at BRIX Café with Chef Carmen Rueda Hernandez" [ref=f16e369]'
+                    - 'link "Homegrown Tables: A Seat at BRIX Café with Chef Carmen Rueda Hernandez" [ref=f16e371] [cursor=pointer]':
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-brix-cafe-with-chef-carmen-rueda-hernandez/
+                  - generic [ref=f16e372]:
+                    - link [ref=f16e373] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-bkry-with-kameel-rasyid/
+                    - link [ref=f16e376] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-bkry-with-kameel-rasyid/
+                      - text: "Homegrown Tables: A Seat at bkry with Kameel Rasyid"
+                  - generic [ref=f16e377]:
+                    - link [ref=f16e378] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/these-must-try-tasting-menus-in-dubai-are-under-aed400/
+                    - link [ref=f16e381] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/these-must-try-tasting-menus-in-dubai-are-under-aed400/
+                      - text: These must-try tasting menus in Dubai are under AED400
+                  - generic [ref=f16e382]:
+                    - link [ref=f16e383] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-juns-852bakery-kelvincheung/
+                    - link [ref=f16e385] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-juns-852bakery-kelvincheung/
+                      - text: "Homegrown Tables: A Seat at Jun’s with Kelvin Cheung"
+                  - generic [ref=f16e386]:
+                    - link [ref=f16e387] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-tashas-cafe-natasha-sideris/
+                    - link [ref=f16e389] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-tashas-cafe-natasha-sideris/
+                      - text: "Homegrown Tables: A Seat at Tashas Cafe with Natasha Sideris"
+                  - generic [ref=f16e390]:
+                    - link [ref=f16e391] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-khadak-with-naved-nasir/
+                    - link [ref=f16e393] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-khadak-with-naved-nasir/
+                      - text: "Homegrown Tables: A Seat at Khadak with Naved Nasir"
+                  - generic [ref=f16e394]:
+                    - link [ref=f16e395] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-hilton-bahrain-city-centre-with-eric-pellen/
+                    - link [ref=f16e397] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-hilton-bahrain-city-centre-with-eric-pellen/
+                      - text: "Homegrown Tables: A Seat at Hilton Bahrain City Centre with Eric Pellen"
+                  - generic [ref=f16e398]:
+                    - link [ref=f16e399] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-brix-cafe-with-chef-carmen-rueda-hernandez/
+                    - link [ref=f16e402] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-brix-cafe-with-chef-carmen-rueda-hernandez/
+                      - text: "Homegrown Tables: A Seat at BRIX Café with Chef Carmen Rueda Hernandez"
+                  - generic [ref=f16e403]:
+                    - link [ref=f16e404] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-bkry-with-kameel-rasyid/
+                    - link [ref=f16e407] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-bkry-with-kameel-rasyid/
+                      - text: "Homegrown Tables: A Seat at bkry with Kameel Rasyid"
+                  - generic [ref=f16e408]:
+                    - link [ref=f16e409] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/these-must-try-tasting-menus-in-dubai-are-under-aed400/
+                    - link [ref=f16e412] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/news/these-must-try-tasting-menus-in-dubai-are-under-aed400/
+                      - text: These must-try tasting menus in Dubai are under AED400
+                  - generic [ref=f16e413]:
+                    - link [ref=f16e414] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-juns-852bakery-kelvincheung/
+                    - link [ref=f16e416] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-juns-852bakery-kelvincheung/
+                      - text: "Homegrown Tables: A Seat at Jun’s with Kelvin Cheung"
+                  - generic [ref=f16e417]:
+                    - link [ref=f16e418] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-tashas-cafe-natasha-sideris/
+                    - link [ref=f16e420] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-tashas-cafe-natasha-sideris/
+                      - text: "Homegrown Tables: A Seat at Tashas Cafe with Natasha Sideris"
+                  - generic [ref=f16e421]:
+                    - link [ref=f16e422] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-khadak-with-naved-nasir/
+                    - link [ref=f16e424] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-khadak-with-naved-nasir/
+                      - text: "Homegrown Tables: A Seat at Khadak with Naved Nasir"
+                  - generic [ref=f16e425]:
+                    - link [ref=f16e426] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-hilton-bahrain-city-centre-with-eric-pellen/
+                    - link [ref=f16e428] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfoodme.com/chef-interviews/homegrown-tables-a-seat-at-hilton-bahrain-city-centre-with-eric-pellen/
+                      - text: "Homegrown Tables: A Seat at Hilton Bahrain City Centre with Eric Pellen"
+                - generic [ref=f16e429] [cursor=pointer]: 
+            - generic [ref=f16e431]:
+              - heading "Staycations to Book Now" [level=3] [ref=f16e432]
+              - separator [ref=f16e434]
+              - generic [ref=f16e439]:
+                - link [ref=f16e440] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/staycations/best-staycations-uae-residents/
+                - link "30 UAE staycations you can’t miss out on" [ref=f16e442] [cursor=pointer]:
+                  - /url: https://www.bbcgoodfoodme.com/staycations/best-staycations-uae-residents/
+            - generic [ref=f16e443]:
+              - heading "Restaurant Reviews" [level=3] [ref=f16e444]
+              - separator [ref=f16e446]
+              - list [ref=f16e449]:
+                - listitem [ref=f16e450]:
+                  - 'link "Review: Batliwala & Co. Dubai"':
+                    - /url: https://www.bbcgoodfoodme.com/restaurants-review/review-batliwala-co-dubai/
+                    - 'img "Review: Batliwala & Co. Dubai" [ref=f16e451] [cursor=pointer]'
+                  - heading [level=3] [ref=f16e452]:
+                    - 'link "Review: Batliwala & Co. Dubai" [ref=f16e453] [cursor=pointer]':
+                      - /url: https://www.bbcgoodfoodme.com/restaurants-review/review-batliwala-co-dubai/
+                  - generic [ref=f16e454]: Mumbai’s Irani café culture comes to Dubai with Batliwala & …
+                - listitem [ref=f16e455]:
+                  - 'link "Review: Jodhpur Bar & Kitchen"':
+                    - /url: https://www.bbcgoodfoodme.com/restaurants-review/review-jodhpur-bar-kitchen/
+                    - 'img "Review: Jodhpur Bar & Kitchen" [ref=f16e456] [cursor=pointer]'
+                  - heading [level=3] [ref=f16e457]:
+                    - 'link "Review: Jodhpur Bar & Kitchen" [ref=f16e458] [cursor=pointer]':
+                      - /url: https://www.bbcgoodfoodme.com/restaurants-review/review-jodhpur-bar-kitchen/
+                  - generic [ref=f16e459]: Marwari cuisine from Rajasthan remains one of India’s most distinctive …
+                - listitem [ref=f16e460]:
+                  - 'link "Review: House of Bâoli Brunch"':
+                    - /url: https://www.bbcgoodfoodme.com/restaurants-review/review-house-of-baoli-brunch/
+                    - 'img "Review: House of Bâoli Brunch" [ref=f16e461] [cursor=pointer]'
+                  - heading [level=3] [ref=f16e462]:
+                    - 'link "Review: House of Bâoli Brunch" [ref=f16e463] [cursor=pointer]':
+                      - /url: https://www.bbcgoodfoodme.com/restaurants-review/review-house-of-baoli-brunch/
+                  - generic [ref=f16e464]: Bâoli Dubai has launched House of Bâoli, a new Sunday …
+            - iframe [ref=f16e469]:
+              - link [ref=f24e2] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsuYDduCfcclKhui7HexcE05WfLhCNDuhGitlrJkLfVvKRAah_qNQ_S834oWg72MXIiqq33vvhxmz8ASmI4mye6izQV5KRHPPs0eHlAUCRvjj_9yRqC9GDdQOhMUruDp9pQi41My9F1PPbJVjhtXeH4YHTJZNWjbLczKWY3qTX3kYDnL4PIKK4hvr61HfRSrJ3mjJGhddJprhJi0j6vR9kCysji-RHh66OlFBiEsCy1ma6oxXJVi5xYSSNJDpV23c-uu5OUrmf9YggDDyk2eFgMADIQsw5fsx7PbABjDA93Mai4Z9CdtWJ4X2uLA81P0ZryHUzjrrkZf0PoDe6CP1p6u7RQnvlkzN32oAvHQl7oy14L9zPVuUHRq25xW2FhIOBIcTyRCDvWgnGZysVGkbtEN4DW3jw&sai=AMfl-YQn4lvfTDq8l5hyi-6i5lITT6c9hmIXnBAs-GxrnyzaZZjxMKX9mHOGlTctMxz9CYRDiHST0M_w4tAb-k7JZpd6wL0zZneAei3lsjN-E4G-weHfXCphTLlLdhd3bmX9aXuyxv9_gLdATV5Fsumd35EXacXJDPfxP1Iwu7HQ2jhp-nfYGgZXdLyadNlyVZk0B9y09-Bvcfr6zLKvJ0jQoVW85l6RGi_WdTgEjpBONk2eYhjVeqPK6O2lV5FiNIDIDT2ejdbqVnhGM8SWS0eOwCp4If9AjYsvXezU45FoAxmLl_BuBJVfPkgFW7rQVjYt8ZJUuDMdfvdHIYz4tOjpffRoY2u2LO_06l7KHvoadWdERNCzQxt8V7MpdezDQRzwmHpFp8lc_4pCPK6VpElwiQ&sig=Cg0ArKJSzPE2Kkg91c4n&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://bbcgoodfoodme.com/awards/2026/nomination/
+            - iframe [ref=f16e474]:
+              - link [ref=f25e2] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjssIor8r-sjx8llRwAJVJDVMDau0vtbR4aY1UBLGGuiMrtO6xsrrfNofVVZbvbJ9mFOvbzsKgY5d0Pr6jOVAxAYcdTh3XNbiqkBhkjeYp6fdyx_ccAwtUUJ0t2Zwsav6vHGY99sUrQuAASWNg5XvKCQXTZ0YbUdeispnfhcZtsifLDMsb3SK8xTIJKOh4StsLQcZ3g2IROimhwS-Rz7cb_lSheaakXSZde8Ir_I4IIv1ihSfRbc8qNG7mq3feYHcLYYib1AmF_JX0nbFubStjKvhPZh2qMABipYg995BzjQIvgRC14zsT5HVVSK7K7GLAmF_LZyw_PNRGuXeiGvceCsUKtyoxbLIdlt9lrc_-UGN7yak0eYIwSo0kEwrsHK1rS41KtLegOrjb0LxODL2CHNTng&sai=AMfl-YRHApEtH93F3QI1rnYjiwtdcCQ2PoqCtXe5tMlKJryZLTbwmwLNP1kE2m8Bww1VUcMFBG65La9bBTa4sCaYuH9x2NgUbXpYqVC1OxDIo3vVprCcIeHoMlSu4m5mYnRRLDJ3mme6BLeCU6EC1oH2mmCBVQL_Z0vG8KPxt2l9sWuILUPQyPf0uNKGyRRjdSbPfHGZe4CXkqZuWPKMENVaLYmerKmKh5JsR2EUhN3_qo7hV7BWG5lqmWU15cWZcugzfIAuPrYYE16bVZfX6I-2o9k8H4gpjHpUDzWfnwkMe07QvNHkQm_KB_KCY4xnSHew_0Mg7ZS0gCoI-hJOCKOCdVQ2X5WqM2wSrSH7T-vm9yOpbnqubA7JC7qAkEqD4ZD9F2k-wIRWPkjQIjE-CipgYw&sig=Cg0ArKJSzKLlQ-UXmPkg&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://bbcgoodfoodme.com/awards/abu-dhabi-2026/nomination/
+    - generic [ref=f16e477]:
+      - heading "Join the community" [level=1] [ref=f16e479]
+      - generic [ref=f16e480]:
+        - generic [ref=f16e481]: Subscribe to our newsletter for recipes, competitions, magazines and videos.
+        - link "Subscribe Now" [ref=f16e483] [cursor=pointer]:
+          - /url: https://www.bbcgoodfoodme.com/newsletter-subscription/
+    - contentinfo [ref=f16e484]:
+      - generic [ref=f16e487]:
+        - generic [ref=f16e488]:
+          - generic [ref=f16e489]:
+            - link [ref=f16e490] [cursor=pointer]:
+              - /url: https://www.bbcgoodfoodme.com
+              - img "Good Food Middle East" [ref=f16e491]
+            - generic [ref=f16e492]:
+              - link [ref=f16e493] [cursor=pointer]:
+                - /url: https://www.facebook.com/GoodFoodMiddleEast/
+                - img "Icon-sm-facebook" [ref=f16e494]
+              - link [ref=f16e495] [cursor=pointer]:
+                - /url: https://twitter.com/GoodFoodME
+                - img "Icon-sm-twitter" [ref=f16e496]
+              - link [ref=f16e497] [cursor=pointer]:
+                - /url: https://www.pinterest.com/goodfoodmiddleeast/
+                - img "Icon-sm-pinterest" [ref=f16e498]
+              - link [ref=f16e499] [cursor=pointer]:
+                - /url: https://www.instagram.com/goodfoodmiddleeast/
+                - img "Icon-sm-instagram" [ref=f16e500]
+              - link [ref=f16e501] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@goodfoodmiddleeast
+                - img "Icon-sm-tiktok" [ref=f16e502]
+          - paragraph [ref=f16e503]: © Immediate Media Company London Limited 2026 Good Food and the Good Food logo are unregistered trade marks of Immediate Media Company London Limited and used under licence. All rights reserved.
+          - paragraph [ref=f16e504]:
+            - text: For more information e-mail us at
+            - link "webmaster@cpimediagroup.com" [ref=f16e505] [cursor=pointer]:
+              - /url: mailto:webmaster@cpimediagroup.com
+          - paragraph [ref=f16e506]:
+            - link "Privacy Policy" [ref=f16e507] [cursor=pointer]:
+              - /url: /privacy-policy
+            - text: "|"
+            - link "More from CPI Websites" [ref=f16e508] [cursor=pointer]:
+              - /url: http://www.cpimediagroup.com/
+        - generic [ref=f16e510]:
+          - list [ref=f16e514]:
+            - listitem [ref=f16e515]:
+              - link "Home" [ref=f16e516] [cursor=pointer]:
+                - /url: https://www.bbcgoodfoodme.com/
+            - listitem [ref=f16e517]:
+              - link "Recipes" [ref=f16e518] [cursor=pointer]:
+                - /url: /recipes/
+          - list [ref=f16e522]:
+            - listitem [ref=f16e523]:
+              - link "Competitions" [ref=f16e524] [cursor=pointer]:
+                - /url: /competitions/
+            - listitem [ref=f16e525]:
+              - link "Magazine" [ref=f16e526] [cursor=pointer]:
+                - /url: /magazines/
+            - listitem [ref=f16e527]:
+              - link "Contact Good Food Middle East" [ref=f16e528] [cursor=pointer]:
+                - /url: https://www.bbcgoodfoodme.com/contactus/

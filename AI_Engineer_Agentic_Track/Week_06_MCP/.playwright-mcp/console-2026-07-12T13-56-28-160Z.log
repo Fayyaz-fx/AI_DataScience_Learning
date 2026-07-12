@@ -1,0 +1,3 @@
+[    1747ms] TypeError: Cannot read properties of null (reading 'addEventListener')
+    at https://www.allconferencealert.com/js/mobile.js?v=1.0:407:14
+    at https://www.allconferencealert.com/js/mobile.js?v=1.0:411:3

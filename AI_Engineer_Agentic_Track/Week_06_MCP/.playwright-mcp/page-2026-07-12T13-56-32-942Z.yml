@@ -1,0 +1,582 @@
+- generic [active] [ref=f16e1]:
+  - navigation [ref=f16e2]:
+    - generic [ref=f16e3]:
+      - link [ref=f16e5] [cursor=pointer]:
+        - /url: https://www.allconferencealert.com
+        - img "Logo" [ref=f16e6]
+      - generic [ref=f16e7]:
+        - link "Home" [ref=f16e8] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com
+        - link "About" [ref=f16e9] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/about
+        - link "Contact" [ref=f16e10] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/contact
+        - link "Subscribe" [ref=f16e11] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/subscribe
+        - link "FAQ" [ref=f16e12] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/faq
+        - link "Blog" [ref=f16e13] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/blog
+        - link "Journals" [ref=f16e14] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/journal
+        - link "Help" [ref=f16e15] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/help
+      - generic [ref=f16e16]:
+        - link "Login" [ref=f16e17] [cursor=pointer]:
+          - /url: https://www.allconferencealert.com/login
+        - button "Toggle dark mode" [ref=f16e18] [cursor=pointer]:
+          - text: 
+          - generic [ref=f16e19]: 
+        - text: 
+  - generic [ref=f16e20]:
+    - img "Conference Background" [ref=f16e22]
+    - generic [ref=f16e25]:
+      - generic [ref=f16e26]:
+        - heading "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)" [level=1] [ref=f16e28]
+        - generic [ref=f16e29]:
+          - generic [ref=f16e30]:
+            - generic [ref=f16e31]: 
+            - generic [ref=f16e32]: September 10, 2026
+          - generic [ref=f16e34]:
+            - generic [ref=f16e35]: 
+            - generic [ref=f16e36]: Belgrade, Serbia
+        - generic [ref=f16e39]:
+          - button " Save" [ref=f16e40] [cursor=pointer]:
+            - generic [ref=f16e41]: 
+            - generic [ref=f16e42]: Save
+          - button " Share" [ref=f16e43] [cursor=pointer]:
+            - generic [ref=f16e44]: 
+            - generic [ref=f16e45]: Share
+          - link " Register Now" [ref=f16e46] [cursor=pointer]:
+            - /url: https://wrfer.org/Conference/56586/ICRAMMHS/
+            - generic [ref=f16e47]: 
+            - generic [ref=f16e48]: Register Now
+      - generic [ref=f16e50]: 
+  - generic [ref=f16e51]:
+    - main [ref=f16e52]:
+      - generic [ref=f16e53]:
+        - generic [ref=f16e54]: Conference Details
+        - paragraph [ref=f16e56]: International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS), on 10th Sep 2026 at Belgrade, Serbia. ICRAMMHS is to bring together innovative academics and industrial experts in the field of Medical, Medicine and Health Sciences to a common forum. All the registered papers will be published by the World Research Library and will be submitted for review for indexing by Google Scholar etc. This Conference is sponsored by many International institutes. The conference would offer a large number of invited lectures from renowned speakers all over the country. The Best paper awards will be given for the papers judged to make the most significant contribution to the conference. This event will be organized by wrfer at the city of Belgrade, Serbia.
+        - generic [ref=f16e57]:
+          - link " Register Here" [ref=f16e58] [cursor=pointer]:
+            - /url: https://wrfer.org/Conference/56586/ICRAMMHS/
+            - generic [ref=f16e59]: 
+            - text: Register Here
+          - button " Save to Watchlist" [ref=f16e60] [cursor=pointer]:
+            - generic [ref=f16e61]: 
+            - text: Save to Watchlist
+          - button " Write a Review" [ref=f16e62] [cursor=pointer]:
+            - generic [ref=f16e63]: 
+            - text: Write a Review
+          - button " Contact Organizer" [ref=f16e64] [cursor=pointer]:
+            - generic [ref=f16e65]: 
+            - text: Contact Organizer
+      - generic [ref=f16e67]:
+        - generic [ref=f16e68]:
+          - generic [ref=f16e69]:
+            - generic [ref=f16e70]: 
+            - generic [ref=f16e72]: Key information
+          - generic [ref=f16e73]:
+            - generic [ref=f16e74]:
+              - generic [ref=f16e75]:
+                - generic [ref=f16e76]: 
+                - generic [ref=f16e77]: Event status
+              - generic [ref=f16e78]: Active
+            - generic [ref=f16e79]:
+              - generic [ref=f16e80]:
+                - generic [ref=f16e81]: 
+                - generic [ref=f16e82]: Organizer
+              - generic [ref=f16e83]: wrfer
+            - generic [ref=f16e84]:
+              - generic [ref=f16e85]:
+                - generic [ref=f16e86]: 
+                - generic [ref=f16e87]: Registration Fee
+              - generic [ref=f16e88]: 200 - 400 USD
+            - generic [ref=f16e89]:
+              - generic [ref=f16e90]:
+                - generic [ref=f16e91]: 
+                - generic [ref=f16e92]: Email
+              - link "contact.wrfer@gmail.com" [ref=f16e93] [cursor=pointer]:
+                - /url: mailto:contact.wrfer@gmail.com
+        - generic [ref=f16e94]:
+          - generic [ref=f16e95]:
+            - generic [ref=f16e96]: 
+            - generic [ref=f16e98]: Important dates
+          - generic [ref=f16e99]:
+            - generic [ref=f16e100]:
+              - generic [ref=f16e101]:
+                - generic [ref=f16e102]: 
+                - generic [ref=f16e104]: Abstract deadline
+              - generic [ref=f16e105]: 2026-08-26
+            - generic [ref=f16e106]:
+              - generic [ref=f16e107]:
+                - generic [ref=f16e108]: 
+                - generic [ref=f16e110]: Conference start
+              - generic [ref=f16e111]: 2026-09-10
+            - generic [ref=f16e112]:
+              - generic [ref=f16e113]:
+                - generic [ref=f16e114]: 
+                - generic [ref=f16e116]: Conference end
+              - generic [ref=f16e117]: 2026-09-11
+      - generic [ref=f16e118]:
+        - generic [ref=f16e119]:
+          - generic [ref=f16e120]: 
+          - text: Add to Calendar
+        - generic [ref=f16e121]:
+          - link " Google" [ref=f16e122] [cursor=pointer]:
+            - /url: https://www.google.com/calendar/render?action=TEMPLATE&text=International+Conference+on+Recent+Advances+in+Medical%2C+Medicine+and+Health+Sciences+%28ICRAMMHS%29&dates=20260910T000000Z/20260911T000000Z&details=Join+us+for+this+event+to+explore+innovative+teaching+methods.&location=Belgrade%2C+Serbia&sf=true&output=xml
+            - generic [ref=f16e123]: 
+            - generic [ref=f16e124]: Google
+          - link " Yahoo" [ref=f16e125] [cursor=pointer]:
+            - /url: https://calendar.yahoo.com/?v=60&view=d&type=20&title=International+Conference+on+Recent+Advances+in+Medical%2C+Medicine+and+Health+Sciences+%28ICRAMMHS%29&st=20260910T000000&et=20260911T000000&desc=Join+us+for+this+event+to+explore+innovative+teaching+methods.&in_loc=Belgrade%2C+Serbia
+            - generic [ref=f16e126]: 
+            - generic [ref=f16e127]: Yahoo
+          - link " Outlook" [ref=f16e128] [cursor=pointer]:
+            - /url: https://outlook.live.com/owa/?rru=addevent&startdt=20260910T000000Z&enddt=20260911T000000Z&subject=International+Conference+on+Recent+Advances+in+Medical%2C+Medicine+and+Health+Sciences+%28ICRAMMHS%29&location=Belgrade%2C+Serbia&body=Join+us+for+this+event+to+explore+innovative+teaching+methods.&allday=false&uid=6a539d0d199bd
+            - generic [ref=f16e129]: 
+            - generic [ref=f16e130]: Outlook
+        - separator [ref=f16e131]
+        - generic [ref=f16e132]:
+          - generic [ref=f16e133]: 
+          - text: Share Conference
+          - generic [ref=f16e134]:
+            - link " Facebook" [ref=f16e135] [cursor=pointer]:
+              - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.allconferencealert.com%2Fevent%2F2071232
+              - generic [ref=f16e136]: 
+              - generic [ref=f16e137]: Facebook
+            - link " WhatsApp" [ref=f16e138] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send?text=%F0%9F%93%A2+International+Conference+on+Recent+Advances+in+Medical%2C+Medicine+and+Health+Sciences+%28ICRAMMHS%29+-+https%3A%2F%2Fwww.allconferencealert.com%2Fevent%2F2071232
+              - generic [ref=f16e139]: 
+              - generic [ref=f16e140]: WhatsApp
+            - link " LinkedIn" [ref=f16e141] [cursor=pointer]:
+              - /url: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.allconferencealert.com%2Fevent%2F2071232&title=International+Conference+on+Recent+Advances+in+Medical%2C+Medicine+and+Health+Sciences+%28ICRAMMHS%29
+              - generic [ref=f16e142]: 
+              - generic [ref=f16e143]: LinkedIn
+            - button " Copy Link" [ref=f16e144] [cursor=pointer]:
+              - generic [ref=f16e145]: 
+              - generic [ref=f16e146]: Copy Link
+          - separator [ref=f16e147]
+          - generic [ref=f16e148]:
+            - generic [ref=f16e149]: Follow Us
+            - generic [ref=f16e150]:
+              - link " Facebook" [ref=f16e151] [cursor=pointer]:
+                - /url: https://www.facebook.com/pages/allconferencealertcom/323565867774881
+                - generic [ref=f16e152]: 
+                - generic [ref=f16e153]: Facebook
+              - link " X / Twitter" [ref=f16e154] [cursor=pointer]:
+                - /url: https://twitter.com/AllConefernce
+                - generic [ref=f16e155]: 
+                - generic [ref=f16e156]: X / Twitter
+              - link " Instagram" [ref=f16e157] [cursor=pointer]:
+                - /url: https://www.instagram.com/allconferencealertt/
+                - generic [ref=f16e158]: 
+                - generic [ref=f16e159]: Instagram
+              - link " LinkedIn" [ref=f16e160] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/allconferencealertofficial
+                - generic [ref=f16e161]: 
+                - generic [ref=f16e162]: LinkedIn
+              - link " YouTube" [ref=f16e163] [cursor=pointer]:
+                - /url: https://www.youtube.com/@allconferencealert-com
+                - generic [ref=f16e164]: 
+                - generic [ref=f16e165]: YouTube
+              - link " Telegram" [ref=f16e166] [cursor=pointer]:
+                - /url: https://t.me/allconferencealertt
+                - generic [ref=f16e167]: 
+                - text: Telegram
+              - link " Wikipedia" [ref=f16e168] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Academic_conference
+                - generic [ref=f16e169]: 
+                - generic [ref=f16e170]: Wikipedia
+      - text:      
+      - generic [ref=f16e172]:
+        - generic [ref=f16e173]:
+          - button "Physical Schedule" [ref=f16e174] [cursor=pointer]
+          - button "Virtual Schedule" [ref=f16e175] [cursor=pointer]
+        - generic [ref=f16e177]:
+          - generic [ref=f16e178]:
+            - generic [ref=f16e179]: 08:30 AM – 09:30 AM
+            - generic [ref=f16e180]: On-Site Check-In & Welcome
+          - generic [ref=f16e181]:
+            - generic [ref=f16e182]: 09:30 AM – 10:00 AM
+            - generic [ref=f16e183]: Inaugural Address by Conference Host
+          - generic [ref=f16e184]:
+            - generic [ref=f16e185]: 10:00 AM – 10:30 AM
+            - generic [ref=f16e186]: Coffee Break
+          - generic [ref=f16e187]:
+            - generic [ref=f16e188]: 10:30 AM – 11:00 AM
+            - generic [ref=f16e189]: Keynote Sessions and Expert Lectures
+          - generic [ref=f16e190]:
+            - generic [ref=f16e191]: 11:00 AM – 01:30 PM
+            - generic [ref=f16e192]: Technical Session / Presentations
+          - generic [ref=f16e193]:
+            - generic [ref=f16e194]: 01:30 PM – 02:30 PM
+            - generic [ref=f16e195]: Networking Lunch
+          - generic [ref=f16e196]:
+            - generic [ref=f16e197]: 03:00 PM – 03:15 PM
+            - generic [ref=f16e198]: Closing Ceremony & Certificates / Awards
+      - generic [ref=f16e199]:
+        - generic [ref=f16e200]:
+          - button " Organizing Committee" [ref=f16e201] [cursor=pointer]:
+            - generic [ref=f16e202]: 
+            - text: Organizing Committee
+          - button " Keynote Speakers" [ref=f16e203] [cursor=pointer]:
+            - generic [ref=f16e204]: 
+            - text: Keynote Speakers
+          - button " Organizer Information" [ref=f16e205] [cursor=pointer]:
+            - generic [ref=f16e206]: 
+            - text: Organizer Information
+        - generic [ref=f16e208]:
+          - generic [ref=f16e209]: Organizing Committee
+          - generic [ref=f16e210]:
+            - generic [ref=f16e212]:
+              - img "Prof. Farzaneh Haratyan" [ref=f16e213]
+              - heading "Prof. Farzaneh Haratyan" [level=4] [ref=f16e214]
+              - paragraph [ref=f16e215]: Committee Member
+              - paragraph [ref=f16e216]: Associate Professor School of English, Jilin International Studies University (JISU) Changchun. Jilin, China
+            - generic [ref=f16e218]:
+              - img "Neema Kumari" [ref=f16e219]
+              - heading "Neema Kumari" [level=4] [ref=f16e220]
+              - paragraph [ref=f16e221]: Committee Member
+              - paragraph [ref=f16e222]: Co-Founder, Capitalist Health (Information-Based Platform)
+            - generic [ref=f16e224]:
+              - img "Mehdi Zolfaghari" [ref=f16e225]
+              - heading "Mehdi Zolfaghari" [level=4] [ref=f16e226]
+              - paragraph [ref=f16e227]: Committee Member
+              - paragraph [ref=f16e228]: Department of Economic Sciences, Faculty of Management and Economics Tarbiat Modares University, Jalal AleAhmad Nasr, Tehran, Iran
+      - text:        
+    - complementary [ref=f16e229]:
+      - group [ref=f16e231]:
+        - generic "Map Venue Map & Location " [ref=f16e232] [cursor=pointer]:
+          - generic [ref=f16e233]:
+            - img "Map" [ref=f16e234]
+            - generic [ref=f16e235]: Venue Map & Location
+          - generic [ref=f16e236]: 
+        - generic [ref=f16e237]:
+          - iframe [ref=f16e239]:
+            - generic [ref=f17e1]:
+              - link "Open in Maps (opens in new tab)" [ref=f17e4] [cursor=pointer]:
+                - /url: about:invalid#zClosurez
+                - text: Open in Maps
+              - generic [ref=f17e9]:
+                - region "Map" [ref=f17e10]
+                - iframe [ref=f17e24]:
+                  
+          - paragraph [ref=f16e240]: 📍
+      - generic [ref=f16e241]:
+        - generic [ref=f16e242]:
+          - generic [ref=f16e243]: 
+          - text: QR Code Download
+        - generic [ref=f16e245]:
+          - img "Conference Logo" [ref=f16e246]
+          - generic [ref=f16e249]: International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)
+          - heading "Belgrade, Serbia September 10, 2026" [level=3] [ref=f16e250]
+          - paragraph [ref=f16e251]: Scan to view this event
+          - paragraph [ref=f16e252]: Allconferencealert.com
+          - button " Download QR" [ref=f16e253] [cursor=pointer]:
+            - generic [ref=f16e254]: 
+            - text: Download QR
+      - generic [ref=f16e257]:
+        - generic [ref=f16e258]:
+          - generic [ref=f16e259]: Similar Events
+          - paragraph [ref=f16e260]: Discover events matching your interest
+        - generic [ref=f16e261]:
+          - link "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)  10 Oct 2026  Belgrade, Serbia View Details →" [ref=f16e262] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/event/2071243
+            - generic [ref=f16e264]:
+              - heading "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)" [level=4] [ref=f16e265]
+              - generic [ref=f16e266]:
+                - generic [ref=f16e267]:
+                  - generic [ref=f16e268]: 
+                  - generic [ref=f16e270]: 10 Oct 2026
+                - generic [ref=f16e271]:
+                  - generic [ref=f16e272]: 
+                  - generic [ref=f16e274]: Belgrade, Serbia
+              - generic [ref=f16e275]: View Details →
+          - link "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)  10 Nov 2026  Belgrade, Serbia View Details →" [ref=f16e277] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/event/2071254
+            - generic [ref=f16e279]:
+              - heading "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)" [level=4] [ref=f16e280]
+              - generic [ref=f16e281]:
+                - generic [ref=f16e282]:
+                  - generic [ref=f16e283]: 
+                  - generic [ref=f16e285]: 10 Nov 2026
+                - generic [ref=f16e286]:
+                  - generic [ref=f16e287]: 
+                  - generic [ref=f16e289]: Belgrade, Serbia
+              - generic [ref=f16e290]: View Details →
+          - link "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)  10 Dec 2026  Belgrade, Serbia View Details →" [ref=f16e292] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/event/2071265
+            - generic [ref=f16e294]:
+              - heading "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)" [level=4] [ref=f16e295]
+              - generic [ref=f16e296]:
+                - generic [ref=f16e297]:
+                  - generic [ref=f16e298]: 
+                  - generic [ref=f16e300]: 10 Dec 2026
+                - generic [ref=f16e301]:
+                  - generic [ref=f16e302]: 
+                  - generic [ref=f16e304]: Belgrade, Serbia
+              - generic [ref=f16e305]: View Details →
+          - link "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)  10 Jan 2027  Belgrade, Serbia View Details →" [ref=f16e307] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/event/2071276
+            - generic [ref=f16e309]:
+              - heading "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)" [level=4] [ref=f16e310]
+              - generic [ref=f16e311]:
+                - generic [ref=f16e312]:
+                  - generic [ref=f16e313]: 
+                  - generic [ref=f16e315]: 10 Jan 2027
+                - generic [ref=f16e316]:
+                  - generic [ref=f16e317]: 
+                  - generic [ref=f16e319]: Belgrade, Serbia
+              - generic [ref=f16e320]: View Details →
+          - link "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)  10 Feb 2027  Belgrade, Serbia View Details →" [ref=f16e322] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/event/2071287
+            - generic [ref=f16e324]:
+              - heading "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)" [level=4] [ref=f16e325]
+              - generic [ref=f16e326]:
+                - generic [ref=f16e327]:
+                  - generic [ref=f16e328]: 
+                  - generic [ref=f16e330]: 10 Feb 2027
+                - generic [ref=f16e331]:
+                  - generic [ref=f16e332]: 
+                  - generic [ref=f16e334]: Belgrade, Serbia
+              - generic [ref=f16e335]: View Details →
+      - generic [ref=f16e338]:
+        - generic [ref=f16e340]:
+          - generic [ref=f16e341]: 
+          - text: Related Conferences
+        - generic [ref=f16e342]:
+          - link " Conference in Belgrade" [ref=f16e343] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade
+            - generic [ref=f16e344]: 
+            - generic [ref=f16e345]: Conference in Belgrade
+          - link " Conference in Serbia" [ref=f16e346] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia
+            - generic [ref=f16e347]: 
+            - generic [ref=f16e348]: Conference in Serbia
+          - link " IEEE Conference in Serbia" [ref=f16e349] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia/ieee
+            - generic [ref=f16e350]: 
+            - generic [ref=f16e351]: IEEE Conference in Serbia
+          - link " IEEE Conference in Belgrade" [ref=f16e352] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade/ieee
+            - generic [ref=f16e353]: 
+            - generic [ref=f16e354]: IEEE Conference in Belgrade
+          - link " Award Shows Conference in Serbia" [ref=f16e355] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia/award-shows
+            - generic [ref=f16e356]: 
+            - generic [ref=f16e357]: Award Shows Conference in Serbia
+          - link " Award Shows Conference in Belgrade" [ref=f16e358] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade/award-shows
+            - generic [ref=f16e359]: 
+            - generic [ref=f16e360]: Award Shows Conference in Belgrade
+          - link " Agriculture Conference in Serbia" [ref=f16e361] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia/agriculture
+            - generic [ref=f16e362]: 
+            - generic [ref=f16e363]: Agriculture Conference in Serbia
+          - link " Agriculture Conference in Belgrade" [ref=f16e364] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade/agriculture
+            - generic [ref=f16e365]: 
+            - generic [ref=f16e366]: Agriculture Conference in Belgrade
+          - link " Health Conference in Serbia" [ref=f16e367] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia/health
+            - generic [ref=f16e368]: 
+            - generic [ref=f16e369]: Health Conference in Serbia
+          - link " Health Conference in Belgrade" [ref=f16e370] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade/health
+            - generic [ref=f16e371]: 
+            - generic [ref=f16e372]: Health Conference in Belgrade
+          - link " Medicine Conference in Serbia" [ref=f16e373] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia/medicine
+            - generic [ref=f16e374]: 
+            - generic [ref=f16e375]: Medicine Conference in Serbia
+          - link " Medicine Conference in Belgrade" [ref=f16e376] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade/medicine
+            - generic [ref=f16e377]: 
+            - generic [ref=f16e378]: Medicine Conference in Belgrade
+          - link " Ent Conference in Serbia" [ref=f16e379] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia/ent
+            - generic [ref=f16e380]: 
+            - generic [ref=f16e381]: Ent Conference in Serbia
+          - link " Ent Conference in Belgrade" [ref=f16e382] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade/ent
+            - generic [ref=f16e383]: 
+            - generic [ref=f16e384]: Ent Conference in Belgrade
+          - link " Medical Conference in Serbia" [ref=f16e385] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/serbia/medical
+            - generic [ref=f16e386]: 
+            - generic [ref=f16e387]: Medical Conference in Serbia
+          - link " Medical Conference in Belgrade" [ref=f16e388] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com/belgrade/medical
+            - generic [ref=f16e389]: 
+            - generic [ref=f16e390]: Medical Conference in Belgrade
+      - generic [ref=f16e391]:
+        - generic [ref=f16e392]:
+          - generic [ref=f16e393]:
+            - generic [ref=f16e394]: 
+            - text: Event Actions
+          - paragraph [ref=f16e395]: Help improve listing quality or manage your event
+        - generic [ref=f16e396]:
+          - link " Report this event" [ref=f16e397] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=f16e398]:
+              - generic [ref=f16e399]: 
+              - generic [ref=f16e400]: Report this event
+          - link " Claim this event" [ref=f16e401] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=f16e402]:
+              - generic [ref=f16e403]: 
+              - generic [ref=f16e404]: Claim this event
+  - text:           
+  - contentinfo [ref=f16e405]:
+    - generic [ref=f16e406]:
+      - generic [ref=f16e407]:
+        - generic [ref=f16e408]:
+          - link [ref=f16e409] [cursor=pointer]:
+            - /url: https://www.allconferencealert.com
+            - img "Logo" [ref=f16e410]
+          - paragraph [ref=f16e411]: The leading global platform for academics, researchers, and professionals to discover and register for, and promote conferences worldwide.
+        - generic [ref=f16e412]:
+          - heading "Quick Links" [level=4] [ref=f16e413]
+          - list [ref=f16e414]:
+            - listitem [ref=f16e415]:
+              - link "About" [ref=f16e416] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/about
+            - listitem [ref=f16e417]:
+              - link "Terms Of Use" [ref=f16e418] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/terms-of-use
+            - listitem [ref=f16e419]:
+              - link "Cookie Policy" [ref=f16e420] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/cookie-policy
+            - listitem [ref=f16e421]:
+              - link "Privacy Policy" [ref=f16e422] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/privacy-policy
+            - listitem [ref=f16e423]:
+              - link "Conference Alerts" [ref=f16e424] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/what-is-conference-alerts
+            - listitem [ref=f16e425]:
+              - link "Subscribe" [ref=f16e426] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/subscribe
+            - listitem [ref=f16e427]:
+              - link "Verification Policy" [ref=f16e428] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/verification-policy
+            - listitem [ref=f16e429]:
+              - link "Think. Check. Attend" [ref=f16e430] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/think-check-attend
+            - listitem [ref=f16e431]:
+              - link "Sitemap" [ref=f16e432] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/sitemap
+            - listitem [ref=f16e433]:
+              - link "Careers" [ref=f16e434] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/careers
+        - generic [ref=f16e435]:
+          - heading "Browse" [level=4] [ref=f16e436]
+          - list [ref=f16e437]:
+            - listitem [ref=f16e438]:
+              - link "Contact Us" [ref=f16e439] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/contact
+            - listitem [ref=f16e440]:
+              - link "F.A.Q." [ref=f16e441] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/faq
+            - listitem [ref=f16e442]:
+              - link "Help" [ref=f16e443] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/help
+            - listitem [ref=f16e444]:
+              - link "Blog" [ref=f16e445] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/blog/
+            - listitem [ref=f16e446]:
+              - link "Conference Partner" [ref=f16e447] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/conference-partner
+            - listitem [ref=f16e448]:
+              - link "Journals" [ref=f16e449] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/journal
+            - listitem [ref=f16e450]:
+              - link "All Events" [ref=f16e451] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/allevents
+            - listitem [ref=f16e452]:
+              - link "Webinar" [ref=f16e453] [cursor=pointer]:
+                - /url: https://www.allconferencealert.com/webinar
+        - generic [ref=f16e454]:
+          - heading "Get in Touch" [level=4] [ref=f16e455]
+          - list [ref=f16e456]:
+            - listitem [ref=f16e457]:
+              - generic [ref=f16e458]: 
+              - generic [ref=f16e459]: Block-A, ITR Building, Khandagiri, Bhubaneswar, Odisha 751030
+            - listitem [ref=f16e460]:
+              - generic [ref=f16e461]: 
+              - text: Email For support & sales info@allconferencealert.com
+            - listitem [ref=f16e462]:
+              - generic [ref=f16e463]: 
+              - text: +91 8093243939
+            - listitem [ref=f16e464]:
+              - link " Facebook" [ref=f16e465] [cursor=pointer]:
+                - /url: https://www.facebook.com/pages/allconferencealertcom/323565867774881
+                - generic [ref=f16e466]: 
+                - text: Facebook
+            - listitem [ref=f16e467]:
+              - link " Twitter" [ref=f16e468] [cursor=pointer]:
+                - /url: https://twitter.com/AllConefernce
+                - generic [ref=f16e469]: 
+                - text: Twitter
+            - listitem [ref=f16e470]:
+              - link " Linkedin" [ref=f16e471] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/allconferencealertofficial
+                - generic [ref=f16e472]: 
+                - text: Linkedin
+            - listitem [ref=f16e473]:
+              - link " youtube" [ref=f16e474] [cursor=pointer]:
+                - /url: https://www.youtube.com/@allconferencealert-com
+                - generic [ref=f16e475]: 
+                - text: youtube
+            - listitem [ref=f16e476]:
+              - link " wikipedia" [ref=f16e477] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Academic_conference
+                - generic [ref=f16e478]: 
+                - text: wikipedia
+            - listitem [ref=f16e479]:
+              - link " instagram" [ref=f16e480] [cursor=pointer]:
+                - /url: https://www.instagram.com/allconferencealertt/
+                - generic [ref=f16e481]: 
+                - text: instagram
+            - listitem [ref=f16e482]:
+              - link " telegram" [ref=f16e483] [cursor=pointer]:
+                - /url: https://t.me/allconferencealertt
+                - generic [ref=f16e484]: 
+                - text: telegram
+      - generic [ref=f16e485]:
+        - paragraph [ref=f16e487]: © 2026 All Conference Alert. All Rights Reserved.
+        - generic [ref=f16e490]:
+          - generic [ref=f16e491]:
+            - link "All Conference Alert Facebook Business Page" [ref=f16e492] [cursor=pointer]:
+              - /url: https://www.facebook.com/pages/allconferencealertcom/323565867774881
+              - generic [ref=f16e493]: 
+            - link "All Conference Alert Twitter Business Page" [ref=f16e494] [cursor=pointer]:
+              - /url: https://twitter.com/AllConefernce
+              - generic [ref=f16e495]: 
+            - link "All Conference Alert Linkedin Business Page" [ref=f16e496] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/allconferencealertofficial
+              - generic [ref=f16e497]: 
+            - link "All Conference Alert YouTube Page" [ref=f16e498] [cursor=pointer]:
+              - /url: https://www.youtube.com/@allconferencealert-com
+              - generic [ref=f16e499]: 
+            - link "Academic Conference Wikipedia Page" [ref=f16e500] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Academic_conference
+              - generic [ref=f16e501]: 
+            - link "All Conference Alert Instagram Page" [ref=f16e502] [cursor=pointer]:
+              - /url: https://www.instagram.com/allconferencealertt/
+              - generic [ref=f16e503]: 
+            - link "All Conference Alert Telegram Page" [ref=f16e504] [cursor=pointer]:
+              - /url: https://t.me/allconferencealertt
+              - generic [ref=f16e505]: 
+          - generic [ref=f16e506]:
+            - link " Follow" [ref=f16e507] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - generic [ref=f16e508]: 
+              - generic [ref=f16e509]: Follow
+            - link " Share" [ref=f16e510] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - generic [ref=f16e511]: 
+              - generic [ref=f16e512]: Share
+  - iframe [ref=f16e515]:
+    - generic [ref=f18e6]:
+      - text: protected by
+      - strong [ref=f18e7]: reCAPTCHA

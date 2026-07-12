@@ -1,0 +1,11 @@
+[     799ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.epicurious.com/recipes/food/views/banoffee-pie-51163450:0
+[     853ms] [INFO] SDK loading skipped - missing requirements: {hasClientSdkKey: true, hasApiHost: true, enableClient: true, hasExpId: false} @ https://www.epicurious.com/recipes/food/views/banoffee-pie-51163450:1453
+[    3956ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202607070101/pubads_impl.js?cb=31099614:18
+[    4611ms] [ERROR] Access to fetch at 'https://4d.condenastdigital.com/user?xid=a773eb42-8c07-466e-b41d-8d661843bed2' from origin 'https://www.epicurious.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.epicurious.com/recipes/food/views/banoffee-pie-51163450:0
+[    4611ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://4d.condenastdigital.com/user?xid=a773eb42-8c07-466e-b41d-8d661843bed2:0
+[    6509ms] [WARNING] [ hotzones ads plugin 4d ] XID not propagated for  www.them.us Event @ https://ads-static.conde.digital/production/cns/builds/condenast/pixelpropagate.min.js:0
+[    6512ms] Uncaught (in promise) undefined
+    at beacon.onerror (https://ads-static.conde.digital/production/cns/builds/condenast/pixelpropagate.min.js:0:1785)
+[    8439ms] [WARNING] [Meta Pixel] - Removed parameters from custom data due to potential violations. Go to Events Manager to learn more. @ https://connect.facebook.net/en_US/fbevents.js:187
+[   10515ms] [LOG] FunnelRelay:: TypeError: Cannot read properties of undefined (reading 'keywords') @ https://cdn-magiclinks.trackonomics.net/client/static/v2/condenast_eujdmc753_epicurious.js:1

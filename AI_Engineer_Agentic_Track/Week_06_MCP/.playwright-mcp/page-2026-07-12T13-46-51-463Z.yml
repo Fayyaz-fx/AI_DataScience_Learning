@@ -1,0 +1,164 @@
+- generic [active] [ref=f42e1]:
+  - generic:
+    - generic:
+      - text: ✓
+      - status [ref=f42e2]
+  - generic [ref=f42e5]:
+    - link "Skip to main content" [ref=f42e6] [cursor=pointer]:
+      - /url: "#main-content"
+    - generic:
+      - complementary
+    - banner [ref=f42e8]:
+      - generic [ref=f42e9]:
+        - generic [ref=f42e10]:
+          - link [ref=f42e13] [cursor=pointer]:
+            - /url: /
+            - img "Epicurious" [ref=f42e15]
+          - generic [ref=f42e16]:
+            - navigation "Utility" [ref=f42e17]:
+              - list [ref=f42e18]:
+                - listitem [ref=f42e19]:
+                  - link "Newsletter" [ref=f42e20] [cursor=pointer]:
+                    - /url: /newsletter
+            - link "Sign In" [ref=f42e22] [cursor=pointer]:
+              - /url: /auth/initiate?redirectURL=%2Frecipes%2Ffood%2Fviews%2Fbanoffee-pie-51163450&source=VERSO_NAVIGATION
+        - generic [ref=f42e23]:
+          - navigation "Primary" [ref=f42e26]:
+            - list [ref=f42e27]:
+              - listitem [ref=f42e28] [cursor=pointer]:
+                - link "Recipes":
+                  - /url: /recipes-menus
+                - img "Chevron" [ref=f42e29]
+              - listitem [ref=f42e31] [cursor=pointer]:
+                - link "Ingredients":
+                  - /url: /ingredients
+                - img "Chevron" [ref=f42e32]
+              - listitem [ref=f42e34] [cursor=pointer]:
+                - link "Occasions":
+                  - /url: /holidays-events
+                - img "Chevron" [ref=f42e35]
+              - listitem [ref=f42e37] [cursor=pointer]:
+                - link "Kitchen Gear":
+                  - /url: /shopping
+                - img "Chevron" [ref=f42e38]
+              - listitem [ref=f42e40]:
+                - link "Techniques" [ref=f42e41] [cursor=pointer]:
+                  - /url: /expert-advice
+          - generic [ref=f42e45]:
+            - searchbox "search" [ref=f42e49]
+            - img "Search" [ref=f42e50]
+    - generic:
+      - complementary
+    - main [ref=f42e53]:
+      - generic [ref=f42e58]:
+        - generic "UtilityPageHeader" [ref=f42e59]:
+          - generic [ref=f42e60]:
+            - heading "Don't Cry!" [level=1] [ref=f42e61]
+            - heading "The page you're looking for isn't here. Hit up our homepage for some delicious recipe ideas. We'll clean up the spill." [level=2] [ref=f42e62]
+        - generic [ref=f42e63]: "Status Code: 404"
+        - link "Go to our homepage" [ref=f42e64] [cursor=pointer]:
+          - /url: /
+    - contentinfo [ref=f42e69]:
+      - generic [ref=f42e70]:
+        - generic [ref=f42e71]:
+          - link [ref=f42e73] [cursor=pointer]:
+            - /url: /
+            - img "Epicurious" [ref=f42e76]
+          - generic [ref=f42e77]: Since 1995, Epicurious has been the ultimate food resource for the home cook, with daily kitchen tips, fun cooking videos, and, oh yeah, over 33,000 recipes.
+          - list [ref=f42e80]:
+            - listitem [ref=f42e81]:
+              - link "Follow us on Facebook" [ref=f42e82] [cursor=pointer]:
+                - /url: https://www.facebook.com/epicurious
+                - img "Facebook" [ref=f42e85]
+            - listitem [ref=f42e87]:
+              - link "Follow us on X" [ref=f42e88] [cursor=pointer]:
+                - /url: https://twitter.com/epicurious
+                - img "X" [ref=f42e91]
+            - listitem [ref=f42e93]:
+              - link "Follow us on Pinterest" [ref=f42e94] [cursor=pointer]:
+                - /url: https://pinterest.com/epicurious/
+                - img "Pinterest" [ref=f42e97]
+            - listitem [ref=f42e99]:
+              - link "Follow us on YouTube" [ref=f42e100] [cursor=pointer]:
+                - /url: https://youtube.com/user/epicuriousdotcom
+                - img "YouTube" [ref=f42e103]
+            - listitem [ref=f42e105]:
+              - link "Follow us on Instagram" [ref=f42e106] [cursor=pointer]:
+                - /url: https://www.instagram.com/epicurious/
+                - img "Instagram" [ref=f42e109]
+        - navigation "More from Epicurious" [ref=f42e111]:
+          - paragraph [ref=f42e112]: More from Epicurious
+          - list [ref=f42e113]:
+            - listitem [ref=f42e114]:
+              - link "About Us" [ref=f42e115] [cursor=pointer]:
+                - /url: https://www.epicurious.com/about/about-us
+            - listitem [ref=f42e116]:
+              - link "The Epicurious App" [ref=f42e117] [cursor=pointer]:
+                - /url: " https://apps.apple.com/us/app/epicurious/id312101965"
+            - listitem [ref=f42e118]:
+              - link "Newsletters" [ref=f42e119] [cursor=pointer]:
+                - /url: /newsletters
+            - listitem [ref=f42e120]:
+              - link "Subscribe" [ref=f42e121] [cursor=pointer]:
+                - /url: https://www.epicurious.com/subscribe
+            - listitem [ref=f42e122]:
+              - link "Subscription FAQs" [ref=f42e123] [cursor=pointer]:
+                - /url: /info/epicurious-user-help-article
+            - listitem [ref=f42e124]:
+              - link "Gift Guides" [ref=f42e125] [cursor=pointer]:
+                - /url: https://www.epicurious.com/collection/gift-ideas-hub
+        - navigation "Connect" [ref=f42e126]:
+          - paragraph [ref=f42e127]: Connect
+          - list [ref=f42e128]:
+            - listitem [ref=f42e129]:
+              - link "Careers" [ref=f42e130] [cursor=pointer]:
+                - /url: http://www.condenast.com/careers
+            - listitem [ref=f42e131]:
+              - link "Press Center" [ref=f42e132] [cursor=pointer]:
+                - /url: /info/press-center
+            - listitem [ref=f42e133]:
+              - link "Advertising" [ref=f42e134] [cursor=pointer]:
+                - /url: https://www.condenast.com/brands/epicurious/
+            - listitem [ref=f42e135]:
+              - link "Masthead" [ref=f42e136] [cursor=pointer]:
+                - /url: /info/masthead
+            - listitem [ref=f42e137]:
+              - link "Contact Us" [ref=f42e138] [cursor=pointer]:
+                - /url: https://www.epicurious.com/info/contact-us
+        - generic [ref=f42e140]:
+          - navigation "Notices" [ref=f42e141]:
+            - list [ref=f42e142]:
+              - listitem [ref=f42e143]:
+                - link "User Agreement" [ref=f42e144] [cursor=pointer]:
+                  - /url: https://www.condenast.com/user-agreement/
+              - listitem [ref=f42e145]:
+                - text: "|"
+                - link "Privacy Policy" [ref=f42e146] [cursor=pointer]:
+                  - /url: http://www.condenast.com/privacy-policy#privacypolicy
+              - listitem [ref=f42e147]:
+                - text: "|"
+                - link "Your California Privacy Rights" [ref=f42e148] [cursor=pointer]:
+                  - /url: http://www.condenast.com/privacy-policy#privacypolicy-california
+              - listitem [ref=f42e149]:
+                - text: "|"
+                - link "Accessibility Help" [ref=f42e150] [cursor=pointer]:
+                  - /url: /expert-advice/accessibility-help-article
+              - listitem [ref=f42e151]:
+                - text: "|"
+                - link "Condé Nast Store" [ref=f42e152] [cursor=pointer]:
+                  - /url: http://www.condenaststore.com/
+              - listitem [ref=f42e153]:
+                - text: "|"
+                - link "Site Map" [ref=f42e154] [cursor=pointer]:
+                  - /url: /sitemap
+              - listitem [ref=f42e155]:
+                - text: "|"
+                - button "Privacy Information" [ref=f42e169] [cursor=pointer]
+          - paragraph [ref=f42e171]:
+            - text: © 2026 Condé Nast. All rights reserved.
+            - emphasis [ref=f42e172]: Epicurious
+            - text: may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+            - link "Ad Choices" [ref=f42e173] [cursor=pointer]:
+              - /url: http://www.aboutads.info
+          - paragraph [ref=f42e175]: Food Innovation Group
+  - region "Live chat"

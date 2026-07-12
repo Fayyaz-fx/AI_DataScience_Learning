@@ -1,0 +1,213 @@
+- generic [ref=f16e4]:
+  - generic [ref=f16e5]:
+    - banner [ref=f16e7]:
+      - navigation "BBC" [ref=f16e8]:
+        - generic [ref=f16e10]:
+          - link "BBC Homepage" [ref=f16e12] [cursor=pointer]:
+            - /url: https://www.bbc.com
+          - generic:
+            - list:
+              - listitem:
+                - link "Skip to content" [ref=f16e17] [cursor=pointer]:
+                  - /url: "#main-heading"
+              - listitem:
+                - link "Accessibility Help" [ref=f16e18] [cursor=pointer]:
+                  - /url: https://www.bbc.co.uk/accessibility/
+          - generic [ref=f16e19]:
+            - list [ref=f16e20]:
+              - listitem [ref=f16e21]:
+                - generic [ref=f16e22]:
+                  - link:
+                    - /url: https://account.bbc.com/account?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Ffood%2Frecipes%2Fbanoffee_pie_39050
+                    - generic: Your account
+            - list [ref=f16e30]:
+              - listitem [ref=f16e31]:
+                - link "Home" [ref=f16e32] [cursor=pointer]:
+                  - /url: https://www.bbc.com
+              - listitem [ref=f16e33]:
+                - link "News" [ref=f16e34] [cursor=pointer]:
+                  - /url: https://www.bbc.com/news
+              - listitem [ref=f16e35]:
+                - link "Sport" [ref=f16e36] [cursor=pointer]:
+                  - /url: https://www.bbc.com/sport
+              - listitem [ref=f16e37]:
+                - link "Earth" [ref=f16e38] [cursor=pointer]:
+                  - /url: https://www.bbc.com/future/earth
+              - listitem [ref=f16e39]:
+                - link "Reel" [ref=f16e40] [cursor=pointer]:
+                  - /url: https://www.bbc.com/reel
+              - listitem [ref=f16e41]:
+                - link "Worklife" [ref=f16e42] [cursor=pointer]:
+                  - /url: https://www.bbc.com/worklife
+              - listitem [ref=f16e43]:
+                - link "Travel" [ref=f16e44] [cursor=pointer]:
+                  - /url: https://www.bbc.com/travel
+            - button "More menu" [ref=f16e46] [cursor=pointer]
+          - search "Search BBC" [ref=f16e53]:
+            - link "Search BBC" [ref=f16e54] [cursor=pointer]:
+              - /url: https://www.bbc.com/search
+      - generic [ref=f16e59]:
+        - link "BBC Food" [ref=f16e64] [cursor=pointer]:
+          - /url: /food
+        - navigation "BBC Food" [ref=f16e68]:
+          - generic [ref=f16e72]:
+            - list [ref=f16e74]:
+              - listitem [ref=f16e75]:
+                - link "Home" [ref=f16e76] [cursor=pointer]:
+                  - /url: /food
+              - listitem [ref=f16e78]:
+                - link "Recipes" [ref=f16e79] [cursor=pointer]:
+                  - /url: /food/recipes
+              - listitem [ref=f16e81]:
+                - link "Budget Recipes" [ref=f16e82] [cursor=pointer]:
+                  - /url: /food/budget
+              - listitem [ref=f16e84]:
+                - link "Chefs" [ref=f16e85] [cursor=pointer]:
+                  - /url: /food/chefs
+              - listitem [ref=f16e87]:
+                - link "Stories" [ref=f16e88] [cursor=pointer]:
+                  - /url: /food/articles
+              - listitem [ref=f16e90]:
+                - link "Diets" [ref=f16e91] [cursor=pointer]:
+                  - /url: /food/diets
+              - listitem [ref=f16e93]:
+                - link "Programmes" [ref=f16e94] [cursor=pointer]:
+                  - /url: /food/programmes
+              - listitem [ref=f16e96]:
+                - link "How to Cook" [ref=f16e97] [cursor=pointer]:
+                  - /url: /food/how_to_cook
+              - listitem [ref=f16e99]:
+                - link "My Food" [ref=f16e100] [cursor=pointer]:
+                  - /url: /food/my/favourites
+            - button [ref=f16e103] [cursor=pointer]
+      - generic [ref=f16e110]:
+        - combobox [ref=f16e114]
+        - button "Search" [ref=f16e115]
+    - main [ref=f16e122]:
+      - generic [ref=f16e126]:
+        - heading "404 Crumbs, we can't find this page" [level=1] [ref=f16e127]:
+          - generic [ref=f16e128]: "404"
+          - text: Crumbs, we can't find this page
+        - generic [ref=f16e129]:
+          - paragraph [ref=f16e130]: That page has disappeared into the back of the cupboard. Please double-check the URL in case any vital bits have been left out.
+          - paragraph [ref=f16e131]: "Or try searching for one of our other recipes using the search box above. Most people are looking for:"
+          - list [ref=f16e133]:
+            - listitem [ref=f16e134]:
+              - link "Pancakes" [ref=f16e135] [cursor=pointer]:
+                - /url: https://www.bbc.co.uk/food/recipes/fluffyamericanpancak_74828
+            - listitem [ref=f16e136]:
+              - link "Spaghetti bolognese" [ref=f16e137] [cursor=pointer]:
+                - /url: https://www.bbc.co.uk/food/recipes/easy_spaghetti_bolognese_93639
+            - listitem [ref=f16e138]:
+              - link "Chilli con carne" [ref=f16e139] [cursor=pointer]:
+                - /url: https://www.bbc.co.uk/food/recipes/chilliconcarne_67875
+            - listitem [ref=f16e140]:
+              - link "Yorkshire puddings" [ref=f16e141] [cursor=pointer]:
+                - /url: https://www.bbc.co.uk/food/recipes/yorkshire_pudding_69240
+            - listitem [ref=f16e142]:
+              - link "Chocolate cake" [ref=f16e143] [cursor=pointer]:
+                - /url: https://www.bbc.co.uk/food/recipes/easy_chocolate_cake_31070
+          - paragraph [ref=f16e144]:
+            - text: Or, please visit
+            - link "BBC Food Homepage" [ref=f16e145] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/food
+  - contentinfo [ref=f16e148]:
+    - list [ref=f16e154]:
+      - listitem [ref=f16e155]:
+        - generic [ref=f16e157]:
+          - link [ref=f16e160] [cursor=pointer]:
+            - /url: https://www.instagram.com/bbcfood/?hl=en
+            - paragraph [ref=f16e162]: Instagram
+          - img "Instagram Logo" [ref=f16e167]
+      - listitem [ref=f16e168]:
+        - generic [ref=f16e170]:
+          - link [ref=f16e173] [cursor=pointer]:
+            - /url: https://www.facebook.com/bbcfood
+            - paragraph [ref=f16e175]: Facebook
+          - img "Facebook Logo" [ref=f16e180]
+      - listitem [ref=f16e181]:
+        - generic [ref=f16e183]:
+          - link [ref=f16e186] [cursor=pointer]:
+            - /url: https://www.pinterest.co.uk/bbcfood/
+            - paragraph [ref=f16e188]: Pinterest
+          - img "Pinterest Logo" [ref=f16e193]
+    - list [ref=f16e197]:
+      - listitem [ref=f16e198]:
+        - link "FAQs about BBC Food" [ref=f16e199] [cursor=pointer]:
+          - /url: /food/faqs
+    - generic [ref=f16e202]:
+      - list [ref=f16e203]:
+        - listitem [ref=f16e204]:
+          - link "Home" [ref=f16e205] [cursor=pointer]:
+            - /url: https://www.bbc.com
+        - listitem [ref=f16e206]:
+          - link "News" [ref=f16e207] [cursor=pointer]:
+            - /url: https://www.bbc.com/news
+        - listitem [ref=f16e208]:
+          - link "Sport" [ref=f16e209] [cursor=pointer]:
+            - /url: https://www.bbc.com/sport
+        - listitem [ref=f16e210]:
+          - link "Earth" [ref=f16e211] [cursor=pointer]:
+            - /url: https://www.bbc.com/future/earth
+        - listitem [ref=f16e212]:
+          - link "Reel" [ref=f16e213] [cursor=pointer]:
+            - /url: https://www.bbc.com/reel
+        - listitem [ref=f16e214]:
+          - link "Worklife" [ref=f16e215] [cursor=pointer]:
+            - /url: https://www.bbc.com/worklife
+        - listitem [ref=f16e216]:
+          - link "Travel" [ref=f16e217] [cursor=pointer]:
+            - /url: https://www.bbc.com/travel
+        - listitem [ref=f16e218]:
+          - link "Culture" [ref=f16e219] [cursor=pointer]:
+            - /url: https://www.bbc.com/culture
+        - listitem [ref=f16e220]:
+          - link "Future" [ref=f16e221] [cursor=pointer]:
+            - /url: https://www.bbc.com/future
+        - listitem [ref=f16e222]:
+          - link "Music" [ref=f16e223] [cursor=pointer]:
+            - /url: https://www.bbc.com/culture/music
+        - listitem [ref=f16e224]:
+          - link "TV" [ref=f16e225] [cursor=pointer]:
+            - /url: https://www.bbc.co.uk/schedules/p00fzl9m
+        - listitem [ref=f16e226]:
+          - link "Weather" [ref=f16e227] [cursor=pointer]:
+            - /url: https://www.bbc.com/weather
+        - listitem [ref=f16e228]:
+          - link "Sounds" [ref=f16e229] [cursor=pointer]:
+            - /url: https://www.bbc.co.uk/sounds
+      - generic [ref=f16e230]:
+        - list [ref=f16e232]:
+          - listitem [ref=f16e233]:
+            - link "Terms of Use" [ref=f16e234] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/usingthebbc/terms
+          - listitem [ref=f16e235]:
+            - link "About the BBC" [ref=f16e236] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/aboutthebbc
+          - listitem [ref=f16e237]:
+            - link "Privacy Policy" [ref=f16e238] [cursor=pointer]:
+              - /url: https://www.bbc.com/usingthebbc/privacy
+          - listitem [ref=f16e239]:
+            - link "Cookies" [ref=f16e240] [cursor=pointer]:
+              - /url: https://www.bbc.com/usingthebbc/cookies
+          - listitem [ref=f16e241]:
+            - link "Accessibility Help" [ref=f16e242] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/accessibility
+          - listitem [ref=f16e243]:
+            - link "Parental Guidance" [ref=f16e244] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/iplayer/guidance
+          - listitem [ref=f16e245]:
+            - link "Contact the BBC" [ref=f16e246] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/contact
+          - listitem [ref=f16e247]:
+            - link "BBC emails for you" [ref=f16e248] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/bbcnewsletter
+          - listitem [ref=f16e249]:
+            - link "Advertise with us" [ref=f16e250] [cursor=pointer]:
+              - /url: https://www.bbc.com/advertisingcontact/
+          - listitem [ref=f16e251]:
+            - button "Do not share or sell my info" [ref=f16e252] [cursor=pointer]
+        - paragraph [ref=f16e253]:
+          - text: Copyright © 2026 BBC. The BBC is not responsible for the content of external sites.
+          - link "Read about our approach to external linking." [ref=f16e254] [cursor=pointer]:
+            - /url: https://www.bbc.co.uk/editorialguidelines/guidance/links-and-feeds
